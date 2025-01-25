@@ -2,6 +2,8 @@
 
 This repository includes material prepared for my lectures at the [PhD in Quantitative Methods for Economic Policy](https://economiaediritto.unimc.it/en/research/phd-programme-and-research-grants/PhD-MQPE), held in Macerata on February 3-4, 2025.
 
+**WARNING: WORK IN PROGRESS** :wrench:
+
 ## Table of Contents
 
 - [A1 Introduction to endogenous money](A1_Introduction_to_Endogenous_Money)
