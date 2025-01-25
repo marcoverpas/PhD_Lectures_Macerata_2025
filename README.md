@@ -64,7 +64,7 @@ src="https://github.com/marcoverpas/figures/blob/main/circuit_scheme.jpg" width=
 
 ## A5_Implementing_a_SFC_Model_in_R
 
-... [stress implications of economic policy]
+... (stress implications of economic policy) (create interactive models)
 
 
 
