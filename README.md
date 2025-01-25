@@ -21,7 +21,25 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 
 ## A1_Introduction_to_Endogenous_Money
 
-...
+The (Italian) [Theory of the Monetary Circuit](https://en.wikipedia.org/wiki/Monetary_circuit_theory) (TMC) is the culmination of a research line initiated by Augusto Graziani in the late 1970s, but only fully developed during the following decade. The TMC offers an original reinterpretation of some of the most significant aspects of Karl Marx's analysis, which resembles heterodox monetary views within the history of 20th-century economic thought.
+
+This perspective draws on a subterranean strand of studies originating from Knut Wicksell's *Interest and Prices* (1898), progressing through the Swedish School and the works of Hahn and Robertson, and culminating in Schumpeter's monetary works and Keynes's *Treatise on Money* (1930). However, it is primarily to the works of certain French authors, notably Jaques Le Bourva and especially Bernard Schmitt, that the first attempt to construct a general macro-monetary theory, as an alternative and rival to traditional doctrine, can be attributed.
+
+It is no secret that the authors cited differ, sometimes radically, in their approaches. Nonetheless, Graziani's research programme demonstrates that divergences are less significant than the shared aspects. The latter, if carefully interpreted and integrated, are sufficient to form a coherent theoretical framework that constitutes the embryonic stage of a monetary theory of capitalist production.
+
+A foundational analytical premise of this framework is the assimilation of Keynes's category of 'finance' with Marx's concept of 'money capital', which assigns a central role to the relationship between money and production within the economic process. This approach enables a depiction of the functioning of capitalist market economies as a circular sequence of interconnected phases. The sequence begins with the granting of bank credit to non-financial firms, which provides them with the purchasing power needed to acquire labour for production. The monetary circuit is only completed when firms realise the value of their production in monetary terms, repay their debts to banks, and distribute the net product between profits and interest.
+
+The methodological and theoretical presuppositions of the TMC include:
+
+1. the rejection of so-called methodological individualism in favour of an analysis that explicitly considers the hierarchy and differing roles of economic agents;
+
+1. the adoption of a sequential analytical approach, in contrast to the neoclassical model of simultaneous equilibrium;
+  
+1. the principle of the endogenous determination of the money within the economic system;
+  
+1. lastly, the rejection of the neoclassical theory of income distribution.
+
+Based on these presuppositions, the main purpose of the TMC is to identify the logical phases of the process of creation, destruction and circulation of money in a capitalist economy, inhabited by different and opposed social classes.
 
 
 ## A2_Presuppositions
