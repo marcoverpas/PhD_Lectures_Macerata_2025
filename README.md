@@ -11,7 +11,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [B5 Experiments](#5_Experiments)
 - [B6 Suggested readings](#6_Suggested_readings)
 
-## B1_Introduction
+## B1_Introduction_to_SFC_Models
 
 Stock-Flow Consistent (SFC) models have gained traction in the last three decades, finding applications in empirical macroeconomic research by institutions like the [Bank of England](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2016/a-dynamic-model-of-financial-balances-for-the-uk) and the [Italian Ministry of Economy and Finance](https://www.sciencedirect.com/science/article/abs/pii/S0264999322003509).
 
