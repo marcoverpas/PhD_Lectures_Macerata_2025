@@ -59,7 +59,7 @@ Based on these presuppositions, the main purpose of the TMC is to identify the l
 
 ## A5_Implementing_a_SFC_Model_in_R
 
-...
+... [stress implications of economic policy]
 
 
 
