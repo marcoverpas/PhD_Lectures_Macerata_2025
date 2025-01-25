@@ -51,6 +51,11 @@ Based on these presuppositions, the main purpose of the TMC is to identify the l
 
 ...
 
+<figure>
+<img
+src="https://github.com/marcoverpas/figures/blob/main/circuit_scheme.jpg" width="800">
+</figure>
+
 
 ## A4_On_some_misconceptions
 
