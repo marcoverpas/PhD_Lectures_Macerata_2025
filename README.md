@@ -4,6 +4,11 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 
 ## Table of Contents
 
+- [Introduction to endogenous money](A1_Introduction_to_Endogenous_Money)
+- [Presuppositions of the TMC](A2_Presuppositions)
+- [A simple TMC model](A3_A_Simple_TMC_Model)
+- [On some misconceptions surrounding the TMC](A4_On_some_misconceptions)
+- [Implementing a TMC model in R](A4_Implementing_a_SFC_Model_in_R)
 - [B1 Introduction to SFC models](#B1_Introduction)
 - [B2 Model PC](#2_Model_PC)
 - [B3 Model IO-PC](#3_Model_IO-PC)
@@ -11,15 +16,64 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [B5 Experiments](#5_Experiments)
 - [B6 Suggested readings](#6_Suggested_readings)
 
+
+## A1_Introduction_to_Endogenous_Money
+
+...
+
+
+## A2_Presuppositions
+
+...
+
+
+## A3_A_Simple_TMC_Model
+
+...
+
+
+## A4_On_some_misconceptions
+
+...
+
+
+## A5_Implementing_a_SFC_Model_in_R
+
+...
+
+
+
 ## B1_Introduction_to_SFC_Models
 
-Stock-Flow Consistent (SFC) models have gained traction in the last three decades, finding applications in empirical macroeconomic research by institutions like the [Bank of England](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2016/a-dynamic-model-of-financial-balances-for-the-uk) and the [Italian Ministry of Economy and Finance](https://www.sciencedirect.com/science/article/abs/pii/S0264999322003509).
+In the last three decades, macroeconomic modelling has been dominated by Dynamic Stochastic General Equilibrium (DSGE) models. However, dissatisfaction with these models has been growing since the mid-2000s. Three primary weaknesses have been identified in DSGE models: unrealistic assumptions, a limited range of considerations, and poor data fit.
+
+In response to these shortcomings, alternative models have emerged, aiming to address specific deficiencies. Computable General Equilibrium (CGE) models allow for broadening the scope but usually share key neoclassical assumptions with DSGE models. Leontief-like Input-Output (IO) models provide more room for a sound analysis of cross-industry interdependencies and the role of aggregate demand, but they still face limitations (as these models are static in nature, and their coverage of financial aspects is usually quite limited). Heterogeneous agent-based models, network analysis, and other complexity models offer novel perspectives. Lastly, Stock-Flow Consistent (SFC) models have gained traction, finding applications in empirical macroeconomic research by institutions like the [Bank of England](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2016/a-dynamic-model-of-financial-balances-for-the-uk) and the [Italian Ministry of Economy and Finance](https://www.sciencedirect.com/science/article/abs/pii/S0264999322003509).
 
 The resurgence of interest in SFC models can be traced back to Wynne Godley's [successful predictions](https://www.levyinstitute.org/publications/seven-unsustainable-processes) of the U.S. crises in 2001 and 2007. Godley's work laid the foundation for modern SFC modelling. These models, rooted in national accounts and flow of funds, integrate financial and real aspects of the economy, allowing for the identification of unsustainable processes.
 
-Over the last decade, SFC models have evolved into various forms, including Open-Economy or Multi-Area SFC models (MA-SFC), Ecological SFC models (ECO-SFC), Interacting Heterogeneous Agent-Based SFC models (AB-SFC), Input-output SFC Models (IO-SFC), and Empirical SFC Models (E-SFC).
+SFC models are akin to 'system dynamics' models, analysing complex systems over time, tracking flows, stocks, and utilising feedback loops. Basic SFC models have evolved into various forms, including Open-Economy or Multi-Area SFC models (MA-SFC), Ecological SFC models (ECO-SFC), Interacting Heterogeneous Agent-Based SFC models (AB-SFC), Input-output SFC Models (IO-SFC), and Empirical SFC Models (E-SFC).
 
-The aim of this lecture is to provide a simple introduction to IO- and ECO-SFC models by using a hand-on approach. For a theoretical introduction to SFC model, please refer to [Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3) by W. Godley and M. Lavoie. For additional `R` toy models and a more accurate description of them, see my [six lectures on SFC models](https://github.com/marcoverpas/Six_lectures_on_sfc_models).
+Crucially, SFC models adhere to four accounting principles: flow consistency, stock consistency, stock-flow consistency, and quadruple book-keeping. The economy is represented by accounting matrices, identities reflecting the System of National Accounts, and dynamic equations defining the behaviour of each sector (usually based on rules of thumb and stock-flow norms).
+
+Standard SFC models typically fall within the range of medium-scale macro-econometric dynamic models. These models are commonly formulated in discrete time using difference equations. However, continuous-time formulations using differential equations are also employed. 
+
+The simplicity or complexity of SFC models dictates the approach to solving them. The simplest models, featuring a limited number of equations, can be solved analytically by finding steady-state solutions. These solutions provide insights into the long-term behaviour of the model. More advanced SFC models, characterised by increased complexity and a larger number of equations, necessitate computational methods. Computer simulations become essential for understanding the dynamic interactions within the system. Numerical techniques, such as iterative methods, are employed to capture the intricate dynamics of these models.
+
+![fig_lang](https://raw.githubusercontent.com/marcoverpas/figures/main/languages.png)
+
+Coefficients in SFC models play a crucial role in shaping model behaviour. Researchers have several options for determining these coefficients:
+
+a) Fine-tuning: coefficients can be fine-tuned to achieve specific baseline scenarios, drawing insights from previous studies or selecting values from a reasonable range.
+
+b) Calibration: researchers may calibrate coefficients to match the model's predictions with observed data, aligning the model with real-world economic conditions.
+
+c) Estimation: econometric methods, including Ordinary Least Squares (OLS) and cointegration techniques, enable the estimation of coefficients from observed data, enhancing the model's empirical relevance.
+
+Unlike DSGE models, which often rely on a unified platform like `Dynare`, SFC modeling lacks a universally adopted program. The pioneering codes used in Godley and Lavoie's work were developed by [Gennaro Zezza](https://gennaro.zezza.it/software/eviews/gl2006.php) using `EViews` and `Excel`. However, the landscape has evolved over time. [R](https://www.r-project.org/) ([RStudio](https://posit.co/blog/rstudio-new-open-source-ide-for-r/)) has become the predominant programming environment for SFC modeling, owing to its flexibility and extensive capabilities. Dedicated `R` packages such as [SFCR](https://joaomacalos.github.io/sfcr/index.html) and [Godley](https://github.com/gamrot/godley/) provide specialized tools for SFC modeling. Additionally, [Bimets](https://github.com/andrea-luciani) offers a platform for empirical SFC model development. Alternative programming languages, including [MATLAB](https://github.com/marcoverpas/SFC-models-Matlab) (with or without `Dynare`), `Mathematica`, [Python](https://github.com/marcoverpas/SFC-models-Jupyter), and `Julia`, find applications in SFC modeling, particularly for creating agent-based SFC models. [Minsky](https://www.kickstarter.com/projects/2123355930/minsky-reforming-economics-with-visual-monetary-mo), a software package developed by Steve Keen, stands out as a tool for visually modeling macroeconomic system dynamics.
+
+Summing up, while there are many online resources today for those interested in engaging with SFC modeling, the community of SFC modelers lacks a portal that consolidates the produced material, which is abundant but still scattered.
+
+The aim of this set of lectures is to provide a simple introduction to IO- and ECO-SFC models by using a hand-on approach. For a theoretical introduction to SFC model, please refer to [Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3) by W. Godley and M. Lavoie. 
 
 ## B2_Model_PC
 
