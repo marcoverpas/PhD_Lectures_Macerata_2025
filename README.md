@@ -230,7 +230,7 @@ market flows back to the firms.
     <td>-950€ deposits</td>
     <td>-950€ loans </td>
 </tr>
-    <td> 50€ deposits </td>
+    <td>   </td>
     <td> 50€ loans </td>    
 </tr>
   </table>
