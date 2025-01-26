@@ -6,7 +6,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 
 ## Table of Contents
 
-- [A1 Introduction to endogenous money](A1_Introduction_to_Endogenous_Money)
+- [A1 The endogenous money view](A1_The_Endogenous_Money_View)
 - [A2 Presuppositions of the TMC](A2_Presuppositions)
 - [A3 A simple TMC model](A3_A_Simple_TMC_Model)
 - [A4 On some misconceptions surrounding the TMC](A4_On_some_misconceptions)
@@ -19,7 +19,9 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [B6 Suggested readings](#6_Suggested_readings)
 
 
-## A1_Introduction_to_Endogenous_Money
+## A1_The_Endogenous_Money_View
+
+### Introduction
 
 The (Italian) [Theory of the Monetary Circuit](https://en.wikipedia.org/wiki/Monetary_circuit_theory) (TMC) is the culmination of a research line initiated by Augusto Graziani in the late 1970s, but only fully developed during the following decade. The TMC offers an original reinterpretation of some of the most significant aspects of Karl Marx's analysis, which resembles heterodox monetary views within the history of 20th-century economic thought.
 
@@ -40,6 +42,10 @@ The methodological and theoretical presuppositions of the TMC include:
 1. lastly, the rejection of the neoclassical theory of income distribution.
 
 Based on these presuppositions, the main purpose of the TMC is to identify the logical phases of the process of creation, destruction and circulation of money in a capitalist economy, inhabited by different and opposed social classes.
+
+### Exogenous_vs-theories_of_money
+
+(...)
 
 
 ## A2_Presuppositions
