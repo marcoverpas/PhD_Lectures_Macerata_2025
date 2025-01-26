@@ -108,7 +108,7 @@ The the simplest version of the monetary circuit, only four agents are considere
   </tr>
   <tr>
     <td>1000€ deposits</td>
-    <td> </td>
+    <td>              </td>
   </tr>
 </table>
 
