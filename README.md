@@ -1,4 +1,4 @@
-# The Theory of the Monetary Circuit and Stock-Flow Consistent Models in Economics - PhD Lectures, University of Macerata, 2025.
+# The Theory of the Monetary Circuit and Stock-Flow Consistent Models in Economics 
 
 This repository includes material prepared for my lectures at the [PhD in Quantitative Methods for Economic Policy](https://economiaediritto.unimc.it/en/research/phd-programme-and-research-grants/PhD-MQPE), University of Macerata, February 3-4, 2025.
 
