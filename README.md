@@ -44,7 +44,7 @@ Based on these presuppositions, the main purpose of the TMC is to identify the l
 
 ## A2_Presuppositions
 
-For Graziani (2006, pp. 25-26) the main theoretical presuppositions of the TMC are:
+According to Graziani (2006, pp. 25-26) the main theoretical presuppositions of the TMC are:
 
 1. Money is in the nature of credit money (bank credit).
 
