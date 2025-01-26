@@ -16,7 +16,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [B3 Model IO-PC](#3_Model_IO-PC)
 - [B4 Model ECO-IO-PC](#4_Model_ECO-IO-PC)
 - [B5 Experiments](#5_Experiments)
-- [Suggested readings](#_Suggested_readings)
+- [Suggested readings](#Suggested_readings)
 
 
 ## A1_The_Endogenous_Money_View
