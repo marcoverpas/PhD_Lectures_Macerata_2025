@@ -71,7 +71,17 @@ If firms are considered as one integrated and consolidated sector, the only purc
 
 ...
 
- 
+:factory:
+
+...
+
+:hamburger:
+
+...
+
+:bank:
+
+...
 
 <figure>
 <img
