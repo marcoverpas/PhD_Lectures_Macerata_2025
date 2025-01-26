@@ -102,7 +102,21 @@ The the simplest version of the monetary circuit, only four agents are considere
   </tr>
   </table>
 
-
+<table>
+  <tr>
+    <th colspan="2">Firms</th>
+  </tr>
+  <tr>
+    <td>1000€ loans </td>
+    <td>1000€ deposits </td>
+  </tr>
+    <td>                 </td>
+    <td> -1000€ deposits </td>
+</tr>
+    <td>                 </td>
+    <td> +1000€ deposits </td>  
+</tr>
+  </table>
 
 
 :hamburger: **Step 3: sales on the goods market**. Goods produced are put on sale. Consumer goods are sold to wage earners, while investment goods are exchanged inside the firms sector. The money that wage earners spend in the goods
