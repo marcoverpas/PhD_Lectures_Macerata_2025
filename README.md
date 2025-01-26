@@ -179,7 +179,7 @@ market flows back to the firms.
 </tr>
   </table>
 
-:chart_with_upwards_trend: **Step 4: portfolio investment**. The money that wage earners spend in the financial market on the purchase of securities flows back to the firms.
+:chart_with_upwards_trend: **Step 4: portfolio investment**. The money that wage earners spend in the financial market on the purchase of private securities flows back to the firms.
 
 <table>
   <tr>
@@ -223,7 +223,7 @@ market flows back to the firms.
 </tr>
   </table>
 
-:bank: **Step 5: money destruction**. Firms use the money spent by the wage earners on the markets to repay their bank debt. To the extent that bank debts are repaid, an equal amount of money is destroyed. To the extent instead that wage earners use their money to increase their own deposit holdings (or cash balances), an equal amount of money remains in existence in the form of firms' debt and wage earners' credit towards the banks.
+:bank: **Step 5: money destruction**. Firms use the money spent by the wage earners on the markets to repay their bank debt. To the extent that bank debts are repaid, an equal amount of money is destroyed. To the extent instead that wage earners use their money to increase their own deposit holdings (or cash balances or government debt holdings), an equal amount of money remains in existence in the form of firms' debt and wage earners' credit towards the banks.
 
 <table>
   <tr>
