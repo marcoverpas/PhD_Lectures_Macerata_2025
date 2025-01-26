@@ -16,7 +16,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [B3 Model IO-PC](#3_Model_IO-PC)
 - [B4 Model ECO-IO-PC](#4_Model_ECO-IO-PC)
 - [B5 Experiments](#5_Experiments)
-- [B6 Suggested readings](#6_Suggested_readings)
+- [Suggested readings](#_Suggested_readings)
 
 
 ## A1_The_Endogenous_Money_View
@@ -746,7 +746,9 @@ src="https://github.com/marcoverpas/figures/blob/main/eco_plot_2.png" width="800
 
 The figures above show that, while a higher sensitivity of consumption to an increase in temperature leads to an initial reduction in economic activity and environmental impacts, the situation reverses in the long run. This is because the private sector accumulates a higher stock of government bills, which, in turn, implies a higher flow of interest payments and thus a higher disposable income in the long run. Note that the level of the interest rate becomes a crucial variable for the determination of such rebound effects. 
 
-## B6_Suggested_readings
+## Suggested_readings
+
+1. *The 'bible' of the theory of the monetary circuit*: Graziani A. [The Monetary Theory of Production](https://www.cambridge.org/core/books/monetary-theory-of-production/A813BE586E79CDF0DE7C3D930DBF632F), Cambridge University Press.
 
 1. *The cookbook of SFC economic theory and modelling*: Godley W. and Lavoie M. (2007) [Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3), Palgrave Macmillan, Basingstoke.
 
