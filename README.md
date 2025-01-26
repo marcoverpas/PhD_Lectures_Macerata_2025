@@ -65,7 +65,7 @@ According to Graziani (2006, pp. 25-26) the main theoretical presuppositions of 
 
 The the simplest version of the monetary circuit, only four agents are considered: the central bank, commercial banks, production firms, and wage earners.
 
-**Step one: money creation**. Commercial banks to grant credit to firms, thus enabling them to start the process of production. This credit flow is denominated *initial finance*. Only frms are admitted to bank credit *at this stage* (we will discuss thoroughly this point later on).
+:bank: **Step one: money creation**. Commercial banks to grant credit to firms, thus enabling them to start the process of production. This credit flow is denominated *initial finance*. Only frms are admitted to bank credit *at this stage* (we will discuss thoroughly this point later on).
 
 If firms are considered as one integrated and consolidated sector, the only purchase they have to make is that of labour-force. Therefore, their only payment is the wage bill.
 
