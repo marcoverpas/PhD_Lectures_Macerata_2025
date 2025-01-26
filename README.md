@@ -67,13 +67,9 @@ The the simplest version of the monetary circuit, only four agents are considere
 
 :bank: **Step 1: money creation**. Commercial banks to grant credit to firms, thus enabling them to start the process of production. This credit flow is denominated *initial finance*. Only frms are admitted to bank credit *at this stage* (we will discuss thoroughly this point later on). If firms are considered as one integrated and consolidated sector, the only purchase they have to make is that of labour-force. Therefore, their only payment is the wage bill. As a result, the wage policy of the firms ultimately depends on the credit policy of the banks.
 
-|                 Firms                 |
+|                        Firms                       |
 |-------------------|-------------------|
 | 1000€ deposits    | 1000€ loans       |
-
-|                 Banks                 |
-|-------------------|-------------------|
-| 1000€ loans       | 1000€ deposits    |
 
 
 :factory: **Step 2: production and money circulation**. Firms autonomously decide both the employment level and the amount of consumer goods and investment goods produced. Wage earners can only decide how to distribute their money income between consumption and saving, and how to allocate their saving, which can take the form of either bank deposits or securities (here only private securities).
