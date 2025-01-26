@@ -69,13 +69,23 @@ The the simplest version of the monetary circuit, only four agents are considere
 
 If firms are considered as one integrated and consolidated sector, the only purchase they have to make is that of labour-force. Therefore, their only payment is the wage bill.
 
-...
+As a result, the wage policy of the firms ultimately depends on the credit policy of the banks.
 
-:factory:
+:factory: **Step two: production and expenditure**. Firms autonomously decide both the employment level and the amount of consumer goods and investment goods produced. Wage earners can only decide how to distribute their money
+income between consumption and saving, and how to allocate their saving, which can take the form of either bank deposits or securities (here only private securities).
 
-...
+:hamburger: **Step three: sales on the goods market**. Goods produced are put on sale. Consumer goods are sold to wage earners, while investment goods are exchanged inside the firms sector. The money that wage earners spend in the goods
+market flows back to the firms.
 
-:hamburger:
+
+
+as well as money spent in the financial market on the
+purchase of securities,, who can use
+it to repay their bank debt. To the extent that bank debts are repaid, an equal amount of money is destroyed. To the extent
+instead that wage earners use their money to increase their
+own cash balances, an equal amount of money remains in
+existence in the form of firms’ debt and wage earners’ credit
+towards the banks.
 
 ...
 
