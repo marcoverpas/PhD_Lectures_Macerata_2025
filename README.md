@@ -65,17 +65,17 @@ According to Graziani (2006, pp. 25-26) the main theoretical presuppositions of 
 
 The the simplest version of the monetary circuit, only four agents are considered: the central bank, commercial banks, production firms, and wage earners.
 
-:bank: **Step one: money creation**. Commercial banks to grant credit to firms, thus enabling them to start the process of production. This credit flow is denominated *initial finance*. Only frms are admitted to bank credit *at this stage* (we will discuss thoroughly this point later on). If firms are considered as one integrated and consolidated sector, the only purchase they have to make is that of labour-force. Therefore, their only payment is the wage bill. As a result, the wage policy of the firms ultimately depends on the credit policy of the banks.
+:bank: **Step 1: money creation**. Commercial banks to grant credit to firms, thus enabling them to start the process of production. This credit flow is denominated *initial finance*. Only frms are admitted to bank credit *at this stage* (we will discuss thoroughly this point later on). If firms are considered as one integrated and consolidated sector, the only purchase they have to make is that of labour-force. Therefore, their only payment is the wage bill. As a result, the wage policy of the firms ultimately depends on the credit policy of the banks.
 
-:factory: **Step two: production and money circulation**. Firms autonomously decide both the employment level and the amount of consumer goods and investment goods produced. Wage earners can only decide how to distribute their money
+:factory: **Step 2: production and money circulation**. Firms autonomously decide both the employment level and the amount of consumer goods and investment goods produced. Wage earners can only decide how to distribute their money
 income between consumption and saving, and how to allocate their saving, which can take the form of either bank deposits or securities (here only private securities).
 
-:hamburger: **Step three: sales on the goods market**. Goods produced are put on sale. Consumer goods are sold to wage earners, while investment goods are exchanged inside the firms sector. The money that wage earners spend in the goods
+:hamburger: **Step 3: sales on the goods market**. Goods produced are put on sale. Consumer goods are sold to wage earners, while investment goods are exchanged inside the firms sector. The money that wage earners spend in the goods
 market flows back to the firms.
 
-:chart_with_upwards_trend: **Step four: portfolio investment**. The money that wage earners spend in the financial market on the purchase of securities flows back to the firms.
+:chart_with_upwards_trend: **Step 4: portfolio investment**. The money that wage earners spend in the financial market on the purchase of securities flows back to the firms.
 
-:bank: **Step five: money destruction**. Firms use the money spent by the wage earners on the markets to repay their bank debt. To the extent that bank debts are repaid, an equal amount of money is destroyed. To the extent instead that wage earners use their money to increase their own deposit holdings (or cash balances), an equal amount of money remains in existence in the form of firms' debt and wage earners' credit towards the banks.
+:bank: **Step 5: money destruction**. Firms use the money spent by the wage earners on the markets to repay their bank debt. To the extent that bank debts are repaid, an equal amount of money is destroyed. To the extent instead that wage earners use their money to increase their own deposit holdings (or cash balances), an equal amount of money remains in existence in the form of firms' debt and wage earners' credit towards the banks.
 
 
 ...
