@@ -107,7 +107,7 @@ The the simplest version of the monetary circuit, only four agents are considere
     <th colspan="2">Wage earners</th>
   </tr>
   <tr>
-    <td width="200">1000€ deposits</td>
+    <td width="200">+1000€ deposits</td>
     <td width="200">              </td>
   </tr>
 </table>
@@ -128,9 +128,37 @@ The the simplest version of the monetary circuit, only four agents are considere
 </tr>
   </table>
 
-
 :hamburger: **Step 3: sales on the goods market**. Goods produced are put on sale. Consumer goods are sold to wage earners, while investment goods are exchanged inside the firms sector. The money that wage earners spend in the goods
 market flows back to the firms.
+
+<table>
+  <tr>
+    <th colspan="2">Firms</th>
+  </tr>
+  <tr>
+    <td width="200"> </td>
+    <td width="200">1000€ loans</td>
+  </tr>
+    <td>+800€ deposits</td>
+    <td> </td>
+  </tr>
+  </table>
+
+<table>
+  <tr>
+    <th colspan="2">Wage earners</th>
+  </tr>
+  <tr>
+    <td width="200"> 1000€ deposits</td>
+    <td width="200"> </td>
+  </tr>
+    <td>-800€ deposits</td>
+    <td> </td>
+  </tr>
+  </table>
+
+
+
 
 :chart_with_upwards_trend: **Step 4: portfolio investment**. The money that wage earners spend in the financial market on the purchase of securities flows back to the firms.
 
