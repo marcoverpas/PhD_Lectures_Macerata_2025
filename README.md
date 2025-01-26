@@ -261,7 +261,7 @@ market flows back to the firms.
 </tr>
   </table>
 
-...
+A representation of the basic monetary circuit scheme is provided by the figure below. (...)
 
 
 <figure>
