@@ -72,6 +72,18 @@ The the simplest version of the monetary circuit, only four agents are considere
 | 1000€ deposits    | 1000€ loans       |
 
 
+<table>
+  <tr>
+    <th colspan="2">Firms</th>
+  </tr>
+  <tr>
+    <td>1000€ deposits</td>
+    <td>1000€ loans</td>
+  </tr>
+</table>
+
+
+
 :factory: **Step 2: production and money circulation**. Firms autonomously decide both the employment level and the amount of consumer goods and investment goods produced. Wage earners can only decide how to distribute their money income between consumption and saving, and how to allocate their saving, which can take the form of either bank deposits or securities (here only private securities).
 
 :hamburger: **Step 3: sales on the goods market**. Goods produced are put on sale. Consumer goods are sold to wage earners, while investment goods are exchanged inside the firms sector. The money that wage earners spend in the goods
