@@ -104,7 +104,7 @@ The the simplest version of the monetary circuit, only four agents are considere
 
 <table>
   <tr>
-    <th colspan="2">Wage earners</th>
+    <th colspan="2">Wage Earners</th>
   </tr>
   <tr>
     <td width="300">+1000€ deposits</td>
@@ -146,7 +146,7 @@ market flows back to the firms.
 
 <table>
   <tr>
-    <th colspan="2">Wage earners</th>
+    <th colspan="2">Wage Earners</th>
   </tr>
   <tr>
     <td width="300"> 1000€ deposits</td>
@@ -190,7 +190,7 @@ market flows back to the firms.
 
 <table>
   <tr>
-    <th colspan="2">Wage earners</th>
+    <th colspan="2">Wage Earners</th>
   </tr>
   <tr>
     <td width="300"> 200€ deposits</td>
@@ -237,7 +237,7 @@ market flows back to the firms.
 
 <table>
   <tr>
-    <th colspan="2">Wage earners</th>
+    <th colspan="2">Wage Earners</th>
   </tr>
   <tr>
     <td width="300"> 50€ deposits</td>
