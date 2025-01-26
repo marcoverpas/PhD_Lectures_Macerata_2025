@@ -43,7 +43,7 @@ The methodological and theoretical presuppositions of the TMC include:
 
 Based on these presuppositions, the main purpose of the TMC is to identify the logical phases of the process of creation, destruction and circulation of money in a capitalist economy, inhabited by different and opposed social classes.
 
-### Exogenous_vs-theories_of_money
+### Exogenous_vs_endogenous_theories_of_money
 
 (...)
 
