@@ -72,8 +72,8 @@ The the simplest version of the monetary circuit, only four agents are considere
     <th colspan="2">Firms</th>
   </tr>
   <tr>
-    <td width="200">1000€ deposits</td>
-    <td width="200">1000€ loans</td>
+    <td width="300">1000€ deposits</td>
+    <td width="300">1000€ loans</td>
   </tr>
 </table>
 
@@ -82,8 +82,8 @@ The the simplest version of the monetary circuit, only four agents are considere
     <th colspan="2">Banks</th>
   </tr>
   <tr>
-    <td width="200">1000€ loans</td>
-    <td width="200">1000€ deposits</td>
+    <td width="300">1000€ loans</td>
+    <td width="300">1000€ deposits (F) </td>
   </tr>
 </table>
 
@@ -94,8 +94,8 @@ The the simplest version of the monetary circuit, only four agents are considere
     <th colspan="2">Firms</th>
   </tr>
   <tr>
-    <td width="200">1000€ deposits</td>
-    <td width="200">1000€ loans</td>
+    <td width="300">1000€ deposits</td>
+    <td width="300">1000€ loans</td>
   </tr>
     <td>-1000€ deposits</td>
     <td> </td>
@@ -107,8 +107,8 @@ The the simplest version of the monetary circuit, only four agents are considere
     <th colspan="2">Wage earners</th>
   </tr>
   <tr>
-    <td width="200">+1000€ deposits</td>
-    <td width="200">              </td>
+    <td width="300">+1000€ deposits</td>
+    <td width="300">              </td>
   </tr>
 </table>
 
@@ -117,14 +117,14 @@ The the simplest version of the monetary circuit, only four agents are considere
     <th colspan="2">Banks</th>
   </tr>
   <tr>
-    <td width="200">1000€ loans </td>
-    <td width="200">1000€ deposits </td>
+    <td width="300">1000€ loans </td>
+    <td width="300">1000€ deposits </td>
   </tr>
     <td> </td>
-    <td> -1000€ deposits </td>
+    <td> -1000€ deposits (F) </td>
 </tr>
     <td> </td>
-    <td> +1000€ deposits </td>  
+    <td> +1000€ deposits (WE) </td>  
 </tr>
   </table>
 
@@ -136,8 +136,8 @@ market flows back to the firms.
     <th colspan="2">Firms</th>
   </tr>
   <tr>
-    <td width="200"> </td>
-    <td width="200">1000€ loans</td>
+    <td width="300"> </td>
+    <td width="300">1000€ loans</td>
   </tr>
     <td>+800€ deposits</td>
     <td> </td>
@@ -149,8 +149,8 @@ market flows back to the firms.
     <th colspan="2">Wage earners</th>
   </tr>
   <tr>
-    <td width="200"> 1000€ deposits</td>
-    <td width="200"> </td>
+    <td width="300"> 1000€ deposits</td>
+    <td width="300"> </td>
   </tr>
     <td>-800€ deposits</td>
     <td> </td>
@@ -162,14 +162,14 @@ market flows back to the firms.
     <th colspan="2">Banks</th>
   </tr>
   <tr>
-    <td width="200">1000€ loans </td>
-    <td width="200">1000€ deposits </td>
+    <td width="300">1000€ loans </td>
+    <td width="300">1000€ deposits </td>
   </tr>
     <td> </td>
-    <td> +800€ deposits </td>
+    <td> +800€ deposits (F) </td>
 </tr>
     <td> </td>
-    <td> -800€ deposits </td>  
+    <td> -800€ deposits (WE) </td>  
 </tr>
   </table>
 
@@ -180,8 +180,8 @@ market flows back to the firms.
     <th colspan="2">Firms</th>
   </tr>
   <tr>
-    <td width="200">800€ deposits </td>
-    <td width="200">1000€ loans</td>
+    <td width="300">800€ deposits </td>
+    <td width="300">1000€ loans</td>
   </tr>
     <td>+150€ deposits</td>
     <td> </td>
@@ -193,8 +193,8 @@ market flows back to the firms.
     <th colspan="2">Wage earners</th>
   </tr>
   <tr>
-    <td width="200"> 200€ deposits</td>
-    <td width="200"> </td>
+    <td width="300"> 200€ deposits</td>
+    <td width="300"> </td>
   </tr>
     <td>-150€ deposits</td>
     <td> </td>
@@ -206,14 +206,14 @@ market flows back to the firms.
     <th colspan="2">Banks</th>
   </tr>
   <tr>
-    <td width="200">1000€ loans </td>
-    <td width="200">1000€ deposits </td>
+    <td width="300">1000€ loans </td>
+    <td width="300">1000€ deposits </td>
   </tr>
     <td> </td>
-    <td> +150€ deposits </td>
+    <td> +150€ deposits (F) </td>
 </tr>
     <td> </td>
-    <td> -150€ deposits </td>  
+    <td> -150€ deposits (WE) </td>  
 </tr>
   </table>
 
@@ -224,8 +224,8 @@ market flows back to the firms.
     <th colspan="2">Firms</th>
   </tr>
   <tr>
-    <td width="200">950€ deposits </td>
-    <td width="200">1000€ loans</td>
+    <td width="300">950€ deposits </td>
+    <td width="300">1000€ loans</td>
   </tr>
     <td>-950€ deposits</td>
     <td>-950€ loans </td>
@@ -240,8 +240,8 @@ market flows back to the firms.
     <th colspan="2">Wage earners</th>
   </tr>
   <tr>
-    <td width="200"> 50€ deposits</td>
-    <td width="200"> </td>
+    <td width="300"> 50€ deposits</td>
+    <td width="300"> </td>
   </tr>
   </table>
 
@@ -250,14 +250,14 @@ market flows back to the firms.
     <th colspan="2">Banks</th>
   </tr>
   <tr>
-    <td width="200">1000€ loans </td>
-    <td width="200">1000€ deposits </td>
+    <td width="300">1000€ loans </td>
+    <td width="300">1000€ deposits </td>
   </tr>
     <td> -950€ loans</td>
     <td> -950€ deposits </td>
 </tr>
     <td> 50€ loans </td>
-    <td> 50€ deposits </td>  
+    <td> 50€ deposits (WE) </td>  
 </tr>
   </table>
 
