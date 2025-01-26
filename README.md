@@ -72,8 +72,8 @@ The the simplest version of the monetary circuit, only four agents are considere
     <th colspan="2">Firms</th>
   </tr>
   <tr>
-    <td>1000€ deposits</td>
-    <td>1000€ loans</td>
+    <td width="200">1000€ deposits</td>
+    <td width="200">1000€ loans</td>
   </tr>
 </table>
 
@@ -82,8 +82,8 @@ The the simplest version of the monetary circuit, only four agents are considere
     <th colspan="2">Banks</th>
   </tr>
   <tr>
-    <td>1000€ loans</td>
-    <td>1000€ deposits</td>
+    <td width="200">1000€ loans</td>
+    <td width="200">1000€ deposits</td>
   </tr>
 </table>
 
@@ -94,8 +94,8 @@ The the simplest version of the monetary circuit, only four agents are considere
     <th colspan="2">Firms</th>
   </tr>
   <tr>
-    <td>1000€ deposits</td>
-    <td>1000€ loans</td>
+    <td width="200">1000€ deposits</td>
+    <td width="200">1000€ loans</td>
   </tr>
     <td>-1000€ deposits</td>
     <td> </td>
@@ -107,8 +107,8 @@ The the simplest version of the monetary circuit, only four agents are considere
     <th colspan="2">Wage earners</th>
   </tr>
   <tr>
-    <td>1000€ deposits</td>
-    <td>              </td>
+    <td width="200">1000€ deposits</td>
+    <td width="200">              </td>
   </tr>
 </table>
 
@@ -117,8 +117,8 @@ The the simplest version of the monetary circuit, only four agents are considere
     <th colspan="2">Banks</th>
   </tr>
   <tr>
-    <td>1000€ loans </td>
-    <td>1000€ deposits </td>
+    <td width="200">1000€ loans </td>
+    <td width="200">1000€ deposits </td>
   </tr>
     <td> </td>
     <td> -1000€ deposits </td>
