@@ -157,7 +157,21 @@ market flows back to the firms.
   </tr>
   </table>
 
-
+<table>
+  <tr>
+    <th colspan="2">Banks</th>
+  </tr>
+  <tr>
+    <td width="200">1000€ loans </td>
+    <td width="200">1000€ deposits </td>
+  </tr>
+    <td> </td>
+    <td> +800€ deposits </td>
+</tr>
+    <td> </td>
+    <td> -800€ deposits </td>  
+</tr>
+  </table>
 
 
 :chart_with_upwards_trend: **Step 4: portfolio investment**. The money that wage earners spend in the financial market on the purchase of securities flows back to the firms.
