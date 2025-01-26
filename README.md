@@ -44,7 +44,21 @@ Based on these presuppositions, the main purpose of the TMC is to identify the l
 
 ## A2_Presuppositions
 
-...
+For Graziani (2006, pp. 25-26) the main theoretical presuppositions of the TMC are:
+
+1. Money is in the nature of credit money (bank credit).
+
+1. Credit money is created whenever an agent spends money granted to her by a bank and is destroyed whenever a bank credit is repaid.
+
+1. Money is an endogenous flow: it is created and injected inot the economy by means of negotiations between banks and firms.
+
+1. Class divide matters: since firms have access to bank credit at *the beginning of the circuit*, they enjoy a purchasing power that is not constrained by the level of real income (or wealth). By constrast, wage earners can only spend alread-yearned income.
+
+1. Since agents are not granted credit on the same footing, the system of relative prices reflects the way in which purchasing power has been granted to different social groups. As a consequence, money is never neutral.
+
+1. A complete theoretical analysis must explain the whole itinerary followed by money: creation, circulation, destruction. Money existence and operation can be described as a 'circuit'.
+
+1. The creation of money determines both the division of production between consumption and investment goods and the distribution of income between wages and profits. Therefore, the role of money goes far beyond that of lubricant of echanges (and store of value). To the firms, the initial access to money is the source of profits.
 
 
 ## A3_A_Simple_TMC_Model
