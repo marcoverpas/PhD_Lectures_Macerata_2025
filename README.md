@@ -98,22 +98,32 @@ The the simplest version of the monetary circuit, only four agents are considere
     <td>1000€ loans</td>
   </tr>
     <td>-1000€ deposits</td>
-    <td>               </td>
+    <td> </td>
   </tr>
   </table>
 
 <table>
   <tr>
-    <th colspan="2">Firms</th>
+    <th colspan="2">Wage earners</th>
+  </tr>
+  <tr>
+    <td>1000€ deposits</td>
+    <td> </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2">Banks</th>
   </tr>
   <tr>
     <td>1000€ loans </td>
     <td>1000€ deposits </td>
   </tr>
-    <td>                 </td>
+    <td> </td>
     <td> -1000€ deposits </td>
 </tr>
-    <td>                 </td>
+    <td> </td>
     <td> +1000€ deposits </td>  
 </tr>
   </table>
