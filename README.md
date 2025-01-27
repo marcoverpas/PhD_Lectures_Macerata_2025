@@ -432,6 +432,8 @@ where $` \lambda `$ is workers' deposit holdings to total income ratio, defined 
 
 An increase in the interest rate paid by firms on securities produces contrasting consequences, as it reduces $` \lambda `$ but increases $` r_b \cdot B `$.
 
+*Note*: for a dynamic rendition of the TMC model, see [B3 Model BMW](#B3_Model_BMW).
+
 ## A5_Policy_implications
 
 ### A5.1 Monetary policy
@@ -623,7 +625,7 @@ The model can be easily simulated by identifying the coefficients and attributin
 
 ### B3_Model_BMW
 
-This is the simplest model explicitly including commercial banks. It is developed in chapter 7 of Godley and Lavoie (2007), "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **BMW** stands for "bank-money world", because there is only one kind of financial assets: bank deposits held by households. Firms’ investment in fixed capital is funded by bank loans and amortisation funds.
+This is the simplest model explicitly including commercial banks. It is developed in chapter 7 of Godley and Lavoie (2007), "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **BMW** stands for "bank-money world", because there is only one kind of financial assets: bank deposits held by households. Firms’ investment in fixed capital is funded by bank loans and amortisation funds. This model can be regarded as the dynamic counterpart of the basic TMC (static) model. 
 
 Key assumptions are as follows:
 
@@ -640,6 +642,30 @@ Key assumptions are as follows:
 1. Fixed prices and zero net profits
 
 1. No State, no outside money (cash)
+
+In formal terms, the model is expressed by a system of 21 equations.
+
+#### B3.1 Behavioural equations and equilibrium condition
+      
+*Equation (`B.1`)* - Supply of consumption goods:
+
+$$ c_s = c_d $$
+
+*Equation (`B.2`)* - Supply of investment goods:
+$$ i_s = i_d $$
+
+*Equation (`B.3`)* - Supply of labour:
+$$ n_s = n_d $$
+        
+*Equation (`B.4`)* - Supply of loans:
+$$ l_s = l_{s,-1} + (l_d - l_{d,i-1})  $$
+
+#### B3.2 Transactions of the firms
+
+
+
+**(TO BE CONTINUED)**
+
 
 The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
