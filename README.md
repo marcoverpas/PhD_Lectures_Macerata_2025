@@ -401,15 +401,15 @@ Average real consumption of wage earners depends on both the average productivit
 
 The profit rate for the firms sector is:
 
-$$ r_f = \frac{\pi \cdot N \cdot p - (w \cdot N + \r_b \cdot B)}{w \cdot N + r_b \cdot B } = \frac{b-s}{1-b} $$
+$$ r_f = \frac{\pi \cdot N \cdot p - (w \cdot N + r_b \cdot B)}{w \cdot N + r_b \cdot B } = \frac{b-s}{1-b} $$
 
 Total (monetary) profits are:
 
-$$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N + r_b \cdot B)
+$$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N + r_b \cdot B) $$
 
 Total profits, expressed in real terms, are:
 
-$$ \frac{\Pi}{p} = = \frac{b-s}{1-b} \cdot \pi \cdot N
+$$ \frac{\Pi}{p} = = \frac{b-s}{1-b} \cdot \pi \cdot N $$
 
 ....
 
