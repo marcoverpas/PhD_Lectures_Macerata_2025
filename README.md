@@ -709,11 +709,11 @@ $$ WB_s = w \cdot N_s $$
       
 *Equation (`B.14`)* - Labour demand:
 
-$$ N_d = Y/pr $$       
+$$ N_d = \frac{Y}{pr} $$       
       
 *Equation (`B.15`)* - Wage rate:
 
-$$ w = WB_d/N_d $$       
+$$ w = \frac{WB_d}{N_d} $$       
 
 #### B3.6 Household behaviour
       
