@@ -356,11 +356,15 @@ TMC theorists reject the basic idea of consumer sovereignty in favour of the opp
 To understand how prices are set within a basic TMC scheme, consider the following system of equations:
 
 *Equation (`1`)* - Aggregate supply: 
+
 $$X = \pi \cdot N $$
+
 where $pi$ is the average labour productivity and $N$ is the employment level.
 
 *Equation (`2`)* - Aggregate consumption:
+
 $$C = c \cdot (w \cdot N + r \cdot B)  $$
+
 where $c$ is the average and marginal propensity to consume out of income, $w$ is the wage rate, $r$ is the interest rate, and $B$ is the stock of private securities held by the wage earners.
 
 ...
@@ -460,43 +464,61 @@ The structure of Model PC is quite simple. Crucial identities of the model are d
 Completing the identities derived form the tables above with behavioural equations for taxes, consumption, demand for bills, and the interest rate, we obtain the following system of difference equations:
 
 *Equation (`1`)* - National income (identity): 
+
 $$Y = C + G $$
+
 where $C$ is household consumption and $G$ is government expenditure.
 
 *Equation (`2`)* - Disposable income (identity):
+
 $$YD = Y - T + r_{-1} \cdot B_{h,-1} $$
+
 where $r$ is the interest rate and $B_h$ is households' holdings of bills. The subscript $-1$ stands for lagged variable.
 
 *Equation (`3`)* - Tax revenue (behavioural):
+
 $$T = \theta \cdot (Y +  r_{-1} \cdot B_{h,-1} ) $$
+
 where $\theta$ is the average tax rate on total income before taxes.
 
 *Equation (`4`)* - Household wealth (identity):
+
 $$V_h = V_{h,-1} + YD - C  $$
 
 *Equation (`5`)* - Consumption (hehavioural):
+
 $$C = \alpha_1 \cdot YD + \alpha_2 \cdot V_{-1}  $$
+
 where $\alpha_1$ is the propensity to consume out of income and $\alpha_2$ is the propensity to consume out of wealth.
 
 *Equation (`6`)* - Cash held by households (identity):
+
 $$H_h = V_h - B_h  $$
 
 *Equation (`7`)* - Bills held by households (behavioural):
+
 $$\frac{B_h}{V_h} = \lambda_0 + \lambda_1 \cdot r - \lambda_2 \cdot \frac{YD}{V_h}  $$
+
 where $\lambda_0$ is the autonomous share of bills held by the households, $\lambda_1$ is the elasticity to the interest rate, and $\lambda_2$ captures households' liquidity preference.
 
 *Equation (`8`)* - Supply of bills (identity):
+
 $$B_s = B_{s,-1} + G - T + r_{-1} \cdot ( B_{s,-1} - B_{cb,-1} )  $$
+
 where $B_{cb}$ is the amount of bills held by the central bank.
 
 *Equation (`9`)* - Supply of cash (identity):
+
 $$H_s = H_{s,-1} + \Delta B_{cb} $$
 
 *Equation (`10`)* - Bills held by central bank (identity):
+
 $$B_{cb} = B_s - B_h $$
 
 *Equation (`11`)* - Interest rate (behavioural):
+
 $$r = \bar{r} $$
+
 where $\bar{r}$ is the policy rate set by the central bank.
 
 Note that any complete and coherent model must contain an equation that is *redundant*, meaning that it is logically implied by all the others (*Walras' Law*). In Model PC, this is the equation matching the demanded stock of cash with central bank's supply of cash:
