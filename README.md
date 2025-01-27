@@ -411,7 +411,20 @@ Total profits, expressed in real terms, are:
 
 $$ \frac{\Pi}{p} = = \frac{b-s}{1-b} \cdot \pi \cdot N $$
 
-....
+The following implications hold:
+
+- The level of profits depends directly on the level of money prices. 
+
+- Real profits do not depend on the interest rate paid by firms on the securities they issue. A consequence is that any attempt to influence investment decisions by controlling the rate of interest is bound to be ineffective.
+
+- If, by chance, $` s = b `$, prices equal the monetary cost of production, hence profits = 0.
+
+- - If $` s = 0 `$, real profits = investment.
+
+- Net profits must be calculated net of interests paid to the banks: $` \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_B ) \cdot (w \cdot N + r_b \cdot B) `$ 
+
+
+
 
 ## A5_On_some_misconceptions
 ...
