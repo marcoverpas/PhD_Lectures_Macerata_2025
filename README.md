@@ -427,7 +427,7 @@ The following implications hold:
 
 $$ \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_B ) \cdot (w \cdot N + r_b \cdot B) $$
 
-where $` \lambda `$ is workers' deposit holdings to total income ratio, defined as a negative function of the interest rate on private securities.
+where $` \lambda `$ is workers' deposit holdings to total income ratio, defined as a negative function of the interest rate on private securities, and $` r_l `$ is the interest rate on bank loans to firms.
 
 An increase in the interest rate paid by firms on securities produces contrasting consequences, as it reduces $` \lambda `$ but increases $` r_b \cdot B `$.
 
