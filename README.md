@@ -363,7 +363,7 @@ where $pi$ is the average labour productivity and $N$ is the employment level.
 
 *Equation (`2`)* - Aggregate consumption:
 
-$$C = c \cdot (w \cdot N + r \cdot B)  $$
+$$C = c \cdot (w \cdot N + r_b \cdot B)  $$
 
 where $c$ is the average and marginal propensity to consume out of income, $w$ is the wage rate, $r$ is the interest rate, and $B$ is the stock of private securities held by the wage earners.
 
@@ -375,11 +375,11 @@ where $b$ is the share of real investment to total output, and $p$ is the unit p
 
 The equilibrium price level is determined by the equality between demand and supply:
 
-$$ \pi \cdot N = c \cdot (w \cdot N + r \cdot B) + b \cdot \pi \cdot N \cdot p  $$
+$$ \pi \cdot N = c \cdot (w \cdot N + r_b \cdot B) + b \cdot \pi \cdot N \cdot p  $$
 
 The equilibrium price is therefore:
 
-$$ p = \frac{1-s}{1-b} \cdot \left[ \frac{w}{\pi} + \frac{r \cdot B}{\pi \cdot N} \right] $$
+$$ p = \frac{1-s}{1-b} \cdot \left[ \frac{w}{\pi} + \frac{r_b \cdot B}{\pi \cdot N} \right] $$
 
 where $s=1-c$ is propensity to save out of income.
 
@@ -393,10 +393,25 @@ It follows that:
 
 The average real income of wage earners is:
 
-$$ \frac{w + r \cdot (B/N)}{p} = ... = \frac{1-b}{1-s} \cdot \pi $$
+$$ \frac{w + r_b \cdot (B/N)}{p} = ... = \frac{1-b}{1-s} \cdot \pi $$
 
-Real consumption is therefore: $ (1-b) \cdot \pi $
+Real consumption is therefore: $` (1-b) \cdot \pi `$
 
+Average real consumption of wage earners depends on both the average productivity of labour (+) and the share of firms' investment (-).
+
+The profit rate for the firms sector is:
+
+$$ r_f = \frac{\pi \cdot N \cdot p - (w \cdot N + \r_b \cdot B)}{w \cdot N + r_b \cdot B } = \frac{b-s}{1-b} $$
+
+Total (monetary) profits are:
+
+$$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N + r_b \cdot B)
+
+Total profits, expressed in real terms, are:
+
+$$ \frac{\Pi}{p} = = \frac{b-s}{1-b} \cdot \pi \cdot N
+
+....
 
 ## A5_On_some_misconceptions
 ...
