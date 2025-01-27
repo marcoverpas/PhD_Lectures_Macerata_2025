@@ -14,7 +14,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 ## Table of Contents
 
 - [A1 The endogenous money view](A1_The_Endogenous_Money_View)
-- [A2 Presuppositions of the TMC](A2_Presuppositions)
+- [A2 Presuppositions of the TMC](A2_Presuppositions_of_the_TMC)
 - [A3 A simple TMC model](A3_A_Simple_TMC_Model)
 - [A4 On some misconceptions surrounding the TMC](A4_On_some_misconceptions)
 - [A5 Implementing a TMC model in R](A4_Implementing_a_SFC_Model_in_R)
@@ -120,7 +120,7 @@ The point is that the relationship between money and prices is much weaker than 
 (...)
 
 
-## A2_Presuppositions
+## A2_Presuppositions_of_the_TMC
 
 According to [Graziani](https://www.cambridge.org/core/books/monetary-theory-of-production/A813BE586E79CDF0DE7C3D930DBF632F) (2006, pp. 25-26) the main theoretical presuppositions of the TMC are:
 
