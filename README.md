@@ -50,6 +50,43 @@ The methodological and theoretical presuppositions of the TMC include:
 
 Based on these presuppositions, the main purpose of the TMC is to identify the logical phases of the process of creation, destruction and circulation of money in a capitalist economy, inhabited by different and opposed social classes.
 
+### Alternative_theories_about_the_origin_of_money
+
+#### Money_as_a_commodity
+
+According to an initial theory, money emerges from the spontaneous interactions of self-interested individuals exchanging goods and services in the marketplace. In this conception, money functions as a lubricant or intermediary for commerce. From barter to shells, salt, livestock, metallic coins, banknotes, and finally, the electronic impulses of banking payment systems, one can trace a historical evolution of the forms assumed by money. Exchange (the act of giving one good in return for another) is viewed as intrinsic to human nature. Marginalist-neoclassical economists suggest that metallic money emerged among other goods due to its scarcity, durability, and ease of transport. In this framework, banknotes are merely representative titles for their underlying value, such as gold (or other precious metals).
+
+This theory, however, faces two significant challenges. The first is theoretical: this conception relies on a framework where the subjective (marginal) utility derived from consuming a good or service forms the basis of its value and price. However, the utility of money is indirect, stemming from the goods or services it can purchase. This creates a logical circularity: the quantity of goods and services that can be bought depends on their prices in money, which, in turn, relies on money's exchange value. Thus, determining the utility and value of money requires prior knowledge of its value. While this issue can be resolved mathematically through the simultaneous determination of utility and value, logical causality remains distinct from co-determination.
+
+The second challenge is historical: historically, only one type of money has dominated—that issued by the state—while private currencies (e.g., cryptocurrencies) have always played a secondary role.
+
+Money as a Liability Issued by the State
+
+According to another theory, money emerged when sovereign authorities ceased acquiring resources through forced transfers of goods and services (as in feudal systems) and adopted a new approach: granting credit to those who provided their products or labour. The sovereign then required community members to periodically present and return a specified number of these credit certificates as proof of their contributions—i.e., to pay monetary taxes. The value of these certificates, as a means of settling obligations to the state, made them a convenient medium of exchange among private individuals. This historical shift laid the groundwork for modern monetary economies. Notably, barter systems often follow the collapse of payment systems, rather than preceding their establishment.
+
+In other words, money does not arise solely from interactions between private individuals, nor is its value derived from indirect utility. Instead, the spread of state-backed money results from its legal tender status and its imposition as a tool for meeting tax obligations. As Georg F. Knapp argued, it is the power of the state, not spontaneous market forces, that transforms a commodity into money. While no one can be legally compelled to use a specific payment instrument, the state can make such instruments attractive through taxation.
+
+This state theory of money not only sheds light on its origins but also suggests that money has a direct utility.
+
+#### Money_as_a_store_of_Value
+
+As Keynes (1936) clarified, the desire to hold money reflects our distrust of the future. Its "utility" derives from its function as a "store of wealth." Keynes referred to this phenomenon as the "liquidity preference," which also explains the risk premium (spread) as the price demanded for parting with money (the only trusted means of payment) during crises. This premium represents the cost of important things.
+
+This second conception highlights an essential aspect to be discussed further: the credit nature of money. Money is not merely a thing; it is an economic and social relationship. A banknote represents a state liability towards the holder and, simultaneously, a credit for the holder against the state. Even when appearing as metallic currency, money is a zero-interest, on-demand liability. For this reason, Keynes described the Indian rupee as "a banknote printed on a piece of silver."
+
+#### Class_struggle_and_debt
+
+A third group of scholars, closer to the state theory of money but offering a distinct interpretation of its origin, draws on Marxist thought. They observe that once property becomes private rather than communal (as occurred historically, e.g., during the "enclosures" in 18th- and 19th-century England), products cease to be distributed equally among community members. Consequently, those whose incomes decrease must rely on debt to survive. Money thus becomes the general equivalent measuring the value of such obligations over time. Historically, the first banks were monasteries, issuing credit certificates to record deposits made in kind.
+
+In sum, while money has a credit nature, as state money theorists argue, it is also a product of social interaction. Changes in social structures and class struggle dynamics have played a far more significant role than is often acknowledged.
+
+Moreover, the explanation of money as a store of wealth (or liquidity) has a critical limitation undermining its generality: it explains money only in contexts of crisis and uncertainty. If crises and uncertainty were somehow eliminated, money would serve solely as a unit of account and medium of exchange. In a perfectly balanced economy, no residual stock of money would remain at the end of transactions.
+
+This idea has been challenged by some heterodox French and Italian economists in the late 20th century. They argue that the necessity of money in a monetary production economy, or capitalist economy, must also be explained in a "crisis-free" world. This does not deny the capitalist system's propensity for recurrent crises. On the contrary, to illuminate the inherently monetary nature of production and exchange relations in a capitalist economy, one must explain the function of money beyond its role as a store of value during dark times.
+
+
+
+
 ### Exogenous_vs_endogenous_theories_of_money
 
 (...)
