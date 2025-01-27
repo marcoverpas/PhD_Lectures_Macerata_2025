@@ -16,7 +16,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [A1 The endogenous money view](#A1_The_Endogenous_Money_View)
 - [A2 Presuppositions of the TMC](#A2_Presuppositions_of_the_TMC)
 - [A3 A simple TMC model](#A3_A_Simple_TMC_Model)
-- [A4 Distribution and economic policy in a TMC model](#A4_Distribution_and_Economic_Policy)
+- [A4 Distribution and economic policy in a TMC model](#A4_Distribution_and_economic_policy)
 - [A5 On some misconceptions surrounding the TMC](#A5_On_some_misconceptions)
 - [B1 Introduction to SFC models](#B1_Introduction)
 - [B2 Model PC](#2_Model_PC)
@@ -342,8 +342,7 @@ market flows back to the firms.
 </tr>
   </table>
 
-A representation of the basic monetary circuit scheme is provided by the figure below. (...)
-
+A representation of the basic monetary circuit scheme is provided by the figure below. 
 
 <figure>
 <img
@@ -351,7 +350,7 @@ src="https://github.com/marcoverpas/figures/blob/main/circuit_scheme.jpg" width=
 </figure>
 
 
-## A4_Distribution_and_Economic_Policy
+## A4_Distribution_and_economic_policy
 ...
 
 ## A5_On_some_misconceptions
