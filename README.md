@@ -391,25 +391,25 @@ It follows that:
 
 - each variation in the unit price produces a proportional variation in the money stock (for any value of the velocity of ciculation of money).
 
-The average real income of wage earners is:
+*Equation (`5`)* - The average real income of wage earners is:
 
 $$ \frac{w + r_b \cdot (B/N)}{p} = ... = \frac{1-b}{1-s} \cdot \pi $$
 
-Real consumption is therefore: $` (1-b) \cdot \pi `$
+*Equation (`6`)* - Real consumption is therefore: $` (1-b) \cdot \pi `$
 
 Average real consumption of wage earners depends on both the average productivity of labour (+) and the share of firms' investment (-).
 
 The profit rate for the firms sector is:
 
-$$ r_f = \frac{\pi \cdot N \cdot p - (w \cdot N + r_b \cdot B)}{w \cdot N + r_b \cdot B } = \frac{b-s}{1-b} $$
+*Equation (`7`)* - $$ r_f = \frac{\pi \cdot N \cdot p - (w \cdot N + r_b \cdot B)}{w \cdot N + r_b \cdot B } = \frac{b-s}{1-b} $$
 
 Total (monetary) profits are:
 
-$$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N + r_b \cdot B) $$
+*Equation (`8`)* - $$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N + r_b \cdot B) $$
 
 Total profits, expressed in real terms, are:
 
-$$ \frac{\Pi}{p} = \frac{b-s}{1-b} \cdot \pi \cdot N $$
+*Equation (`9`)* - $$ \frac{\Pi}{p} = \frac{b-s}{1-b} \cdot \pi \cdot N $$
 
 The following implications hold:
 
@@ -423,7 +423,7 @@ The following implications hold:
 
 Lastly, note that net profits must be calculated net of interests paid to the banks:
 
-$$ \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_B ) \cdot (w \cdot N + r_b \cdot B) $$
+*Equation (`10`)* - $$ \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_B ) \cdot (w \cdot N + r_b \cdot B) $$
 
 where $` \lambda `$ is workers' deposit holdings to total income ratio, defined as a negative function of the interest rate on private securities.
 
@@ -443,11 +443,19 @@ The contraction of profits can be mitigated by reducing the policy rate and enha
 
 ### A5.2 Fiscal policy
 
-It can be demonstrated that, if we add taxation and government spending to the equations above, the results still hold. Intuitively, if the firms can decide both the level and the composition of output, fiscal policies can only affect the unit price.
+It can be demonstrated that, if we add taxation and government spending to the equations above, the results still hold. Intuitively, if firms can decide both the level and the composition of output, fiscal policies can only affect the unit price.
 
-The distribution of real income between wages and profits is strictly connected to the independent decisions of firms about the subdivision of production between consumption goods and investment goods.
+For the sake of simplicity, let's assume that interest rates are equal to zero. The unit price of output becomes: 
 
-These decisions overcome any redistribution performed by taxation and subsidies, which do not affect the distribution of real income. The main policy implication is that, if the government wants to alter the distribution of real income in favour of wages, it should provide goods and services in real terms.
+$$ p = \frac{1-s}{1-b-g} \cdot \frac{w}{\pi} $$
+
+where $` g `$ is the share of output purchased by the government sector and $` t `$ is the average tax rate on income.
+
+The higher the government spending (however funded) and the lower the tax rate, the higher the unit price will be. However, it is apparent that real profits, and hence real wages, are unaffected by government spending and taxation - refer to *Equation (`10`)*.
+
+The reason is that the distribution of real income between wages and profits is strictly connected to the independent decisions of firms about the subdivision of production between consumption goods and investment goods.
+
+These decisions override any redistribution performed by taxation and subsidies, which do not affect the distribution of real income. The main policy implication is that, if the government wants to alter the distribution of real income in favor of wages, it should provide goods and services in real terms.
 
 ## B1_Introduction_to_SFC_Models
 
