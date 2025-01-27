@@ -665,6 +665,24 @@ $$ L_s = L_{s,-1} + (L_d - L_{d,i-1})  $$
 
 #### B3.2 Transactions of the firms
 
+*Equation (`B.5`)* - GDP definition:
+
+$$ Y = C_s + I_s $$
+        
+*Equation (`B.6`)* - Wage bill:
+
+$$ WB_d = Y - r_{l,-1} \cdot L_{d,-1} - AF  $$
+        
+*Equation (`B.7`)* - Depreciation allowances:
+
+$$ AF = DA $$
+        
+*Equation (`B.8`)* - Demand for bank loans:
+
+$$ L_d = L_{d,-1} + I_d - AF $$ 
+
+
+
 
 
 **(TO BE CONTINUED)**
@@ -672,7 +690,7 @@ $$ L_s = L_{s,-1} + (L_d - L_{d,i-1})  $$
 
 The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
-**(TO BE FINSHED)**
+**(TO BE FINISHED)**
 
 
 ## B4_Model_IO-PC
