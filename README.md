@@ -379,7 +379,7 @@ $$ \pi \cdot N = c \cdot (w \cdot N + r \cdot B) + b \cdot \pi \cdot N \cdot p  
 
 The equilibrium price is therefore:
 
-$$ p = \frac{1-s}{1-b} \cdot \[ \frac{w}{\pi} + \frac{r \cdot B}{\pi \cdot N} \] $$
+$$ p = \frac{1-s}{1-b} \cdot \left[ \frac{w}{\pi} + \frac{r \cdot B}{\pi \cdot N} \right] $$
 
 
 
