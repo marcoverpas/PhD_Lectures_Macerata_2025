@@ -681,6 +681,26 @@ $$ AF = DA $$
 
 $$ L_d = L_{d,-1} + I_d - AF $$ 
 
+#### B3.3 Transactions of households
+      
+*Equation (`B.9`)* - Disposable income:
+
+$$ YD = WB_d + r_{m,-1} \cdot M_{h,-1} $$
+      
+*Equation (`B.10`)* - Bank deposits held by households:
+
+$$ M_h = M_{h,-1} + YD - C_d $$
+
+#### B3.4 Transactions of the banks  
+      
+*Equation (`B.11`)* - Supply of deposits:
+
+$$ M_s = M_{s,-1} + (L_s - L_{s,-1}) $$
+      
+*Equation (`B.12`)* - Rate of interest on deposits:
+        
+$$ r_m = r_l $$
+
 
 
 
