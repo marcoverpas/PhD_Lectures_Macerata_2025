@@ -433,7 +433,13 @@ An increase in the interest rate paid by firms on securities produces contrastin
 
 ### A5.1 Monetary policy
 
-(TO BE COMPLETED) (...)
+If money is endogenous, an increase in money prices brings about a proportional increase in the bank debt of the firms. As a result, an increase in the rate of interest further increases the annual financial burden falling on firms. 
+
+Even assuming costant wages, firms can lose profits on the credit market. Inflation produces a redistribution of profits from the firms to the banks, which implies a decline in industrial profits and an increase in financial incomes.
+
+While the firms can compensate for losses in the labour market by increasing money prices (see the unit price equation), they are unable to compensate for losses in the credit market due to the increase in the interest rate.
+
+The contraction of profits can be mitigated by reducing the policy rate and enhancing the liquidity and marketability of firms' securities.
 
 ### A5.2 Fiscal policy
 
@@ -442,10 +448,6 @@ It can be demonstrated that, if we add taxation and government spending to the e
 The distribution of real income between wages and profits is strictly connected to the independent decisions of firms about the subdivision of production between consumption goods and investment goods.
 
 These decisions overcome any redistribution performed by taxation and subsidies, which do not affect the distribution of real income. The main policy implication is that, if the government wants to alter the distribution of real income in favour of wages, it should provide goods and services in real terms.
-
-
-(TO BE COMPLETED) (create interactive models)
-
 
 ## B1_Introduction_to_SFC_Models
 
