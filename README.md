@@ -652,12 +652,15 @@ In formal terms, the model is expressed by a system of 21 equations.
 $$ c_s = c_d $$
 
 *Equation (`B.2`)* - Supply of investment goods:
+
 $$ i_s = i_d $$
 
 *Equation (`B.3`)* - Supply of labour:
+
 $$ n_s = n_d $$
         
 *Equation (`B.4`)* - Supply of loans:
+
 $$ l_s = l_{s,-1} + (l_d - l_{d,i-1})  $$
 
 #### B3.2 Transactions of the firms
