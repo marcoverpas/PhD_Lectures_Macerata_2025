@@ -395,21 +395,23 @@ It follows that:
 
 $$ \frac{w + r_b \cdot (B/N)}{p} = ... = \frac{1-b}{1-s} \cdot \pi $$
 
-*Equation (`6`)* - Real consumption is therefore: $` (1-b) \cdot \pi `$
+*Equation (`6`)* - Real consumption is therefore:
+
+$$ (1-b) \cdot \pi $$
 
 Average real consumption of wage earners depends on both the average productivity of labour (+) and the share of firms' investment (-).
 
-The profit rate for the firms sector is:
+*Equation (`7`)* -The profit rate for the firms sector is:
 
-*Equation (`7`)* - $$ r_f = \frac{\pi \cdot N \cdot p - (w \cdot N + r_b \cdot B)}{w \cdot N + r_b \cdot B } = \frac{b-s}{1-b} $$
+$$ r_f = \frac{\pi \cdot N \cdot p - (w \cdot N + r_b \cdot B)}{w \cdot N + r_b \cdot B } = \frac{b-s}{1-b} $$
 
-Total (monetary) profits are:
+*Equation (`8`)* - Total (monetary) profits are:
 
-*Equation (`8`)* - $$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N + r_b \cdot B) $$
+$$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N + r_b \cdot B) $$
 
-Total profits, expressed in real terms, are:
+*Equation (`9`)* - Total profits, expressed in real terms, are:
 
-*Equation (`9`)* - $$ \frac{\Pi}{p} = \frac{b-s}{1-b} \cdot \pi \cdot N $$
+$$ \frac{\Pi}{p} = \frac{b-s}{1-b} \cdot \pi \cdot N $$
 
 The following implications hold:
 
@@ -421,9 +423,9 @@ The following implications hold:
 
 - If $` s = 0 `$, real profits = investment.
 
-Lastly, note that net profits must be calculated net of interests paid to the banks:
+*Equation (`10`)* - Lastly, note that net profits must be calculated net of interests paid to the banks:
 
-*Equation (`10`)* - $$ \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_B ) \cdot (w \cdot N + r_b \cdot B) $$
+$$ \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_B ) \cdot (w \cdot N + r_b \cdot B) $$
 
 where $` \lambda `$ is workers' deposit holdings to total income ratio, defined as a negative function of the interest rate on private securities.
 
