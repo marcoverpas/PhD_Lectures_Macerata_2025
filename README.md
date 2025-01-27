@@ -16,8 +16,8 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [A1 The endogenous money view](#A1_The_Endogenous_Money_View)
 - [A2 Presuppositions of the TMC](#A2_Presuppositions_of_the_TMC)
 - [A3 A simple TMC model](#A3_A_Simple_TMC_Model)
-- [A4 On some misconceptions surrounding the TMC](#A4_On_some_misconceptions)
-- [A5 Implementing a TMC model in R](#A5_Implementing_a_SFC_Model_in_R)
+- [A4 Distribution and economic policy in a TMC model](#A4_Distribution_and_Economic_Policy)
+- [A5 On some misconceptions surrounding the TMC](#A5_On_some_misconceptions)
 - [B1 Introduction to SFC models](#B1_Introduction)
 - [B2 Model PC](#2_Model_PC)
 - [B3 Model IO-PC](#3_Model_IO-PC)
@@ -351,15 +351,12 @@ src="https://github.com/marcoverpas/figures/blob/main/circuit_scheme.jpg" width=
 </figure>
 
 
-## A4_On_some_misconceptions
-
+## A4_Distribution_and_Economic_Policy
 ...
 
-
-## A5_Implementing_a_SFC_Model_in_R
-
+## A5_On_some_misconceptions
+...
 ... (stress implications of economic policy) (create interactive models)
-
 
 
 ## B1_Introduction_to_SFC_Models
