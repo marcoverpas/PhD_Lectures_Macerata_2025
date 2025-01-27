@@ -19,10 +19,10 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [A4 Distribution in a TMC model](#A4_Distribution_in_a_TMC_model)
 - [A5 Policy implications](#A5_Policy_implications)
 - [B1 Introduction to SFC models](#B1_Introduction)
-- [B2 Model PC](#2_Model_PC)
-- [B3 Model IO-PC](#3_Model_IO-PC)
-- [B4 Model ECO-IO-PC](#4_Model_ECO-IO-PC)
-- [B5 Experiments](#5_Experiments)
+- [B2 Model PC](#B2_Model_PC)
+- [B3 Model IO-PC](#B3_Model_IO-PC)
+- [B4 Model ECO-IO-PC](#B4_Model_ECO-IO-PC)
+- [B5 Experiments](#B5_Experiments)
 - [Suggested readings](#Suggested_readings)
 
 
