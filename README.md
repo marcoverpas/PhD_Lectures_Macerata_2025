@@ -409,7 +409,7 @@ $$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N 
 
 Total profits, expressed in real terms, are:
 
-$$ \frac{\Pi}{p} = = \frac{b-s}{1-b} \cdot \pi \cdot N $$
+$$ \frac{\Pi}{p} = \frac{b-s}{1-b} \cdot \pi \cdot N $$
 
 The following implications hold:
 
@@ -430,6 +430,12 @@ where $` \lambda `$ is workers' deposit holdings to total income ratio, defined 
 An increase in the interest rate paid by firms on securities produces contrasting consequences, as it reduces $` \lambda `$ but increases $` r_b \cdot B `$.
 
 ## A5_Policy_implications
+
+### A5.1 Monetary policy
+
+(TO BE COMPLETED) (...)
+
+### A5.2 Fiscal policy
 
 It can be demonstrated that, if we add taxation and government spending to the equations above, the results still hold. Intuitively, if the firms can decide both the level and the composition of output, fiscal policies can only affect the unit price.
 
