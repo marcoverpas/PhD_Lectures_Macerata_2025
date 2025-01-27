@@ -349,9 +349,11 @@ A representation of the basic monetary circuit scheme is provided by the figure 
 src="https://github.com/marcoverpas/figures/blob/main/circuit_scheme.jpg" width="800">
 </figure>
 
-
 ## A4_Distribution_and_economic_policy
-...
+
+TMC theorists reject the basic idea of consumer sovereignty in favour of the opposite idea of producer sovereignty. Wage earners and firms enjoy differing purchasing power in the goods market. The expenditure of wage earners is strictly limited by the budget constraint set by the wage bill, while the firms use bank credit to hire labour according to their own production plans. At the end of the production process, firms alo purchase a fraction of total product as investment. ...
+
+
 
 ## A5_On_some_misconceptions
 ...
