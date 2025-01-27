@@ -50,9 +50,9 @@ The methodological and theoretical presuppositions of the TMC include:
 
 Based on these presuppositions, the main purpose of the TMC is to identify the logical phases of the process of creation, destruction and circulation of money in a capitalist economy, inhabited by different and opposed social classes.
 
-### Alternative_theories_about_the_origin_of_money
+### Alternative theories about the origin of money
 
-#### Money_as_a_commodity
+#### Money as a commodity
 
 According to an initial theory, money emerges from the spontaneous interactions of self-interested individuals exchanging goods and services in the marketplace. In this conception, money functions as a lubricant or intermediary for commerce. From barter to shells, salt, livestock, metallic coins, banknotes, and finally, the electronic impulses of banking payment systems, one can trace a historical evolution of the forms assumed by money. Exchange (the act of giving one good in return for another) is viewed as intrinsic to human nature. Marginalist-neoclassical economists suggest that metallic money emerged among other goods due to its scarcity, durability, and ease of transport. In this framework, banknotes are merely representative titles for their underlying value, such as gold (or other precious metals).
 
@@ -60,7 +60,7 @@ This theory, however, faces two significant challenges. The first is theoretical
 
 The second challenge is historical: historically, only one type of money has dominated—that issued by the state—while private currencies (e.g., cryptocurrencies) have always played a secondary role.
 
-Money as a Liability Issued by the State
+#### Money as a liability issued by the State
 
 According to another theory, money emerged when sovereign authorities ceased acquiring resources through forced transfers of goods and services (as in feudal systems) and adopted a new approach: granting credit to those who provided their products or labour. The sovereign then required community members to periodically present and return a specified number of these credit certificates as proof of their contributions—i.e., to pay monetary taxes. The value of these certificates, as a means of settling obligations to the state, made them a convenient medium of exchange among private individuals. This historical shift laid the groundwork for modern monetary economies. Notably, barter systems often follow the collapse of payment systems, rather than preceding their establishment.
 
@@ -68,13 +68,13 @@ In other words, money does not arise solely from interactions between private in
 
 This state theory of money not only sheds light on its origins but also suggests that money has a direct utility.
 
-#### Money_as_a_store_of_Value
+#### Money as a store of value
 
 As Keynes (1936) clarified, the desire to hold money reflects our distrust of the future. Its "utility" derives from its function as a "store of wealth." Keynes referred to this phenomenon as the "liquidity preference," which also explains the risk premium (spread) as the price demanded for parting with money (the only trusted means of payment) during crises. This premium represents the cost of important things.
 
 This second conception highlights an essential aspect to be discussed further: the credit nature of money. Money is not merely a thing; it is an economic and social relationship. A banknote represents a state liability towards the holder and, simultaneously, a credit for the holder against the state. Even when appearing as metallic currency, money is a zero-interest, on-demand liability. For this reason, Keynes described the Indian rupee as "a banknote printed on a piece of silver."
 
-#### Class_struggle_and_debt
+#### Class struggle and money as a triangular relationship
 
 A third group of scholars, closer to the state theory of money but offering a distinct interpretation of its origin, draws on Marxist thought. They observe that once property becomes private rather than communal (as occurred historically, e.g., during the "enclosures" in 18th- and 19th-century England), products cease to be distributed equally among community members. Consequently, those whose incomes decrease must rely on debt to survive. Money thus becomes the general equivalent measuring the value of such obligations over time. Historically, the first banks were monasteries, issuing credit certificates to record deposits made in kind.
 
