@@ -20,9 +20,10 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [A5 Policy implications](#A5_Policy_implications)
 - [B1 Introduction to SFC models](#B1_Introduction)
 - [B2 Model PC](#B2_Model_PC)
-- [B3 Model IO-PC](#B3_Model_IO-PC)
-- [B4 Model ECO-IO-PC](#B4_Model_ECO-IO-PC)
-- [B5 Experiments](#B5_Experiments)
+- [B3 Model BMW](#B3_Model_BMW)
+- [B4 Model IO-PC](#B4_Model_IO-PC)
+- [B5 Model ECO-IO-PC](#B5_Model_ECO-IO-PC)
+- [B6 Experiments](#B6_Experiments)
 - [Suggested readings](#Suggested_readings)
 
 
@@ -619,7 +620,33 @@ where $`B_h^{*}`$ is the steady-state value of household stock of bills.
 
 The model can be easily simulated by identifying the coefficients and attributing an initial value to government spending ($G=G_0$, with $G_0>0$). A simple `R` code replicating Model PC can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/PC_model_from_scratch.R). 
 
-## B3_Model_IO-PC
+
+### B3_Model_BMW
+
+This is the simplest model explicitly including commercial banks. It is developed in chapter 7 of Godley and Lavoie (2007), "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **BMW** stands for "bank-money world", because there is only one kind of financial assets: bank deposits held by households. Firms’ investment in fixed capital is funded by bank loans and amortisation funds.
+
+Key assumptions are as follows:
+
+1. Closed economy and no ecosystem
+
+1. Three agents: households, firms, banks
+
+1. Assets and liabilities include: loans, deposits, tangible (or fixed) capital
+
+1. Investment funded by loans and internal funds
+
+1. Target capital to output ratio
+
+1. Fixed prices and zero net profits
+
+1. No State, no outside money (cash)
+
+The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
+
+**(TO BE FINSHED)**
+
+
+## B4_Model_IO-PC
 
 There are currently only a few prototype input-output SFC models, despite recent progress (Berg, Hartley, and Richters, 2015; Jackson and Jackson, 2021, 2023; Valdecantos, 2023). Integrating IO and SFC techniques poses challenges, but it is crucial for analysing both technical progress (Veronese Passarella, 2023) and the interaction of the ecosystem with the economy (Hardt and O’Neill, 2017).
 
@@ -732,7 +759,7 @@ Figures 1 to 4 show the evolution of model variables over time. Sankey diagrams 
 For instance, the diagram above illustrates the payments across social sectors and the flows of inputs across industries in period 20. The related additional code can be found [here](https://github.com/marcoverpas/EAEPE_summer_school_2024/blob/main/eaepe_sankey_diagram.R).
 
 
-## B4_Model_ECO-IO-PC
+## B5_Model_ECO-IO-PC
 
 Although the origins of ecological macroeconomics can be traced back to the inception of economics itself, early SFC models for economic research did not incorporate the ecosystem.
 
