@@ -13,11 +13,11 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 
 ## Table of Contents
 
-- [A1 The endogenous money view](A1_The_Endogenous_Money_View)
-- [A2 Presuppositions of the TMC](A2_Presuppositions_of_the_TMC)
-- [A3 A simple TMC model](A3_A_Simple_TMC_Model)
-- [A4 On some misconceptions surrounding the TMC](A4_On_some_misconceptions)
-- [A5 Implementing a TMC model in R](A4_Implementing_a_SFC_Model_in_R)
+- [A1 The endogenous money view](#A1_The_Endogenous_Money_View)
+- [A2 Presuppositions of the TMC](#A2_Presuppositions_of_the_TMC)
+- [A3 A simple TMC model](#A3_A_Simple_TMC_Model)
+- [A4 On some misconceptions surrounding the TMC](#A4_On_some_misconceptions)
+- [A5 Implementing a TMC model in R](#A5_Implementing_a_SFC_Model_in_R)
 - [B1 Introduction to SFC models](#B1_Introduction)
 - [B2 Model PC](#2_Model_PC)
 - [B3 Model IO-PC](#3_Model_IO-PC)
