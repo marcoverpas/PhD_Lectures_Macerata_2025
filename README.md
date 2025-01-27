@@ -377,7 +377,7 @@ The equilibrium price level is determined by the equality between demand and sup
 
 $$ \pi \cdot N = c \cdot (w \cdot N + r_b \cdot B) + b \cdot \pi \cdot N \cdot p  $$
 
-The equilibrium price is therefore:
+*Equation (`4`)* - Equilibrium price:
 
 $$ p = \frac{1-s}{1-b} \cdot \left[ \frac{w}{\pi} + \frac{r_b \cdot B}{\pi \cdot N} \right] $$
 
@@ -437,7 +437,7 @@ If money is endogenous, an increase in money prices brings about a proportional 
 
 Even assuming costant wages, firms can lose profits on the credit market. Inflation produces a redistribution of profits from the firms to the banks, which implies a decline in industrial profits and an increase in financial incomes.
 
-While the firms can compensate for losses in the labour market by increasing money prices (see the unit price equation), they are unable to compensate for losses in the credit market due to the increase in the interest rate.
+While the firms can compensate for losses in the labour market by increasing money prices - see *Equation (`4`)* - they are unable to compensate for losses in the credit market due to the increase in the interest rate.
 
 The contraction of profits can be mitigated by reducing the policy rate and enhancing the liquidity and marketability of firms' securities.
 
