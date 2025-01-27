@@ -351,9 +351,20 @@ src="https://github.com/marcoverpas/figures/blob/main/circuit_scheme.jpg" width=
 
 ## A4_Distribution_and_economic_policy
 
-TMC theorists reject the basic idea of consumer sovereignty in favour of the opposite idea of producer sovereignty. Wage earners and firms enjoy differing purchasing power in the goods market. The expenditure of wage earners is strictly limited by the budget constraint set by the wage bill, while the firms use bank credit to hire labour according to their own production plans. At the end of the production process, firms alo purchase a fraction of total product as investment. ...
+TMC theorists reject the basic idea of consumer sovereignty in favour of the opposite concept of producer sovereignty. Wage earners and firms enjoy differing levels of purchasing power in the goods market. The expenditure of wage earners is strictly limited by the budget constraint set by their wage income, while firms use bank credit to hire labour according to their own production plans. At the end of the production process, firms also purchase a fraction of the total output as means of production (investment goods). While an individual firm needs funding for its investment spending (in addition to wage costs), this is an internal exchange for the firm sector as a whole. As a result, firms can obtain from banks any amount of credit to fund the purchase of investment goods. This credit money will circulate from one firm to another without ever leaving the firm sector. Therefore, firms as a whole will never face difficulties in repaying this portion of their bank debt.
 
+To understand how prices are set within a basic TMC scheme, consider the following system of equations:
 
+*Equation (`1`)* - Aggregate supply: 
+$$X = \pi \cdot N $$
+where $pi$ is the average labour productivity and $N$ is the employment level.
+
+*Equation (`2`)* - Aggregate consumption:
+$$C = c \cdot (w \cdot N + r \cdot B)  $$
+where $c$ is the average and marginal propensity to consume out of income, $w$ is the wage rate, $r$ is the interest rate, and $B$ is the stock of private securities held by the wage earners.
+
+...
+...
 
 ## A5_On_some_misconceptions
 ...
