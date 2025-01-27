@@ -353,7 +353,7 @@ src="https://github.com/marcoverpas/figures/blob/main/circuit_scheme.jpg" width=
 
 TMC theorists reject the basic idea of consumer sovereignty in favour of the opposite concept of producer sovereignty. Wage earners and firms enjoy differing levels of purchasing power in the goods market. The expenditure of wage earners is strictly limited by the budget constraint set by their wage income, while firms use bank credit to hire labour according to their own production plans. At the end of the production process, firms also purchase a fraction of the total output as means of production (investment goods). While an individual firm needs funding for its investment spending (in addition to wage costs), this is an internal exchange for the firm sector as a whole. As a result, firms can obtain from banks any amount of credit to fund the purchase of investment goods. This credit money will circulate from one firm to another without ever leaving the firm sector. Therefore, firms as a whole will never face difficulties in repaying this portion of their bank debt.
 
-To understand how prices are set within a basic TMC scheme, consider the following system of equations:
+To understand how prices are set within a basic TMC scheme, consider the following system of equations (taken from [Graziani, 2006](https://www.cambridge.org/core/books/monetary-theory-of-production/A813BE586E79CDF0DE7C3D930DBF632F)):
 
 *Equation (`1`)* - Aggregate supply: 
 
@@ -381,6 +381,21 @@ The equilibrium price is therefore:
 
 $$ p = \frac{1-s}{1-b} \cdot \left[ \frac{w}{\pi} + \frac{r \cdot B}{\pi \cdot N} \right] $$
 
+where $s=1-c$ is propensity to save out of income.
+
+It follows that:
+
+- the unit price does not depend on the quantity of money;
+
+- the price depends on the propensities to save and to invest, and on the level of money costs;
+
+- each variation in the unit price produces a proportional variation in the money stock (for any value of the velocity of ciculation of money).
+
+The average real income of wage earners is:
+
+$$ \frac{w + r \cdot (B/N)}{p} = ... = \frac{1-b}{1-s} \cdot \pi $$
+
+Real consumption is therefore: $ (1-b) \cdot \pi $
 
 
 ## A5_On_some_misconceptions
