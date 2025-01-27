@@ -447,7 +447,7 @@ It can be demonstrated that, if we add taxation and government spending to the e
 
 For the sake of simplicity, let's assume that interest rates are equal to zero. The unit price of output becomes: 
 
-$$ p = \frac{1-s}{1-b-g} \cdot \frac{w}{\pi} $$
+$$ p = \frac{(1-s) \cdot (1-t)}{(1-b-g)} \cdot \frac{w}{\pi} $$
 
 where $` g `$ is the share of output purchased by the government sector and $` t `$ is the average tax rate on income.
 
