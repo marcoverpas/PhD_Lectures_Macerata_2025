@@ -117,7 +117,10 @@ However, the monetary and financial instability that has characterised the major
 
 The point is that the relationship between money and prices is much weaker than is commonly believed, while the direction of the causal link appears reversed compared to that postulated by the quantity theory of money. Consider, for example, an increase in the price of raw materials. This will increase production costs for firms, which, at a given interest rate, will request more financing (loans) from banks. These will translate into more deposits, which, in turn, will require more reserves injected into the system by the central bank. Thus, it was not the greater injection of base money that generated the rise in prices, but the latter that generated the former.
 
-(...)
+<figure>
+<img
+src="https://github.com/marcoverpas/figures/blob/main/fontana_setterfield_figure.jpg" width="800">
+</figure>
 
 
 ## A2_Presuppositions_of_the_TMC
