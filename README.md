@@ -367,8 +367,21 @@ $$C = c \cdot (w \cdot N + r \cdot B)  $$
 
 where $c$ is the average and marginal propensity to consume out of income, $w$ is the wage rate, $r$ is the interest rate, and $B$ is the stock of private securities held by the wage earners.
 
-...
-...
+*Equation (`3`)* - Aggregate investment:
+
+$$I = b \cdot \pi \cdot N \cdot p  $$
+
+where $b$ is the share of real investment to total output, and $p$ is the unit price.
+
+The equilibrium price level is determined by the equality between demand and supply:
+
+$$ \pi \cdot N = c \cdot (w \cdot N + r \cdot B) + b \cdot \pi \cdot N \cdot p  $$
+
+The equilibrium price is therefore:
+
+$$ p = \frac{1-s}{1-b} \cdot \[ \frac{w}{\pi} + \frac{r \cdot B}{\pi \cdot N} \] $$
+
+
 
 ## A5_On_some_misconceptions
 ...
