@@ -453,7 +453,7 @@ $$ p = \frac{(1-s) \cdot (1-t)}{(1-b-g)} \cdot \frac{w}{\pi} $$
 
 where $` g `$ is the share of output purchased by the government sector and $` t `$ is the average tax rate on income.
 
-The higher the government spending (however funded) and the lower the tax rate, the higher the unit price will be. However, it is apparent that real profits, and hence real wages, are unaffected by government spending and taxation - refer to *Equation (`10`)*.
+The higher the government spending (however funded) and the lower the tax rate, the higher the unit price will be. However, it is apparent that real profits, and hence real wages, are unaffected by government spending and taxation - refer to *Equation (`9`)*.
 
 The reason is that the distribution of real income between wages and profits is strictly connected to the independent decisions of firms about the subdivision of production between consumption goods and investment goods.
 
