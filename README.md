@@ -421,9 +421,13 @@ The following implications hold:
 
 - - If $` s = 0 `$, real profits = investment.
 
-- Net profits must be calculated net of interests paid to the banks: $` \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_B ) \cdot (w \cdot N + r_b \cdot B) `$ 
+Lastly, note that net profits must be calculated net of interests paid to the banks:
 
+$$ \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_B ) \cdot (w \cdot N + r_b \cdot B) $$
 
+where $` \lambda `$ is workers' deposit holdings to total income ratio, defined as a negative function of the interest rate on private securities.
+
+An increase in the interest rate paid by firms on securities produces contrasting consequences, as it reduces $` \lambda `$ but increases $` r_b \cdot B `$.
 
 
 ## A5_On_some_misconceptions
