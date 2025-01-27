@@ -715,11 +715,35 @@ $$ N_d = Y/pr $$
 
 $$ w = WB_d/N_d $$       
 
+#### B3.6 Household behaviour
+      
+*Equation (`B.16`)* - Demand for consumption goods:
 
+$$ C_d = \alpha_0 + \alpha_1 \cdot YD + \alpha_2 \cdot M_{h,-1} $$
 
+#### B3.7 The investment behaviour
+      
+*Equation (`B.17`)* - Accumulation of capital:
 
-**(TO BE CONTINUED)**
+$$ K = K_{-1} + I_d - DA $$
+      
+*Equation (`B.18`)* - Depreciation allowances:
 
+$$ DA = \delta \cdot K_{-1} $$
+      
+*Equation (`B.19`)* - Capital stock target:
+
+$$ K^t = \kappa \cdot Y_{-1} $$
+      
+*Equation (`B.20`)* - Demand for investment goods:
+
+$$ I_d = \gamma \cdot (K^t - K_{-1}) + DA $$
+      
+#### B3.8 The behaviour of banks
+      
+*Equation (`B.21`)* - Interest rate on loans:
+        
+$$ r_l = \bar{r}_l $$
 
 The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
