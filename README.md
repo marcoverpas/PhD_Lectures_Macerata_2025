@@ -16,7 +16,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [A1 The endogenous money view](#A1_The_Endogenous_Money_View)
 - [A2 Presuppositions of the TMC](#A2_Presuppositions_of_the_TMC)
 - [A3 A simple TMC model](#A3_A_Simple_TMC_Model)
-- [A4 Distribution in a TMC model](#A4_Distribution_in_a_TFC_model)
+- [A4 Distribution in a TMC model](#A4_Distribution_in_a_TMC_model)
 - [A5 Policy implications](#A5_Policy_implications)
 - [B1 Introduction to SFC models](#B1_Introduction)
 - [B2 Model PC](#2_Model_PC)
@@ -349,7 +349,7 @@ A representation of the basic monetary circuit scheme is provided by the figure 
 src="https://github.com/marcoverpas/figures/blob/main/circuit_scheme.jpg" width="800">
 </figure>
 
-## A4_Distribution_in_a_TFC_model
+## A4_Distribution_in_a_TMC_model
 
 TMC theorists reject the basic idea of consumer sovereignty in favour of the opposite concept of producer sovereignty. Wage earners and firms enjoy differing levels of purchasing power in the goods market. The expenditure of wage earners is strictly limited by the budget constraint set by their wage income, while firms use bank credit to hire labour according to their own production plans. At the end of the production process, firms also purchase a fraction of the total output as means of production (investment goods). While an individual firm needs funding for its investment spending (in addition to wage costs), this is an internal exchange for the firm sector as a whole. As a result, firms can obtain from banks any amount of credit to fund the purchase of investment goods. This credit money will circulate from one firm to another without ever leaving the firm sector. Therefore, firms as a whole will never face difficulties in repaying this portion of their bank debt.
 
