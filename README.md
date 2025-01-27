@@ -358,9 +358,9 @@ To understand how prices are set within a basic TMC scheme, consider the followi
 
 *Equation (`1`)* - Aggregate supply: 
 
-$$X = \pi \cdot N $$
+$$X = pr \cdot N $$
 
-where $pi$ is the average labour productivity and $N$ is the employment level.
+where $pr$ is the average labour productivity and $N$ is the employment level.
 
 *Equation (`2`)* - Aggregate consumption:
 
@@ -370,17 +370,17 @@ where $c$ is the average and marginal propensity to consume out of income, $w$ i
 
 *Equation (`3`)* - Aggregate investment:
 
-$$I = b \cdot \pi \cdot N \cdot p  $$
+$$I = b \cdot pr \cdot N \cdot p  $$
 
 where $b$ is the share of real investment to total output, and $p$ is the unit price.
 
 The equilibrium price level is determined by the equality between demand and supply:
 
-$$ \pi \cdot N = c \cdot (w \cdot N + r_b \cdot B) + b \cdot \pi \cdot N \cdot p  $$
+$$ pr \cdot N = c \cdot (w \cdot N + r_b \cdot B) + b \cdot pr \cdot N \cdot p  $$
 
 *Equation (`4`)* - Equilibrium price:
 
-$$ p = \frac{1-s}{1-b} \cdot \left[ \frac{w}{\pi} + \frac{r_b \cdot B}{\pi \cdot N} \right] $$
+$$ p = \frac{1-s}{1-b} \cdot \left[ \frac{w}{pr} + \frac{r_b \cdot B}{pr \cdot N} \right] $$
 
 where $s=1-c$ is propensity to save out of income.
 
@@ -394,17 +394,17 @@ It follows that:
 
 *Equation (`5`)* - The average real income of wage earners is:
 
-$$ \frac{w + r_b \cdot (B/N)}{p} = ... = \frac{1-b}{1-s} \cdot \pi $$
+$$ \frac{w + r_b \cdot (B/N)}{p} = ... = \frac{1-b}{1-s} \cdot pr $$
 
 *Equation (`6`)* - Real consumption is therefore:
 
-$$ (1-b) \cdot \pi $$
+$$ (1-b) \cdot pr $$
 
 Average real consumption of wage earners depends on both the average productivity of labour (+) and the share of firms' investment (-).
 
 *Equation (`7`)* -The profit rate for the firms sector is:
 
-$$ r_f = \frac{\pi \cdot N \cdot p - (w \cdot N + r_b \cdot B)}{w \cdot N + r_b \cdot B } = \frac{b-s}{1-b} $$
+$$ r_f = \frac{pr \cdot N \cdot p - (w \cdot N + r_b \cdot B)}{w \cdot N + r_b \cdot B } = \frac{b-s}{1-b} $$
 
 *Equation (`8`)* - Total (monetary) profits are:
 
@@ -412,7 +412,7 @@ $$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N 
 
 *Equation (`9`)* - Total profits, expressed in real terms, are:
 
-$$ \frac{\Pi}{p} = \frac{b-s}{1-b} \cdot \pi \cdot N $$
+$$ \frac{\Pi}{p} = \frac{b-s}{1-b} \cdot pr \cdot N $$
 
 The following implications hold:
 
@@ -625,7 +625,7 @@ The model can be easily simulated by identifying the coefficients and attributin
 
 ### B3_Model_BMW
 
-This is the simplest model explicitly including commercial banks. It is developed in chapter 7 of Godley and Lavoie (2007), "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **BMW** stands for "bank-money world", because there is only one kind of financial assets: bank deposits held by households. Firms’ investment in fixed capital is funded by bank loans and amortisation funds. This model can be regarded as the dynamic counterpart of the basic TMC (static) model. 
+This is the simplest model explicitly including commercial banks. It is developed in chapter 7 of Godley and Lavoie (2007), "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **BMW** stands for "bank-money world", because there is only one kind of financial assets: bank deposits held by households. Firms’ investment in fixed capital is funded by bank loans and amortisation funds. This model can be regarded as the dynamic counterpart of the TMC basic (static) model. 
 
 Key assumptions are as follows:
 
@@ -701,6 +701,19 @@ $$ M_s = M_{s,-1} + (L_s - L_{s,-1}) $$
         
 $$ r_m = r_l $$
 
+#### B3.5 The labour market 
+      
+*Equation (`B.12`)* - Supply of wages:
+
+$$ WB_s = w \cdot N_s $$         
+      
+*Equation (`B.14`)* - Labour demand:
+
+$$ N_d = Y/pr $$       
+      
+*Equation (`B.15`)* - Wage rate:
+
+$$ w = WB_d/N_d $$       
 
 
 
