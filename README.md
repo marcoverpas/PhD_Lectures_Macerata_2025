@@ -17,7 +17,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [A2 Presuppositions of the TMC](#A2_Presuppositions_of_the_TMC)
 - [A3 A simple TMC model](#A3_A_Simple_TMC_Model)
 - [A4 Distribution in a TMC model](#A4_Distribution_in_a_TFC_model)
-- [A5 On some misconceptions surrounding the TMC](#A5_On_some_misconceptions)
+- [A5 Policy implications](#A5_Policy_implications)
 - [B1 Introduction to SFC models](#B1_Introduction)
 - [B2 Model PC](#2_Model_PC)
 - [B3 Model IO-PC](#3_Model_IO-PC)
@@ -419,7 +419,7 @@ The following implications hold:
 
 - If, by chance, $` s = b `$, prices equal the monetary cost of production, hence profits = 0.
 
-- - If $` s = 0 `$, real profits = investment.
+- If $` s = 0 `$, real profits = investment.
 
 Lastly, note that net profits must be calculated net of interests paid to the banks:
 
@@ -429,15 +429,16 @@ where $` \lambda `$ is workers' deposit holdings to total income ratio, defined 
 
 An increase in the interest rate paid by firms on securities produces contrasting consequences, as it reduces $` \lambda `$ but increases $` r_b \cdot B `$.
 
+## A5_Policy_implications
+
 It can be demonstrated that, if we add taxation and government spending to the equations above, the results still hold. Intuitively, if the firms can decide both the level and the composition of output, fiscal policies can only affect the unit price.
 
 The distribution of real income between wages and profits is strictly connected to the independent decisions of firms about the subdivision of production between consumption goods and investment goods.
 
 These decisions overcome any redistribution performed by taxation and subsidies, which do not affect the distribution of real income. The main policy implication is that, if the government wants to alter the distribution of real income in favour of wages, it should provide goods and services in real terms.
 
-## A5_On_some_misconceptions
-...
-... (stress implications of economic policy) (create interactive models)
+
+(TO BE COMPLETED) (create interactive models)
 
 
 ## B1_Introduction_to_SFC_Models
