@@ -429,6 +429,11 @@ where $` \lambda `$ is workers' deposit holdings to total income ratio, defined 
 
 An increase in the interest rate paid by firms on securities produces contrasting consequences, as it reduces $` \lambda `$ but increases $` r_b \cdot B `$.
 
+It can be demonstrated that, if we add taxation and government spending to the equations above, the results still hold. Intuitively, if the firms can decide both the level and the composition of output, fiscal policies can only affect the unit price.
+
+The distribution of real income between wages and profits is strictly connected to the independent decisions of firms about the subdivision of production between consumption goods and investment goods.
+
+These decisions overcome any redistribution performed by taxation and subsidies, which do not affect the distribution of real income. The main policy implication is that, if the government wants to alter the distribution of real income in favour of wages, it should provide goods and services in real terms.
 
 ## A5_On_some_misconceptions
 ...
