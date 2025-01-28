@@ -630,7 +630,7 @@ The model can be easily simulated by identifying the coefficients and attributin
 
 ### B3_Model_BMW
 
-This is the simplest model explicitly including commercial banks. It is developed in chapter 7 of Godley and Lavoie (2007), "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **BMW** stands for "bank-money world", because there is only one kind of financial assets: bank deposits held by households. Firms’ investment in fixed capital is funded by bank loans and amortisation funds. This model can be regarded as the dynamic counterpart of the TMC basic (static) model. 
+This is the simplest model explicitly including commercial banks. It is developed in chapter 7 of Godley and Lavoie (2007), "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **BMW** stands for "bank-money world", because there is only one kind of financial assets: bank deposits held by households. Firms’ investment in fixed capital is funded by bank loans and amortisation funds. This model can be regarded as the dynamic counterpart of the TMC basic (static) model without security issues. 
 
 Key assumptions are as follows:
 
@@ -786,7 +786,7 @@ $$
 
 Equation (`C.5`) matches equation (`B.8`). At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by internal funds (here $`AF`$).
 
-The reason is exactly the explanation provided by TMC theorists: firms remain (further) indebted to the banking system for an amount that equals the new bank deposits. The latter *ex post* always match the investment that has not been covered by private saving (see [here](https://augustograziani.com/2022/09/18/sequence-and-class-divide-a-reply-to-the-critics-of-the-theory-of-the-monetary-circuit/) for a further discussion).
+The reason is exactly the explanation provided by TMC theorists: firms remain (further) indebted to the banking system for an amount that equals the new bank deposits. The latter *ex post* always match the investment that has not been covered by private saving. Note that this conclusion remains valid even if firms are assumed to issue securities and/or retain a different share of profits. (see [here](https://augustograziani.com/2022/09/18/sequence-and-class-divide-a-reply-to-the-critics-of-the-theory-of-the-monetary-circuit/) for a thorough discussion and [here](https://www.deps.unisi.it/it/ricerca/pubblicazioni-deps/quaderni-deps/anno-2023-da-n894-n/903-technical-change-and-monetary) for a more advanced presentation).
 
 The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
