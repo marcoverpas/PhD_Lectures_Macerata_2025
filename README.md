@@ -812,53 +812,53 @@ It is also assumed that the marginal propensity to consume out of income is a ne
 
 Notice that scalars are represented using *italic characters*, whereas vectors and matrices are represented using non-italic characters hereafter.
 
-*Equation (`12`)* - Column vector defining *composition of real consumption* (behavioural):
+Column vector defining *composition of real consumption* (behavioural):
 
-$$**\text{B}_c** = **\bar{\text{B}}_c**  $$  
+$$**\text{B}_c** = **\bar{\text{B}}_c** \quad \text{(12)} $$  
 
 where $\mathrm{B_c} = [ B_{c1} \text{ }  B_{c2} ]$ and $B_{c1} + B_{c2} = 1$.
 
-*Equation (`13`)* - Column vector defining *composition of real government expenditure* (behavioural):
+Column vector defining *composition of real government expenditure* (behavioural):
 
-$$**\text{B}_g** = **\bar{\text{B}}_g** $$  
+$$**\text{B}_g** = **\bar{\text{B}}_g** \quad \text{(13)} $$  
 
 where $\mathrm{B_g} = [ B_{g1} \text{ } B_{g2} ]$ and $B_{g1} + B_{g2} = 1$.
 
-*Equation (`14`)* - Column vector of *final demands in real terms* (identity):
+Column vector of *final demands in real terms* (identity):
 
-$$**\text{d}** = **\text{B}_c** \cdot c + **\text{B}_g** \cdot g $$  
+$$**\text{d}** = **\text{B}_c** \cdot c + **\text{B}_g** \cdot g \quad \text{(14)} $$  
 
-*Equation (`15`)* - Column vector of *real gross outputs* (identity):
+Column vector of *real gross outputs* (identity):
 
 $$**\text{x}** = **\text{A}** \cdot **\text{x}** + **\text{d}**, ~ with: **\text{A}**= \left(\begin{array}{cc} a_{11} & a_{12} \\
                                                                         a_{21} & a_{22}
-                                                                        \end{array}\right) $$  
+                                                                        \end{array}\right) \quad \text{(15)} $$  
 
-*Equation (`1.A`)* - Modified equation for *national income* (identity):
+Modified equation for *national income* (identity):
 
-$$Y = **\text{p}^T** \cdot **\text{d}** $$
+$$Y = **\text{p}^T** \cdot **\text{d}** \quad \text{(1.A)} $$
 
-*Equation (`16`)* - Column vector of *unit prices of reproduction* (behavioural):
+Column vector of *unit prices of reproduction* (behavioural):
 
-$$**\text{p}** = \frac{w}{**\text{pr}**} + ( **\text{p}**^T \cdot **\text{A}** ) \cdot (1 + \mu) $$
+$$**\text{p}** = \frac{w}{**\text{pr}**} + ( **\text{p}**^T \cdot **\text{A}** ) \cdot (1 + \mu) \quad \text{(16)} $$
 
 where $w$ is the (uniform) wage rate, $\mathrm{pr}$ is the vector of labour productivities, and $\mu$ is the (uniform) profit rate.
 
-*Equation (`17`)* - *Average consumer price* (identity):
+*Average consumer price* (identity):
 
-$$p_c = **\text{p}^T** \cdot **\text{B}_c** $$  
+$$p_c = **\text{p}^T** \cdot **\text{B}_c** \quad \text{(17)} $$  
 
-*Equation (`18`)* - *Average price for the government* (identity):
+*Average price for the government* (identity):
 
-$$p_g = **\text{p}^T** \cdot **\text{B}_g** $$  
+$$p_g = **\text{p}^T** \cdot **\text{B}_g** \quad \text{(18)} $$  
 
-*Equation (`5.A`)* - *Real consumption function* (behavioural):
-$$c = \alpha_1 \cdot \left( \frac{YD}{p_c} - \pi \cdot \frac{V_{-1}}{p_c} \right) + \alpha_2 \cdot \frac{V_{-1}}{p_{c,-1}} $$
+*Real consumption function* (behavioural):
+$$c = \alpha_1 \cdot \left( \frac{YD}{p_c} - \pi \cdot \frac{V_{-1}}{p_c} \right) + \alpha_2 \cdot \frac{V_{-1}}{p_{c,-1}} \quad \text{(5.A)} $$
 
 where $\pi$ is the rate of growth of the consumer price index (inflation rate), as consumers are assumed not to suffer from monetary illusion.
 
-*Equation (`19`)* - *Propensity to consume out of income* (behavioural):
-$$\alpha_1 = \alpha_{10} - \alpha_{11} \cdot r_{-1}$$
+*Propensity to consume out of income* (behavioural):
+$$\alpha_1 = \alpha_{10} - \alpha_{11} \cdot r_{-1} \quad \text{(19)} $$
 
 where $\alpha_{10}$ and $\alpha_{11}$ are positive coefficients.
 
