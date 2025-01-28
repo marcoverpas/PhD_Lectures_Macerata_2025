@@ -398,7 +398,7 @@ $$ \frac{w + r_b \cdot (B/N)}{p} = ... = \frac{1-b}{1-s} \cdot pr \quad \text{(5
 
 Real consumption is therefore:
 
-$$ (1-b) \cdot pr \quad \text{(6)} $$
+$$ \frac{C}{p} = (1-b) \cdot pr \quad \text{(6)} $$
 
 Average real consumption of wage earners depends on both the average productivity of labour (+) and the share of firms' investment (-).
 
@@ -456,7 +456,7 @@ $$ p = \frac{(1-s) \cdot (1-t)}{(1-b-g)} \cdot \frac{w}{pr} \quad \text{(4b)} $$
 
 where $` g `$ is the share of output purchased by the government sector and $` t `$ is the average tax rate on income.
 
-The higher the government spending (however funded) and the lower the tax rate, the higher the unit price will be. However, it is apparent that real profits, and hence real wages, are unaffected by government spending and taxation - refer to *Equation (`9`)*.
+The higher the government spending (however funded) and the lower the tax rate, the higher the unit price will be. However, it is apparent that real profits, and hence real wages, are unaffected by government spending and taxation - refer to *equation (`9`)*.
 
 The reason is that the distribution of real income between wages and profits is strictly connected to the independent decisions of firms about the subdivision of production between consumption goods and investment goods.
 
