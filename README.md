@@ -745,6 +745,10 @@ $$ I_d = \gamma \cdot (K^t - K_{-1}) + DA $$
         
 $$ r_l = \bar{r}_l $$
 
+The nodel is now complete. (...)
+
+**(TO BE FINISHED)**
+
 Equation *(`B.8`)* deserves a few additional comments. According to the TMC, firms use bank credit to cover production costs (wages) at the beginning of each period. This initial finance ($FIN_i$) is:
 
 $$
