@@ -772,12 +772,12 @@ $$
 Using (C.4) and (B.5) into (C.3), we obtain:
 
 $$
-\Delta L = I_d - AF
+\Delta L = I_d - AF \quad \text{(C.5)}
 $$
 
-which exactly matches equation (`B8`). At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by new issues ($\Delta B$) and/or retained profits ($`(1 - \Theta) \cdot \Pi`$).
+Equation (`C.5`) matches equation (`B.8`). At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by new issues ($\Delta B$) and/or retained profits ($`(1 - \Theta) \cdot \Pi`$).
 
-The reason is exactly the explanation provided by Graziani: firms remain (further) indebted to the banking system for an amount that equals the new bank deposits. The latter ex post always match the investment that has not been covered by private saving (see [here](https://augustograziani.com/2022/09/18/sequence-and-class-divide-a-reply-to-the-critics-of-the-theory-of-the-monetary-circuit/) for a further discussion).
+The reason is exactly the explanation provided by TMC theorists: firms remain (further) indebted to the banking system for an amount that equals the new bank deposits. The latter *ex post* always match the investment that has not been covered by private saving (see [here](https://augustograziani.com/2022/09/18/sequence-and-class-divide-a-reply-to-the-critics-of-the-theory-of-the-monetary-circuit/) for a further discussion).
 
 The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
