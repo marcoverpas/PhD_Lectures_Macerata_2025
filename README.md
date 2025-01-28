@@ -356,21 +356,21 @@ TMC theorists reject the basic idea of consumer sovereignty in favour of the opp
 
 To understand how prices are set within a basic TMC scheme, consider the following system of equations (taken from [Graziani, 2006](https://www.cambridge.org/core/books/monetary-theory-of-production/A813BE586E79CDF0DE7C3D930DBF632F)):
 
-*Equation (`1`)* - Aggregate supply: 
+Aggregate supply: 
 
-$$X = pr \cdot N $$
+$$X = pr \cdot N \quad \text{(1)} $$
 
 where $pr$ is the average labour productivity and $N$ is the employment level.
 
-*Equation (`2`)* - Aggregate consumption:
+Aggregate consumption:
 
-$$C = c \cdot (w \cdot N + r_b \cdot B)  $$
+$$C = c \cdot (w \cdot N + r_b \cdot B) \quad \text{(2)} $$
 
 where $c$ is the average and marginal propensity to consume out of income, $w$ is the wage rate, $r$ is the interest rate, and $B$ is the stock of private securities held by the wage earners.
 
-*Equation (`3`)* - Aggregate investment:
+Aggregate investment:
 
-$$I = b \cdot pr \cdot N \cdot p  $$
+$$I = b \cdot pr \cdot N \cdot p \quad \text{(3)} $$
 
 where $b$ is the share of real investment to total output, and $p$ is the unit price.
 
@@ -378,9 +378,9 @@ The equilibrium price level is determined by the equality between demand and sup
 
 $$ pr \cdot N = c \cdot (w \cdot N + r_b \cdot B) + b \cdot pr \cdot N \cdot p  $$
 
-*Equation (`4`)* - Equilibrium price:
+from which we obtain:
 
-$$ p = \frac{1-s}{1-b} \cdot \left[ \frac{w}{pr} + \frac{r_b \cdot B}{pr \cdot N} \right] $$
+$$ p = \frac{1-s}{1-b} \cdot \left[ \frac{w}{pr} + \frac{r_b \cdot B}{pr \cdot N} \right] \quad \text{(4)} $$
 
 where $s=1-c$ is propensity to save out of income.
 
@@ -392,27 +392,27 @@ It follows that:
 
 - each variation in the unit price produces a proportional variation in the money stock (for any value of the velocity of ciculation of money).
 
-*Equation (`5`)* - The average real income of wage earners is:
+The average real income of wage earners is:
 
-$$ \frac{w + r_b \cdot (B/N)}{p} = ... = \frac{1-b}{1-s} \cdot pr $$
+$$ \frac{w + r_b \cdot (B/N)}{p} = ... = \frac{1-b}{1-s} \cdot pr \quad \text{(5)} $$
 
-*Equation (`6`)* - Real consumption is therefore:
+Real consumption is therefore:
 
-$$ (1-b) \cdot pr $$
+$$ (1-b) \cdot pr \quad \text{(6)} $$
 
 Average real consumption of wage earners depends on both the average productivity of labour (+) and the share of firms' investment (-).
 
-*Equation (`7`)* -The profit rate for the firms sector is:
+The profit rate for the firms sector is:
 
-$$ r_f = \frac{pr \cdot N \cdot p - (w \cdot N + r_b \cdot B)}{w \cdot N + r_b \cdot B } = \frac{b-s}{1-b} $$
+$$ r_f = \frac{pr \cdot N \cdot p - (w \cdot N + r_b \cdot B)}{w \cdot N + r_b \cdot B } = \frac{b-s}{1-b} \quad \text{(7)} $$
 
-*Equation (`8`)* - Total (monetary) profits are:
+Total (monetary) profits are:
 
-$$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N + r_b \cdot B) $$
+$$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N + r_b \cdot B)\quad \text{(8)} $$
 
-*Equation (`9`)* - Total profits, expressed in real terms, are:
+Total profits, expressed in real terms, are:
 
-$$ \frac{\Pi}{p} = \frac{b-s}{1-b} \cdot pr \cdot N $$
+$$ \frac{\Pi}{p} = \frac{b-s}{1-b} \cdot pr \cdot N \quad \text{(9)} $$
 
 The following implications hold:
 
@@ -424,9 +424,9 @@ The following implications hold:
 
 - If $` s = 0 `$, real profits = investment.
 
-*Equation (`10`)* - Lastly, note that net profits must be calculated net of interests paid to the banks:
+Lastly, note that net profits must be calculated net of interests paid to the banks:
 
-$$ \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_B ) \cdot (w \cdot N + r_b \cdot B) $$
+$$ \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_B ) \cdot (w \cdot N + r_b \cdot B) \quad \text{(10)} $$
 
 where $` \lambda `$ is workers' deposit holdings to total income ratio, defined as a negative function of the interest rate on private securities, and $` r_l `$ is the interest rate on bank loans to firms.
 
@@ -442,7 +442,7 @@ If money is endogenous, an increase in money prices brings about a proportional 
 
 Even assuming costant wages, firms can lose profits on the credit market. Inflation produces a redistribution of profits from the firms to the banks, which implies a decline in industrial profits and an increase in financial incomes.
 
-While the firms can compensate for losses in the labour market by increasing money prices - see *Equation (`4`)* - they are unable to compensate for losses in the credit market due to the increase in the interest rate.
+While the firms can compensate for losses in the labour market by increasing money prices - see *equation (`4`)* - they are unable to compensate for losses in the credit market due to the increase in the interest rate.
 
 The contraction of profits can be mitigated by reducing the policy rate and enhancing the liquidity and marketability of firms' securities.
 
@@ -452,7 +452,7 @@ It can be demonstrated that, if we add taxation and government spending to the e
 
 For the sake of simplicity, let's assume that interest rates are equal to zero. The unit price of output becomes: 
 
-$$ p = \frac{(1-s) \cdot (1-t)}{(1-b-g)} \cdot \frac{w}{pr} $$
+$$ p = \frac{(1-s) \cdot (1-t)}{(1-b-g)} \cdot \frac{w}{pr} \quad \text{(4b)} $$
 
 where $` g `$ is the share of output purchased by the government sector and $` t `$ is the average tax rate on income.
 
