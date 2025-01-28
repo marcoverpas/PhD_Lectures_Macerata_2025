@@ -13,19 +13,22 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 
 ## Table of Contents
 
-- [A1 The endogenous money view](#A1_The_Endogenous_Money_View)
-- [A2 Presuppositions of the TMC](#A2_Presuppositions_of_the_TMC)
-- [A3 A simple TMC model](#A3_A_Simple_TMC_Model)
-- [A4 Distribution in a TMC model](#A4_Distribution_in_a_TMC_model)
-- [A5 Policy implications](#A5_Policy_implications)
-- [B1 Introduction to SFC models](#B1_Introduction)
-- [B2 Model PC](#B2_Model_PC)
-- [B3 Model BMW](#B3_Model_BMW)
-- [B4 Model IO-PC](#B4_Model_IO-PC)
-- [B5 Model ECO-IO-PC](#B5_Model_ECO-IO-PC)
-- [B6 Experiments](#B6_Experiments)
-- [Suggested readings](#Suggested_readings)
+- [A The monetary circuit theory](#A_The_Monetary_Circuit_Theory)
+- [A1 The endogenous money view](##A1_The_Endogenous_Money_View)
+- [A2 Presuppositions of the TMC](##A2_Presuppositions_of_the_TMC)
+- [A3 A simple TMC model](##A3_A_Simple_TMC_Model)
+- [A4 Distribution in a TMC model](##A4_Distribution_in_a_TMC_model)
+- [A5 Policy implications](##A5_Policy_implications)
+- [Stock-flow consistent models in economic research](#B_Stock-Flow_Consistent_Models_in_Economic_Research)
+- [B1 Introduction to SFC models](##B1_Introduction)
+- [B2 Model PC](##B2_Model_PC)
+- [B3 Model BMW](##B3_Model_BMW)
+- [B4 Model IO-PC](##B4_Model_IO-PC)
+- [B5 Model ECO-IO-PC](##B5_Model_ECO-IO-PC)
+- [B6 Experiments](##B6_Experiments)
+- [Suggested readings](##Suggested_readings)
 
+# A_The_Monetary_Circuit_Theory
 
 ## A1_The_Endogenous_Money_View
 
@@ -461,6 +464,8 @@ The higher the government spending (however funded) and the lower the tax rate, 
 The reason is that the distribution of real income between wages and profits is strictly connected to the independent decisions of firms about the subdivision of production between consumption goods and investment goods.
 
 These decisions override any redistribution performed by taxation and subsidies, which do not affect the distribution of real income. The main policy implication is that, if the government wants to alter the distribution of real income in favor of wages, it should provide goods and services in real terms.
+
+# B_Stock-Flow_Consistent_Models_in_Economic_Research
 
 ## B1_Introduction_to_SFC_Models
 
