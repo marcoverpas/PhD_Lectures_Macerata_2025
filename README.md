@@ -745,34 +745,34 @@ $$ I_d = \gamma \cdot (K^t - K_{-1}) + DA $$
         
 $$ r_l = \bar{r}_l $$
 
-Equation *(`B.8`)* deserves a few comments. According to the TMC firms use bank credit to cover production costs (wages) at the beginning of each period. This initial finance ($FIN_i$) is:
+Equation *(`B.8`)* deserves a few additional comments. According to the TMC, firms use bank credit to cover production costs (wages) at the beginning of each period. This initial finance ($FIN_i$) is:
 
 $$
 FIN_i = w \cdot N_d \quad \text{(C.1)}
 $$
 
-By contrast, the final finance ($FIN_f$) recovered by the firms at the end of each period is:
+By contrast, the final funding ($FIN_f$) that the firms obtain at the end of each period is:
 
 $$
-FIN_f = C - r_l \cdot L_d - AF \quad \text{(C.2)}
+FIN_f = C_s - r_l \cdot L_d - AF \quad \text{(C.2)}
 $$
 
 We can now calculate the change in the stock of loans recorded at the end of the period, which is:
 
 $$
-\Delta L_d = FIN_i - FIN_f = w \cdot N - \left[ C - r_l \cdot L_d - AF \right] \quad \text{(C.3)}
+\Delta L_d = FIN_i - FIN_f = w \cdot N_d - \left[ C_s - r_l \cdot L_d - AF \right] \quad \text{(C.3)}
 $$
 
 Firms' profits are defined residually:
 
 $$
-\Pi = Y - w \cdot N - r_l \cdot L_d \quad \text{(C.4)}
+\Pi = Y - w \cdot N_d - r_l \cdot L_d \quad \text{(C.4)}
 $$
 
 Using (C.4) and (B.5) into (C.3), we obtain:
 
 $$
-\Delta L = I_d - AF \quad \text{(C.5)}
+\Delta L_d = I_d - AF \quad \text{(C.5)}
 $$
 
 Equation (`C.5`) matches equation (`B.8`). At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by new issues ($\Delta B$) and/or retained profits ($`(1 - \Theta) \cdot \Pi`$).
