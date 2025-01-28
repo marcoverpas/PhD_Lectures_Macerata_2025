@@ -754,33 +754,31 @@ $$
 By contrast, the final finance ($FIN_f$) recovered by the firms at the end of each period is:
 
 $$
-FIN_f = C + \Delta B - r_b \cdot B - r_l \cdot L - \Theta \cdot \Pi \quad \text{(C.2)}
+FIN_f = C + \Delta B - r_l \cdot L_d - AF \quad \text{(C.2)}
 $$
-
-where $`\Theta`$ is the share of profit distributed to the capitalists.
 
 As a result, the change in the stock of loans recorded at the end of the period is:
 
 $$
-\Delta L = FIN_i - FIN_f
+\Delta L_d = FIN_i - FIN_f
 $$
 
 from which one obtains:
 
 $$
-\Delta L = w \cdot N - \left[ C + \Delta B - r_b \cdot B - r_l \cdot L - \Theta \cdot \Pi \right] \quad \text{(C.3)}
+\Delta L_d = w \cdot N - \left[ C - r_l \cdot L_d - AF \right] \quad \text{(C.3)}
 $$
 
 Corporate profits are:
 
 $$
-\Pi = Y - w \cdot N - r_b \cdot B + r_l \cdot L \quad \text{(C.4)}
+\Pi = Y - w \cdot N - r_l \cdot L_d \quad \text{(C.4)}
 $$
 
 Using (C.4) and (B.5) into (C.3), one obtains:
 
 $$
-\Delta L = I_d - \Delta B - (1 - \Theta) \cdot \Pi
+\Delta L = I_d - AF
 $$
 
 At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by new issues ($\Delta B$) and/or retained profits ($`(1 - \Theta) \cdot \Pi`$).
