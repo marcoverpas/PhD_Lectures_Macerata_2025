@@ -552,7 +552,7 @@ Completing the identities derived form the tables above with behavioural equatio
 
 *Equation (`1`)* - National income (identity): 
 
-$$Y = C + G $$
+$$Y = C + G \quad \text{(1)} $$
 
 where $C$ is household consumption and $G$ is government expenditure.
 
