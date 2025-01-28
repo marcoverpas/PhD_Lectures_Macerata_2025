@@ -748,40 +748,36 @@ $$ r_l = \bar{r}_l $$
 Equation *(`B.8`)* deserves a few comments. According to the TMC firms use bank credit to cover production costs (wages) at the beginning of each period. This initial finance ($FIN_i$) is:
 
 $$
-FIN_i = w \cdot N \quad \text{(C.1)}
+FIN_i = w \cdot N_d \quad \text{(C.1)}
 $$
 
 By contrast, the final finance ($FIN_f$) recovered by the firms at the end of each period is:
 
 $$
-FIN_f = C + \Delta B - r_l \cdot L_d - AF \quad \text{(C.2)}
+FIN_f = C - r_l \cdot L_d - AF \quad \text{(C.2)}
 $$
 
-As a result, the change in the stock of loans recorded at the end of the period is:
+We can now calculate the change in the stock of loans recorded at the end of the period, which is:
 
 $$
-\Delta L_d = FIN_i - FIN_f
+\Delta L_d = FIN_i - FIN_f = w \cdot N - \left[ C - r_l \cdot L_d - AF \right] \quad \text{(C.3)}
 $$
 
-from which one obtains:
-
-$$
-\Delta L_d = w \cdot N - \left[ C - r_l \cdot L_d - AF \right] \quad \text{(C.3)}
-$$
-
-Corporate profits are:
+Firms' profits are defined residually:
 
 $$
 \Pi = Y - w \cdot N - r_l \cdot L_d \quad \text{(C.4)}
 $$
 
-Using (C.4) and (B.5) into (C.3), one obtains:
+Using (C.4) and (B.5) into (C.3), we obtain:
 
 $$
 \Delta L = I_d - AF
 $$
 
-At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by new issues ($\Delta B$) and/or retained profits ($`(1 - \Theta) \cdot \Pi`$).
+which exactly matches equation (`B8`). At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by new issues ($\Delta B$) and/or retained profits ($`(1 - \Theta) \cdot \Pi`$).
+
+The reason is exactly the explanation provided by Graziani: firms remain (further) indebted to the banking system for an amount that equals the new bank deposits. The latter ex post always match the investment that has not been covered by private saving (see [here](https://augustograziani.com/2022/09/18/sequence-and-class-divide-a-reply-to-the-critics-of-the-theory-of-the-monetary-circuit/) for a further discussion).
 
 The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
