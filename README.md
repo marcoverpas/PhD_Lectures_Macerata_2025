@@ -647,103 +647,103 @@ In formal terms, the model is expressed by a system of 21 equations.
 
 #### B3.1 Behavioural equations and equilibrium condition
       
-*Equation (`B.1`)* - Supply of consumption goods:
+Supply of consumption goods:
 
-$$ C_s = C_d $$
+$$ C_s = C_d \quad \text{(B.1)} $$
 
-*Equation (`B.2`)* - Supply of investment goods:
+Supply of investment goods:
 
-$$ I_s = I_d $$
+$$ I_s = I_d \quad \text{(B.2)} $$
 
-*Equation (`B.3`)* - Supply of labour:
+Supply of labour:
 
-$$ N_s = N_d $$
+$$ N_s = N_d \quad \text{(B.3)} $$
         
-*Equation (`B.4`)* - Supply of loans:
+Supply of loans:
 
-$$ L_s = L_{s,-1} + (L_d - L_{d,i-1})  $$
+$$ L_s = L_{s,-1} + (L_d - L_{d,i-1}) \quad \text{(B.4)} $$
 
 #### B3.2 Transactions of the firms
 
-*Equation (`B.5`)* - GDP definition:
+GDP definition:
 
-$$ Y = C_s + I_s $$
+$$ Y = C_s + I_s \quad \text{(B.5)} $$
         
-*Equation (`B.6`)* - Wage bill:
+Wage bill:
 
-$$ WB_d = Y - r_{l,-1} \cdot L_{d,-1} - AF  $$
+$$ WB_d = Y - r_{l,-1} \cdot L_{d,-1} - AF \quad \text{(B.6)} $$
         
-*Equation (`B.7`)* - Depreciation allowances:
+Depreciation allowances:
 
-$$ AF = DA $$
+$$ AF = DA \quad \text{(B.7)} $$
         
-*Equation (`B.8`)* - Demand for bank loans:
+Demand for bank loans:
 
-$$ L_d = L_{d,-1} + I_d - AF $$ 
+$$ L_d = L_{d,-1} + I_d - AF \quad \text{(B.8)} $$ 
 
 #### B3.3 Transactions of the households
       
-*Equation (`B.9`)* - Disposable income:
+Disposable income:
 
-$$ YD = WB_d + r_{m,-1} \cdot M_{h,-1} $$
+$$ YD = WB_d + r_{m,-1} \cdot M_{h,-1} \quad \text{(B.9)} $$
       
-*Equation (`B.10`)* - Bank deposits held by households:
+Bank deposits held by households:
 
-$$ M_h = M_{h,-1} + YD - C_d $$
+$$ M_h = M_{h,-1} + YD - C_d \quad \text{(B.10)} $$
 
 #### B3.4 Transactions of the banks  
       
-*Equation (`B.11`)* - Supply of deposits:
+Supply of deposits:
 
-$$ M_s = M_{s,-1} + (L_s - L_{s,-1}) $$
+$$ M_s = M_{s,-1} + (L_s - L_{s,-1}) \quad \text{(B.11)} $$
       
-*Equation (`B.12`)* - Rate of interest on deposits:
+Rate of interest on deposits:
         
-$$ r_m = r_l $$
+$$ r_m = r_l \quad \text{(B.12)} $$
 
 #### B3.5 The labour market 
       
-*Equation (`B.12`)* - Supply of wages:
+Supply of wages:
 
-$$ WB_s = w \cdot N_s $$         
+$$ WB_s = w \cdot N_s \quad \text{(B.13)} $$         
       
-*Equation (`B.14`)* - Labour demand:
+Labour demand:
 
-$$ N_d = \frac{Y}{pr} $$       
+$$ N_d = \frac{Y}{pr} \quad \text{(B.14)} $$       
       
-*Equation (`B.15`)* - Wage rate:
+Wage rate:
 
-$$ w = \frac{WB_d}{N_d} $$       
+$$ w = \frac{WB_d}{N_d} \quad \text{(B.15)} $$       
 
 #### B3.6 Household behaviour
       
-*Equation (`B.16`)* - Demand for consumption goods:
+Demand for consumption goods:
 
-$$ C_d = \alpha_0 + \alpha_1 \cdot YD + \alpha_2 \cdot M_{h,-1} $$
+$$ C_d = \alpha_0 + \alpha_1 \cdot YD + \alpha_2 \cdot M_{h,-1} \quad \text{(B.16)} $$
 
 #### B3.7 Investment behaviour
       
-*Equation (`B.17`)* - Accumulation of capital:
+Accumulation of capital:
 
-$$ K = K_{-1} + I_d - DA $$
+$$ K = K_{-1} + I_d - DA \quad \text{(B.17)} $$
       
-*Equation (`B.18`)* - Depreciation allowances:
+Depreciation allowances:
 
-$$ DA = \delta \cdot K_{-1} $$
+$$ DA = \delta \cdot K_{-1} \quad \text{(B.18)} $$
       
-*Equation (`B.19`)* - Capital stock target:
+Capital stock target:
 
-$$ K^t = \kappa \cdot Y_{-1} $$
+$$ K^t = \kappa \cdot Y_{-1} \quad \text{(B.19)} $$
       
-*Equation (`B.20`)* - Demand for investment goods:
+Demand for investment goods:
 
-$$ I_d = \gamma \cdot (K^t - K_{-1}) + DA $$
+$$ I_d = \gamma \cdot (K^t - K_{-1}) + DA \quad \text{(B.20)} $$
       
 #### B3.8 Banks behaviour
       
-*Equation (`B.21`)* - Interest rate on loans:
+Interest rate on loans:
         
-$$ r_l = \bar{r}_l $$
+$$ r_l = \bar{r}_l \quad \text{(B.21)} $$
 
 The nodel is now complete. (...)
 
