@@ -779,7 +779,7 @@ $$
 \Delta L_d = I_d - AF \quad \text{(C.5)}
 $$
 
-Equation (`C.5`) matches equation (`B.8`). At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by new issues ($\Delta B$) and/or retained profits ($`(1 - \Theta) \cdot \Pi`$).
+Equation (`C.5`) matches equation (`B.8`). At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by internal funds (here $`AF`$).
 
 The reason is exactly the explanation provided by TMC theorists: firms remain (further) indebted to the banking system for an amount that equals the new bank deposits. The latter *ex post* always match the investment that has not been covered by private saving (see [here](https://augustograziani.com/2022/09/18/sequence-and-class-divide-a-reply-to-the-critics-of-the-theory-of-the-monetary-circuit/) for a further discussion).
 
