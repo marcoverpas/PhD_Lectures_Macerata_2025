@@ -769,7 +769,7 @@ $$
 \Pi = Y - w \cdot N_d - r_l \cdot L_d \quad \text{(C.4)}
 $$
 
-Using (C.4) and (B.5) into (C.3), we obtain:
+Using the GDP equation (`B.5`) and the profit equation (`C.4`) into the loans equation (`C.3`), we obtain:
 
 $$
 \Delta L_d = I_d - AF \quad \text{(C.5)}
