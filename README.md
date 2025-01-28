@@ -929,121 +929,121 @@ Behavioural equations draw inspiration from the works of [Dafermos, Nikolaidi, a
 
 Firstly, extractions of matter and waste are modelled.
 
-*Equation (`20`)* - Production of *material goods*:
+Production of *material goods*:
 
-$$ x_{mat} = **\text{m}_{mat}^T** \cdot **\text{x}** $$
+$$ x_{mat} = **\text{m}_{mat}^T** \cdot **\text{x}** \quad \text{(20)} $$
 
 where $\text{m}_{mat}$ is the vector of material intensity coefficients by industry.
 
-*Equation (`21`)* - *Extraction* of matter:
+*Extraction* of matter:
 
-$$mat = x_{mat} - rec$$
+$$mat = x_{mat} - rec \quad \text{(21)} $$
 
-*Equation (`22`)* - *Recycled* matter:
+*Recycled* matter:
 
-$$rec = \rho_{dis} \cdot dis$$
+$$rec = \rho_{dis} \cdot dis \quad \text{(22)} $$
 
 where $\rho_{dis}$ is the recycling rate of discarded products.
 
-*Equation (`23`)* - *Discarded* socioeconomic stock:  
+*Discarded* socioeconomic stock:  
 
-$$dis = **\text{m}_{mat}^T** \cdot (**\text{z}_{dc}** \odot **\text{dc}_{-1}**)$$
+$$dis = **\text{m}_{mat}^T** \cdot (**\text{z}_{dc}** \odot **\text{dc}_{-1}**) \quad \text{(23)} $$
 
 where $\text{z}_{dc}$ is the vector defining the percentages of discarded socio-economic stock by industry.
 
-*Equation (`24`)* - Stock of *durable goods*:
+Stock of *durable goods*:
 
-$$ **\text{dc}** = **\text{dc}_{-1}** + **\text{B}_c** \cdot c - **\text{z}_{dc}** \cdot **\text{dc}_{-1}** $$
+$$ **\text{dc}** = **\text{dc}_{-1}** + **\text{B}_c** \cdot c - **\text{z}_{dc}** \cdot **\text{dc}_{-1}** \quad \text{(24)} $$
 
-*Equation (`25`)* - *Socioeconomic stock*:
+*Socioeconomic stock*:
 
-$$k_h = k_{h,-1} + x_{mat} - dis $$
+$$k_h = k_{h,-1} + x_{mat} - dis \quad \text{(25)} $$
 
-*Equation (`26`)* - *Waste*:
+*Waste*:
 
-$$wa = mat - (k_h - k_{h,-1}) $$
+$$wa = mat - (k_h - k_{h,-1}) \quad \text{(26)} $$
 
 Secondly, energy use and CO2 emissions are considered.
 
-*Equation (`27`)* - *Total energy* required for production:
+*Total energy* required for production:
 
-$$en = **\text{e}_{en}^T** \cdot **\text{x}**$$
+$$en = **\text{e}_{en}^T** \cdot **\text{x}** \quad \text{(27)} $$
 
 where $\text{e}_{en}$ is the vector that defines the energy intensity coefficients by industry.
 
-*Equation (`28`)* - *Renewable* energy at the end of the period:
+*Renewable* energy at the end of the period:
 
-$$ren = **\text{e}_{en}^T** \cdot (**\text{a}_{en}** \odot **\text{x}** )                 $$
+$$ren = **\text{e}_{en}^T** \cdot (**\text{a}_{en}** \odot **\text{x}** )    \quad \text{(28)}      $$
 
 where $\text{a}_{en}$ is the vector that defines the industry-specific shares of renewable energy to total energy.
 
-*Equation (`29`)* - *Non-renewable* energy:
+*Non-renewable* energy:
 
-$$nen = en - ren$$
+$$nen = en - ren \quad \text{(29)} $$
 
-*Equation (`30`)* - Annual flow of *CO2 emissions*:
+Annual flow of *CO2 emissions*:
 
-$$emis = \beta_{e} \cdot nen$$
+$$emis = \beta_{e} \cdot nen \quad \text{(30)} $$
 
 where $\beta_{e}$ is the CO2 intensity coefficient of non-renewable energy sources.
 
-*Equation (`31`)* - *Cumulative* emissions:
+*Cumulative* emissions:
 
-$$co2_{cum} = co2_{cum,-1} + emis$$
+$$co2_{cum} = co2_{cum,-1} + emis \quad \text{(31)} $$
 
-*Equation (`32`)* - Atmospheric *temperature*:
+Atmospheric *temperature*:
 
-$$temp = \frac{1}{1-fnc} \cdot tcre \cdot co2_{cum}$$
+$$temp = \frac{1}{1-fnc} \cdot tcre \cdot co2_{cum} \quad \text{(32)} $$
 
 where $fnc$ is the non-CO2 fraction of total anthropocentric forcing and $tcre$ is the transient climate response to cumulative carbon emissions.
 
 Thirdly, the dynamics of reserves is modelled.
 
-*Equation (`33`)* - Stock of *matter reserves*:
+Stock of *matter reserves*:
 
-$$k_m = k_{m,-1} + conv_m - mat$$
+$$k_m = k_{m,-1} + conv_m - mat \quad \text{(33)} $$
 
-*Equation (`34`)* - Matter resources *converted* to reserves:
+Matter resources *converted* to reserves:
 
-$$conv_m = \sigma_{m} \cdot res_m$$
+$$conv_m = \sigma_{m} \cdot res_m \quad \text{(34)} $$
 
 where $\sigma_{m}$ is the conversion rate of matter resources into reserves.
 
-*Equation (`35`)* - Stock of *matter resources*:
+Stock of *matter resources*:
 
-$$res_m = res_{m,-1} - conv_m$$
+$$res_m = res_{m,-1} - conv_m \quad \text{(35)} $$
 
-*Equation (`36`)* - *Carbon mass* of non-renewable energy:
+*Carbon mass* of non-renewable energy:
 
-$$cen = \frac{emis}{car}$$
+$$cen = \frac{emis}{car} \quad \text{(36)} $$
 
 where $car$ is the coefficient converting Gt of carbon into Gt of CO2.
 
-*Equation (`37`)* - Mass of *oxygen*:
+Mass of *oxygen*:
 
-$$o2 = emis - cen$$
+$$o2 = emis - cen \quad \text{(37)} $$
 
-*Equation (`38`)* - Stock of *energy reserves*:
+Stock of *energy reserves*:
 
-$$k_e = k_{e,-1} + conv_e - en$$
+$$k_e = k_{e,-1} + conv_e - en \quad \text{(38)} $$
 
-*Equation (`39`)* - Energy resources *converted* to reserves:
+Energy resources *converted* to reserves:
 
-$$conv_e = \sigma_e \cdot res_e$$
+$$conv_e = \sigma_e \cdot res_e \quad \text{(39)} $$
 
 where $\sigma_e$ is the conversion rate of energy resources into reserves.
 
-*Equation (`40`)* - Stock of *energy resources*:
+Stock of *energy resources*:
 
-$$res_e = res_{e,-1} - conv_e$$
+$$res_e = res_{e,-1} - conv_e \quad \text{(40)} $$
 
 Lastly, feedback effects and damages can be introduced. Here the
 assumption is made that the propensity to consume out of income is
 (negatively) influenced by climate change.
 
-*Equation (`19.A`)* - New *propensity to consume* out of income:
+New *propensity to consume* out of income:
 
-$$\alpha_1 = \alpha_{10} - \alpha_{11} \cdot r_{-1} - \alpha_{12} \cdot \Delta temp$$
+$$\alpha_1 = \alpha_{10} - \alpha_{11} \cdot r_{-1} - \alpha_{12} \cdot \Delta temp \quad \text{(19.A)} $$
 
 where $\alpha_{12}$ is a positive coefficient.
 
