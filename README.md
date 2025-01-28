@@ -745,10 +745,45 @@ $$ I_d = \gamma \cdot (K^t - K_{-1}) + DA $$
         
 $$ r_l = \bar{r}_l $$
 
-Equation *(`B.8`)* deserves a few comments... 
+Equation *(`B.8`)* deserves a few comments. According to the TMC firms use bank credit to cover production costs (wages) at the beginning of each period. This initial finance ($FIN_i$) is:
 
-**(TO BE FINISHED)**
+$$
+FIN_i = w \cdot N \quad \text{(C.1)}
+$$
 
+By contrast, the final finance ($FIN_f$) recovered by the firms at the end of each period is:
+
+$$
+FIN_f = C + \Delta B - r_b \cdot B - r_l \cdot L - \Theta \cdot \Pi \quad \text{(C.2)}
+$$
+
+where $`\Theta`$ is the share of profit distributed to the capitalists.
+
+As a result, the change in the stock of loans recorded at the end of the period is:
+
+$$
+\Delta L = FIN_i - FIN_f
+$$
+
+from which one obtains:
+
+$$
+\Delta L = w \cdot N - \left[ C + \Delta B - r_b \cdot B - r_l \cdot L - \Theta \cdot \Pi \right] \quad \text{(C.3)}
+$$
+
+Corporate profits are:
+
+$$
+\Pi = Y - w \cdot N - r_b \cdot B + r_l \cdot L \quad \text{(C.4)}
+$$
+
+Using (C.4) and (B.5) into (C.3), one obtains:
+
+$$
+\Delta L = I_d - \Delta B - (1 - \Theta) \cdot \Pi
+$$
+
+At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by new issues ($\Delta B$) and/or retained profits ($`(1 - \Theta) \cdot \Pi`$).
 
 The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
