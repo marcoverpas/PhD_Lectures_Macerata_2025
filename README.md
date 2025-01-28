@@ -628,7 +628,7 @@ where $`B_h^{*}`$ is the steady-state value of household stock of bills.
 The model can be easily simulated by identifying the coefficients and attributing an initial value to government spending ($G=G_0$, with $G_0>0$). A simple `R` code replicating Model PC can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/PC_model_from_scratch.R). 
 
 
-### B3_Model_BMW
+## B3_Model_BMW
 
 This is the simplest model explicitly including commercial banks. It is developed in chapter 7 of Godley and Lavoie (2007), "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **BMW** stands for "bank-money world", because there is only one kind of financial assets: bank deposits held by households. Firms’ investment in fixed capital is funded by bank loans and amortisation funds. This model can be regarded as the dynamic counterpart of the TMC basic (static) model without security issues. 
 
