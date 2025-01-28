@@ -39,7 +39,7 @@ It is no secret that the authors cited differ, sometimes radically, in their app
 
 A foundational analytical premise of this framework is the assimilation of Keynes's category of 'finance' with Marx's concept of 'money capital', which assigns a central role to the relationship between money and production within the economic process. This approach enables a depiction of the functioning of capitalist market economies as a circular sequence of interconnected phases. The sequence begins with the granting of bank credit to non-financial firms, which provides them with the purchasing power needed to acquire labour for production. The monetary circuit is only completed when firms realise the value of their production in monetary terms, repay their debts to banks, and distribute the net product between profits and interest.
 
-The methodological and theoretical presuppositions of the TMC include:
+The methodological and theoretical pillars of the TMC include:
 
 1. the rejection of so-called methodological individualism in favour of an analysis that explicitly considers the hierarchy and differing roles of economic agents;
 
