@@ -649,22 +649,26 @@ Key assumptions are as follows:
 1. No State, no outside money (cash)
 
 
-The structure of Model BMW is slightly different from that of model PC. However, as usual, crucial identities of the model are derived using the balance-sheet matrix and the transaction-flow matrix. These tables are also useful to double-check model consistency in each period. 
+The structure of Model BMW is slightly different from that of model PC. However, as usual, crucial identities of the model are derived using the balance-sheet matrix and the transaction-flow matrix.  
 
 #### Table 1. Balance sheet matrix  
 
 |                    |Households        |Firms            |Bannks           |  Row. tot       |
 |:-------------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+|                     |                 |                 |                 |                 |
 |Deposits             |200              |                 |-200             |    0            |
 |Loans                |                 |-200             |200              |                0|
 |Fixed capital        |                 |200              |                 |              200|
+|                     |                 |                 |                 |                 |
 |Balance (net worth)  |-200             |0                |0                |             -200|
+|                     |                 |                 |                 |                 |
 |Column tot.          |0                |0                |0                |                0|
 
 #### Table 2. Transactions-flow matrix  
 
 |                      |Households    |Firms (Y)      |Firms (K)  |Banks  |Row. tot. |
 |:---------------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+|                       |                 |                 |                 |                 |                 |
 |Consumption            |-180             |180              |                 |                 |0                |
 |Investment             |                 |20               |-20              |                 |0                |
 |Production             |                 |[ 200 ]          |                 |                 |                 |
@@ -672,8 +676,10 @@ The structure of Model BMW is slightly different from that of model PC. However,
 |Depreciation           |                 |-20              |20               |                 |0                |
 |Interests on loans     |                 |-8               |                 |8                |0                |
 |Interests on deposits  |8                |                 |                 |-8               |0                |
+|                       |                 |                 |                 |                 |                 |
 |Change in loans        |                 |                 |0                |0                |0                |
 |Change in deposits     |0                |                 |                 |0                |0                |
+|                       |                 |                 |                 |                 |                 |
 |Column tot.            |0                |0                |0                |0                |0                |
 
 *Note*: The code needed to generate **Table 1** and **Table 2** can be accessed [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R).
