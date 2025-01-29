@@ -648,6 +648,58 @@ Key assumptions are as follows:
 
 1. No State, no outside money (cash)
 
+
+The structure of Model BMW is slightly different from that of model PC. However, as usual, crucial identities of the model are derived using the balance-sheet matrix and the transaction-flow matrix. These tables are also useful to double-check model consistency in each period. 
+
+#### Table 1. Balance sheet matrix  
+
+
+|              | Households  | Firms      |Central bank |Government | Row. tot. |
+|:------------:|:------:     |:------:    |:------:     |:------:   |:---:     |
+|              |             |            |             |           |          |
+|Cash (money)  |$$H_h$$      |            |$$-H_s$$     |           |   0      |
+|Bills         |$$B_h$$      |            |$$B_{cb}$$   |$$-B_s$$   |   0      |
+|Wealth        |$$-V_h$$     |            |             |$$V_g$$    |   0      |
+|              |             |            |             |           |          |
+|Column tot.   |   0         |0           |0            |0          |   0      |
+
+
+|                    |Households    |Firms    |Bannks    |  Row. tot|
+|:-------------------:|:----:|:----:|:----:|:----:|
+|Deposits            |200  |     |-200 |    0|
+|Loans               |     |-200 |200  |    0|
+|Fixed capital       |     |200  |     |  200|
+|Balance (net worth) |-200 |0    |0    | -200|
+|Column tot.        |0    |0    |0    |    0|
+
+
+
+
+
+
+
+#### Table 2. Transactions-flow matrix  
+
+|                       |Households           |Firms             |Central bank             |Government           | Row. tot |
+|:----------------------|:---------------:    |:----------------:|:--------------:         |:--------------:     |:-------: |
+|                       |                     |                  |                         |                     |          |
+|Consumption            |$$-C_d$$             |$$C_s$$           |                         |                     |   0      |
+|Government expenditure |                     |$$G$$             |                         |$$-G$$               |   0      |
+|GDP (income)           |$$Y$$                |$$-Y$$            |                         |                     |   0      |
+|Interest payments      |$$r \cdot B_{h,-1}$$ |                  |$$r \cdot B_{cb,-1}$$    |$$-r \cdot B_{s,-1}$$|   0      |
+|CB profit              |                     |                  |$$-r \cdot B_{cb,-1}$$   |$$r \cdot B_{cb,-1}$$|   0      |
+|Taxes                  |$$-T$$               |                  |                         |$$T$$                |   0      |
+|                       |                     |                  |                         |                     |          |
+|Change in cash         |$$-\Delta H_h$$      |                  |$$\Delta H_s$$           |                     |   0      |
+|Change in bills        |$$-\Delta B_h$$      |                  |$$-\Delta B_{cb}$$       |$$\Delta B_s$$       |   0      |
+|                       |                     |                  |                         |                     |          |
+|Column tot.            |0                    |0                 |0                        |0                    |   0      |
+
+*Note*: The code needed to generate **Table 1** and **Table 2** can be accessed [here](https://github.com/marcoverpas/EAEPE_summer_school_2024/blob/main/eaepe_io_tables.R).
+
+
+
+
 In formal terms, the model is expressed by a system of 21 equations.
 
 #### B3.1 Behavioural equations and equilibrium condition
