@@ -795,7 +795,7 @@ src="https://github.com/marcoverpas/figures/blob/main/BMW_charts_2025.png" width
 
 The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
-#### APPENDIX: Production financing or investment funding?
+#### APPENDIX: PRODUCTION FINANCING OR INVESTMENT FUNDING?
 
 Equation *(`B.8`)* deserves a few additional comments. According to the TMC, firms use bank credit to cover production costs (wages) at the beginning of each period. This initial finance ($FIN_i$) is:
 
