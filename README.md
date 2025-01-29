@@ -750,9 +750,14 @@ Interest rate on loans:
         
 $$ r_l = \bar{r}_l \quad \text{(B.21)} $$
 
-The nodel is now complete. (...)
+The nodel is now complete. The charts below show the evolution of selected variables following different shocks.
 
-**(TO BE FINISHED)**
+<figure>
+<img
+src="https://github.com/marcoverpas/figures/blob/main/BMW_charts_2025.png" width="800">
+</figure>
+
+#### Follow-up notes: production financing or investment funding)
 
 Equation *(`B.8`)* deserves a few additional comments. According to the TMC, firms use bank credit to cover production costs (wages) at the beginning of each period. This initial finance ($FIN_i$) is:
 
