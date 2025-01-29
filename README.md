@@ -763,16 +763,16 @@ $$
 By contrast, the final funding ($FIN_f$) that the firms obtain at the end of each period is:
 
 $$
-FIN_f = C_s - r_l \cdot L_d - AF \quad \text{(C.2)}
+FIN_f = C_s - r_l \cdot L_d - (\Pi - AF) \quad \text{(C.2)}
 $$
+
+where ($`\Pi`$) is total profit, hence ($`(\Pi - AF)`$) is distributed profits.
 
 We can now calculate the change in the stock of loans recorded at the end of the period, which is:
 
 $$
-\Delta L_d = FIN_i - FIN_f = w \cdot N_d - \left[ C_s - r_l \cdot L_d - (\pi - AF) \right] \quad \text{(C.3)}
+\Delta L_d = FIN_i - FIN_f = w \cdot N_d - \left[ C_s - r_l \cdot L_d - (\Pi - AF) \right] \quad \text{(C.3)}
 $$
-
-where ($`\Pi`$) is total profit, hence ($`(\Pi - AF)`$) is distributed profits.
 
 Notice that firms' total profit is defined residually as:
 
