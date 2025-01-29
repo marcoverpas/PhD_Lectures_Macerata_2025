@@ -786,7 +786,7 @@ Interest rate on loans:
         
 $$ r_l = \bar{r}_l \quad \text{(B.21)} $$
 
-The nodel is now complete. The charts below show the evolution of selected variables following different shocks.
+Model BMW is now complete. The charts below show the evolution of selected variables following different shocks.
 
 <figure>
 <img
