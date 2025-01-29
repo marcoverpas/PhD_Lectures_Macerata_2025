@@ -683,7 +683,7 @@ The structure of Model BMW is slightly different from that of model PC. However,
 |Change in deposits    |0    |        |    |0  |0   |
 |Column total          |0    |0       |0   |0  |0   |
 
-*Note*: The code needed to generate **Table 1** and **Table 2** can be accessed [here]((https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R).
+*Note*: The code needed to generate **Table 1** and **Table 2** can be accessed [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R).
 
 In formal terms, the model is expressed by a system of 21 equations.
 
