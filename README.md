@@ -772,7 +772,7 @@ $$
 \Delta L_d = FIN_i - FIN_f = w \cdot N_d - \left[ C_s - r_l \cdot L_d - AF \right] \quad \text{(C.3)}
 $$
 
-Firms' profits are defined residually:
+Notice that firms' profits are defined residually as:
 
 $$
 \Pi = Y - w \cdot N_d - r_l \cdot L_d \quad \text{(C.4)}
