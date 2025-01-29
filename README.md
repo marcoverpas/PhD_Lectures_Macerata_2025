@@ -757,7 +757,9 @@ The nodel is now complete. The charts below show the evolution of selected varia
 src="https://github.com/marcoverpas/figures/blob/main/BMW_charts_2025.png" width="800">
 </figure>
 
-#### Follow-up notes: production financing or investment funding)
+The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
+
+#### Appendix: production financing or investment funding)
 
 Equation *(`B.8`)* deserves a few additional comments. According to the TMC, firms use bank credit to cover production costs (wages) at the beginning of each period. This initial finance ($FIN_i$) is:
 
@@ -794,8 +796,6 @@ $$
 Equation (`C.5`) matches equation (`B.8`). At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by internal funds (here $`AF`$).
 
 The reason is exactly the explanation provided by TMC theorists: firms remain (further) indebted to the banking system for an amount that equals the new bank deposits. The latter *ex post* always match the investment that has not been covered by private saving. Note that this conclusion remains valid even if firms are assumed to issue securities and/or retain a different share of profits (see [here](https://augustograziani.com/2022/09/18/sequence-and-class-divide-a-reply-to-the-critics-of-the-theory-of-the-monetary-circuit/) for a thorough discussion and [here](https://www.deps.unisi.it/it/ricerca/pubblicazioni-deps/quaderni-deps/anno-2023-da-n894-n/903-technical-change-and-monetary) for a more advanced presentation).
-
-The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
 ## B4_Model_IO-PC
 
