@@ -653,7 +653,7 @@ The structure of Model BMW is slightly different from that of model PC. However,
 
 #### Table 1. Balance sheet matrix  
 
-|                    |Households        |Firms            |Bannks           |  Row. tot       |
+|                    |Households        |Firms            |Banks           |  Row. tot       |
 |:-------------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 |                     |                 |                 |                 |                 |
 |Deposits             |$$+M$$           |                 |$$-M$$           |    0            |
@@ -666,7 +666,7 @@ The structure of Model BMW is slightly different from that of model PC. However,
 
 #### Table 2. Transactions-flow matrix  
 
-|                      |Households    |Firms (Y)      |Firms (K)  |Banks  |Row. tot. |
+|                      |Households    |Firms (current)      |Firms (capital)  |Banks  |Row. tot. |
 |:---------------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 |                       |                 |                 |                 |                 |                 |
 |Consumption            |$$-C$$           |$$+C$$           |                 |                 |0                |
