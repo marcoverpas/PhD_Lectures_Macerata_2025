@@ -656,11 +656,11 @@ The structure of Model BMW is slightly different from that of model PC. However,
 |                    |Households        |Firms            |Bannks           |  Row. tot       |
 |:-------------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 |                     |                 |                 |                 |                 |
-|Deposits             |200              |                 |-200             |    0            |
-|Loans                |                 |-200             |200              |                0|
-|Fixed capital        |                 |200              |                 |              200|
+|Deposits             |$$+M$$           |                 |$$-M$$           |    0            |
+|Loans                |                 |$$-L$$           |$$+L$$           |                0|
+|Fixed capital        |                 |$$+K$$           |                 |           $$+K$$|
 |                     |                 |                 |                 |                 |
-|Balance (net worth)  |-200             |0                |0                |             -200|
+|Balance (net worth)  |$$-V_h$$         |0                |0                |         $$-V_h$$|
 |                     |                 |                 |                 |                 |
 |Column tot.          |0                |0                |0                |                0|
 
