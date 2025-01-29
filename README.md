@@ -533,7 +533,6 @@ The structure of Model PC is quite simple. Crucial identities of the model are d
 |              |             |            |             |           |          |
 |Column tot.   |   0         |0           |0            |0          |   0      |
 
-
 #### Table 2. Transactions-flow matrix  
 
 |                       |Households           |Firms             |Central bank             |Government           | Row. tot |
@@ -663,6 +662,8 @@ The structure of Model BMW is slightly different from that of model PC. However,
 |Balance (net worth)  |$$-V_h$$         |0                |0                |         $$-V_h$$|
 |                     |                 |                 |                 |                 |
 |Column tot.          |0                |0                |0                |                0|
+
+While all rows related to financial assets/liabilities must sum to zero, the row related to fixed capital does not, because tangible capital is only an asset for the economy. In addition, since it is assumed that banks and firms do not make net profits, household net wealth must be exacly equal to the stock of tangible capital. 
 
 #### Table 2. Transactions-flow matrix  
 
