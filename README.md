@@ -769,16 +769,18 @@ $$
 We can now calculate the change in the stock of loans recorded at the end of the period, which is:
 
 $$
-\Delta L_d = FIN_i - FIN_f = w \cdot N_d - \left[ C_s - r_l \cdot L_d - AF \right] \quad \text{(C.3)}
+\Delta L_d = FIN_i - FIN_f = w \cdot N_d - \left[ C_s - r_l \cdot L_d - (|pi - AF) \right] \quad \text{(C.3)}
 $$
 
-Notice that firms' profits are defined residually as:
+where ($`\Pi`$) is total profit, hence ($`(\Pi - AF)`$) is distributed profits.
+
+Notice that firms' total profit is defined residually as:
 
 $$
 \Pi = Y - w \cdot N_d - r_l \cdot L_d \quad \text{(C.4)}
 $$
 
-Using the GDP equation (`B.5`) and the profit equation (`C.4`) into the loans equation (`C.3`), we obtain:
+Using the GDP equation (`B.5`) into the profit equation (`C.4`), and the latter into the loans equation (`C.3`), we obtain:
 
 $$
 \Delta L_d = I_d - AF \quad \text{(C.5)}
