@@ -792,9 +792,6 @@ The reason is exactly the explanation provided by TMC theorists: firms remain (f
 
 The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
-**(TO BE FINISHED)**
-
-
 ## B4_Model_IO-PC
 
 There are currently only a few prototype input-output SFC models, despite recent progress (Berg, Hartley, and Richters, 2015; Jackson and Jackson, 2021, 2023; Valdecantos, 2023). Integrating IO and SFC techniques poses challenges, but it is crucial for analysing both technical progress (Veronese Passarella, 2023) and the interaction of the ecosystem with the economy (Hardt and O’Neill, 2017).
