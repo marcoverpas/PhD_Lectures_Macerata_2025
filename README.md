@@ -766,7 +766,7 @@ $$
 FIN_f = C_s - r_l \cdot L_d - (\Pi - AF) \quad \text{(C.2)}
 $$
 
-where ($`\Pi`$) is total profit, hence ($`(\Pi - AF)`$) is distributed profits.
+where ($`\Pi`$) is total profit, hence ($`\Pi - AF`$) is distributed profits.
 
 We can now calculate the change in the stock of loans recorded at the end of the period, which is:
 
