@@ -671,11 +671,11 @@ The structure of Model BMW is slightly different from that of model PC. However,
 |                       |                 |                 |                 |                 |                 |
 |Consumption            |$$-C$$           |$$+C$$           |                 |                 |0                |
 |Investment             |                 |$$+I$$           |$$-I$$           |                 |0                |
-|Production             |                 |$$[Y]$$          |                 |                 |                 |
+|$$[$$ Production $$]$$ |                 |$$[Y]$$          |                 |                 |                 |
 |Wages                  |$$+WB$$          |$$-WB$$          |                 |                 |0                |
 |Depreciation           |                 |$$-AF$$          |$$+AF$$          |                 |0                |
 |Interests on loans     |                 |$$-r_{l,-1} \cdot L_{-1}$$ |    |$$+r_{l,-1} \cdot L_{-1}$$     |0         |
-|Interests on deposits  |$$r_{m,-1} \cdot M_{-1}$$ |     |             |$$-r_{m,-1} \cdot M_{-1}$$  |0                |
+|Interests on deposits  |$$+r_{m,-1} \cdot M_{-1}$$ |     |             |$$-r_{m,-1} \cdot M_{-1}$$  |0                |
 |                       |                 |                 |                 |                 |                 |
 |Change in loans        |                 |                 |$$+\Delta L$$    |$$-\Delta L$$                |0                |
 |Change in deposits     |$$-\Delta M$$    |                 |                 |$$+\Delta M$$                |0                |
