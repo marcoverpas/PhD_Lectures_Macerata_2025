@@ -669,16 +669,16 @@ The structure of Model BMW is slightly different from that of model PC. However,
 |                      |Households    |Firms (Y)      |Firms (K)  |Banks  |Row. tot. |
 |:---------------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 |                       |                 |                 |                 |                 |                 |
-|Consumption            |-180             |180              |                 |                 |0                |
-|Investment             |                 |20               |-20              |                 |0                |
-|Production             |                 |[ 200 ]          |                 |                 |                 |
-|Wages                  |172              |-172             |                 |                 |0                |
-|Depreciation           |                 |-20              |20               |                 |0                |
-|Interests on loans     |                 |-8               |                 |8                |0                |
-|Interests on deposits  |8                |                 |                 |-8               |0                |
+|Consumption            |$$-C$$           |$$+C$$           |                 |                 |0                |
+|Investment             |                 |$$+I$$           |$$-I$$           |                 |0                |
+|Production             |                 |$$[Y]$$          |                 |                 |                 |
+|Wages                  |$$+WB$$          |$$-WB$$          |                 |                 |0                |
+|Depreciation           |                 |$$-AF$$          |$$+AF$$          |                 |0                |
+|Interests on loans     |                 |$$-r_{l,-1} \cdot L_{-1}$$ |    |$$+r_{l,-1} \cdot L_{-1}$$     |0         |
+|Interests on deposits  |$$r_{m,-1} \cdot M_{-1}$$ |     |             |$$-r_{m,-1} \cdot M_{-1}$$  |0                |
 |                       |                 |                 |                 |                 |                 |
-|Change in loans        |                 |                 |0                |0                |0                |
-|Change in deposits     |0                |                 |                 |0                |0                |
+|Change in loans        |                 |                 |$$+\Delta L$$    |$$-\Delta L$$                |0                |
+|Change in deposits     |$$-\Delta M$$    |                 |                 |$$+\Delta M$$                |0                |
 |                       |                 |                 |                 |                 |                 |
 |Column tot.            |0                |0                |0                |0                |0                |
 
