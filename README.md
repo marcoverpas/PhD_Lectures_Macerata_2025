@@ -653,19 +653,8 @@ The structure of Model BMW is slightly different from that of model PC. However,
 
 #### Table 1. Balance sheet matrix  
 
-
-|              | Households  | Firms      |Central bank |Government | Row. tot. |
-|:------------:|:------:     |:------:    |:------:     |:------:   |:---:     |
-|              |             |            |             |           |          |
-|Cash (money)  |$$H_h$$      |            |$$-H_s$$     |           |   0      |
-|Bills         |$$B_h$$      |            |$$B_{cb}$$   |$$-B_s$$   |   0      |
-|Wealth        |$$-V_h$$     |            |             |$$V_g$$    |   0      |
-|              |             |            |             |           |          |
-|Column tot.   |   0         |0           |0            |0          |   0      |
-
-
 |                    |Households    |Firms    |Bannks    |  Row. tot|
-|:-------------------:|:----:|:----:|:----:|:----:|
+|:-------------------:|:--------:|:--------:|:--------:|:--------:|
 |Deposits            |200  |     |-200 |    0|
 |Loans               |     |-200 |200  |    0|
 |Fixed capital       |     |200  |     |  200|
@@ -680,25 +669,21 @@ The structure of Model BMW is slightly different from that of model PC. However,
 
 #### Table 2. Transactions-flow matrix  
 
-|                       |Households           |Firms             |Central bank             |Government           | Row. tot |
-|:----------------------|:---------------:    |:----------------:|:--------------:         |:--------------:     |:-------: |
-|                       |                     |                  |                         |                     |          |
-|Consumption            |$$-C_d$$             |$$C_s$$           |                         |                     |   0      |
-|Government expenditure |                     |$$G$$             |                         |$$-G$$               |   0      |
-|GDP (income)           |$$Y$$                |$$-Y$$            |                         |                     |   0      |
-|Interest payments      |$$r \cdot B_{h,-1}$$ |                  |$$r \cdot B_{cb,-1}$$    |$$-r \cdot B_{s,-1}$$|   0      |
-|CB profit              |                     |                  |$$-r \cdot B_{cb,-1}$$   |$$r \cdot B_{cb,-1}$$|   0      |
-|Taxes                  |$$-T$$               |                  |                         |$$T$$                |   0      |
-|                       |                     |                  |                         |                     |          |
-|Change in cash         |$$-\Delta H_h$$      |                  |$$\Delta H_s$$           |                     |   0      |
-|Change in bills        |$$-\Delta B_h$$      |                  |$$-\Delta B_{cb}$$       |$$\Delta B_s$$       |   0      |
-|                       |                     |                  |                         |                     |          |
-|Column tot.            |0                    |0                 |0                        |0                    |   0      |
 
-*Note*: The code needed to generate **Table 1** and **Table 2** can be accessed [here](https://github.com/marcoverpas/EAEPE_summer_school_2024/blob/main/eaepe_io_tables.R).
+|                      |H    |Fc      |Fk  |B  |Tot |
+|:---------------------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|Consumption           |-180 |180     |    |   |0   |
+|Investment            |     |20      |-20 |   |0   |
+|Production            |     |[ 200 ] |    |   |    |
+|Wages                 |172  |-172    |    |   |0   |
+|Depreciation          |     |-20     |20  |   |0   |
+|Interests on loans    |     |-8      |    |8  |0   |
+|Interests on deposits |8    |        |    |-8 |0   |
+|Change in loans       |     |        |0   |0  |0   |
+|Change in deposits    |0    |        |    |0  |0   |
+|Column total          |0    |0       |0   |0  |0   |
 
-
-
+*Note*: The code needed to generate **Table 1** and **Table 2** can be accessed [here]((https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R).
 
 In formal terms, the model is expressed by a system of 21 equations.
 
@@ -809,7 +794,7 @@ The nodel is now complete. The charts below show the evolution of selected varia
 src="https://github.com/marcoverpas/figures/blob/main/BMW_charts_2025.png" width="800">
 </figure>
 
-The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). A code that automatically generates SFC tables can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_tables.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
+The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
 #### APPENDIX: Production financing or investment funding?
 
