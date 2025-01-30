@@ -369,7 +369,7 @@ One might wonder whether firms can make monetary profits in this scheme and cove
 
 The answer to both questions is yes. First, once investment-related loans to individual firms are accounted for, the firm sector realises monetary (gross) profits equal to investment expenditures.
 
-Second, there is no reason to assume that the *financial period* - which begins when bank loans are created and ends when they are repaid - must align with the *production and exchange period* - during which firms pay interest to banks using revenue from sales, enabling bank owners to receive and spend their incomes. If the financial period is longer than the production period, as seems reasonable to assume, then, in principle, production firms can repay both the initial capital and the accrued interest.  (see [Zezza, 2012](https://link.springer.com/chapter/10.1057/9780230367357_8), and [Veronese Passarella, 2024](https://www.elgaronline.com/view/journals/ejeep/21/3/article-p461.xml)).
+Second, there is no reason to assume that the *financial period* - which begins when bank loans are created and ends when they are repaid - must align with the *production and exchange period* - during which firms pay interest to banks using revenue from sales, enabling bank owners to receive and spend their incomes. If the financial period is longer than the production period, as seems reasonable to assume, then, in principle, firms can repay both the initial capital and the accrued interest (see [Zezza, 2012](https://link.springer.com/chapter/10.1057/9780230367357_8), and [Veronese Passarella, 2024](https://www.elgaronline.com/view/journals/ejeep/21/3/article-p461.xml)).
 
 ## A4_Distribution_in_a_MCT_model
 
