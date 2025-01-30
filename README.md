@@ -24,7 +24,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [___B2 - Model PC](#B2_Model_PC)
 - [___B3 - Model BMW](#B3_Model_BMW)
 - [___B4 - Model IO-PC](#B4_Model_IO-PC)
-- [___B5 - Model ECO-IO-PC](##5_Model_ECO-IO-PC)
+- [___B5 - Model ECO-IO-PC](##B5_Model_ECO-IO-PC)
 - [___B6 - Experiments](#B6_Experiments)
 - [Suggested readings](#Suggested_readings)
 
