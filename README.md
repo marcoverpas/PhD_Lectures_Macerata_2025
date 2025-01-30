@@ -515,7 +515,7 @@ Unlike DSGE models, which often rely on a unified platform like `Dynare`, SFC mo
 
 Summing up, while there are many online resources today for those interested in engaging with SFC modeling, the community of SFC modelers lacks a portal that consolidates the produced material, which is abundant but still scattered.
 
-The aim of this lecture is to provide a simple introduction to SFC models (including IO-SFC and ECO-SFC models) by using a hand-on approach. For a theoretical introduction to SFC model, please refer to [Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3) by W. Godley and M. Lavoie. 
+The aim of this lecture is to provide a simple introduction to SFC models (including IO-SFC and ECO-SFC models) by using a hand-on approach. For a theoretical introduction to SFC model, please refer to [Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3) by Wynne Godley and Marc Lavoie. 
 
 ## B2_Model_PC
 
