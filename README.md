@@ -5,7 +5,7 @@ src="https://github.com/marcoverpas/figures/blob/main/Graziani_Godley.png" width
 </figure>
 
 
-# The Monetary Circuit Theory and Stock-Flow Consistent Models in Economic Research 
+# Issues in Monetary Policies and Monetary Circuits 
 
 This repository includes material prepared for my lectures at the [PhD in Quantitative Methods for Economic Policy](https://economiaediritto.unimc.it/en/research/phd-programme-and-research-grants/PhD-MQPE), University of Macerata, February 3-4, 2025.
 
