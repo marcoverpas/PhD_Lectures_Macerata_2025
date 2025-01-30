@@ -11,10 +11,6 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 
 **WARNING: WORK IN PROGRESS** :wrench:
 
-<p align="center">
-  <img src="https://github.com/marcoverpas/figures/blob/main/qr_macerata.png" width="300" alt="QR Code">
-</p>
-
 ## Table of Contents
 
 - [Lecture A - The monetary circuit theory](#Lecture_A_The_Monetary_Circuit_Theory)
@@ -31,6 +27,10 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [___B5 - Model ECO-IO-PC](#B5_Model_ECO-IO-PC)
 - [___B6 - Policy implications](#B6_Policy_Implications)
 - [Suggested readings](#Suggested_readings)
+
+<p align="center">
+  <img src="https://github.com/marcoverpas/figures/blob/main/qr_macerata.png" width="300" alt="QR Code">
+</p>
 
 # Lecture_A_The_Monetary_Circuit_Theory
 
