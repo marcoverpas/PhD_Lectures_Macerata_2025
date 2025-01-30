@@ -339,7 +339,7 @@ market flows back to the firms.
     <td width="300">1000€ deposits </td>
   </tr>
     <td> -950€ loans</td>
-    <td> -950€ deposits </td>
+    <td> -950€ deposits (F) </td>
 </tr>
     <td> 50€ loans </td>
     <td> 50€ deposits (WE) </td>  
