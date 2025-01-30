@@ -960,6 +960,14 @@ Figures 1 to 4 show the evolution of model variables over time. Sankey diagrams 
 
 For instance, the diagram above illustrates the payments across social sectors and the flows of inputs across industries in period 20. The related additional code can be found [here](https://github.com/marcoverpas/EAEPE_summer_school_2024/blob/main/eaepe_sankey_diagram.R).
 
+Alternatively, network graphs can be used, which look a bit trivial for a 2-industry model (like Model IO-PC), but can provide useful information when a number $`n>2`$ of industries is considered:
+
+<figure>
+  <img
+  src="https://github.com/marcoverpas/figures/blob/main/Networks.png">
+</figure>
+
+The related code for Model PC is available [here](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025/blob/main/2_industry_IO_net.R).
 
 ## B5_Model_ECO-IO-PC
 
