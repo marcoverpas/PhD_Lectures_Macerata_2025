@@ -22,7 +22,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [___A4 - Distribution in a MCT model](#A4_Distribution_in_a_MCT_model)
 - [___A5 - Policy implications](#A5_Policy_implications)
 - [Lecture B - Stock-flow consistent models in economic research](#Lecture_B_Stock-Flow_Consistent_Models)
-- [___B1 - Introduction to SFC models](#B1_Introduction)
+- [___B1 - Introduction to SFC models](#B1_Introduction_to_SFC_Models)
 - [___B2 - Model PC](#B2_Model_PC)
 - [___B3 - Model BMW](#B3_Model_BMW)
 - [___B4 - Model IO-PC](#B4_Model_IO-PC)
