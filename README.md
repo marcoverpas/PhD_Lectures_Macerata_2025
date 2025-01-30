@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/marcoverpas/figures/blob/main/qr_macerata.png" width="300" alt="QR Code">
-</p>
-
 <figure>
 <img
 src="https://github.com/marcoverpas/figures/blob/main/Graziani_Godley.png" width="800">
@@ -12,6 +8,10 @@ src="https://github.com/marcoverpas/figures/blob/main/Graziani_Godley.png" width
 This repository includes material prepared for my lectures at the [PhD in Quantitative Methods for Economic Policy](https://economiaediritto.unimc.it/en/research/phd-programme-and-research-grants/PhD-MQPE), University of Macerata, February 3-4, 2025.
 
 **WARNING: WORK IN PROGRESS** :wrench:
+
+<p align="center">
+  <img src="https://github.com/marcoverpas/figures/blob/main/qr_macerata.png" width="300" alt="QR Code">
+</p>
 
 ## Table of Contents
 
