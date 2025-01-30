@@ -19,7 +19,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [___A3 - A simple TMC model](#A3_A_Simple_TMC_Model)
 - [___A4 - Distribution in a TMC model](#A4_Distribution_in_a_TMC_model)
 - [___A5 - Policy implications](#A5_Policy_implications)
-- [Lecture B - Stock-flow consistent models in economic research](#Lecture_B_Stock-Flow_Consistent_Models_in_Economic_Research)
+- [Lecture B - Stock-flow consistent models in economic research](#Lecture_B_Stock-Flow_Consistent_Models)
 - [___B1 - Introduction to SFC models](#B1_Introduction)
 - [___B2 - Model PC](#B2_Model_PC)
 - [___B3 - Model BMW](#B3_Model_BMW)
@@ -465,7 +465,7 @@ The reason is that the distribution of real income between wages and profits is 
 
 These decisions override any redistribution performed by taxation and subsidies, which do not affect the distribution of real income. The main policy implication is that, if the government wants to alter the distribution of real income in favor of wages, it should provide goods and services in real terms.
 
-# Lecture_B_Stock-Flow_Consistent_Models_in_Economic_Research
+# Lecture_B_Stock-Flow_Consistent_Models
 
 ## B1_Introduction_to_SFC_Models
 
