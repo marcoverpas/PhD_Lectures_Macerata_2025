@@ -33,7 +33,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 
 ### A1.1 Introduction
 
-The (Italian) [Monetary Circuit Theory](https://en.wikipedia.org/wiki/Monetary_circuit_theory) (MCT) is the culmination of a research line initiated by Augusto Graziani in the late 1970s, but only fully developed during the following decade. The MCT offers an original reinterpretation of some of the most significant aspects of Karl Marx's analysis, which resembles heterodox monetary views within the history of 20th-century economic thought.
+The (Italian strand of the) [Monetary Circuit Theory](https://en.wikipedia.org/wiki/Monetary_circuit_theory) (MCT) is the culmination of a research line initiated by Augusto Graziani in the late 1970s, but only fully developed during the following decade. The MCT offers an original reinterpretation of some of the most significant aspects of Karl Marx's analysis, which resembles heterodox monetary views within the history of 20th-century economic thought.
 
 This perspective draws on a subterranean strand of studies originating from Knut Wicksell's *Interest and Prices* (1898), progressing through the Swedish School and the works of Hahn and Robertson, and culminating in Schumpeter's monetary works and Keynes's *Treatise on Money* (1930). However, it is primarily to the works of certain French authors, notably Jaques Le Bourva and especially Bernard Schmitt, that the first attempt to construct a general macro-monetary theory, as an alternative and rival to traditional doctrine, can be attributed.
 
