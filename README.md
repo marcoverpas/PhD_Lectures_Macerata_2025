@@ -461,7 +461,7 @@ An increase in the interest rate paid by firms on securities produces contrastin
 
 If money is endogenous, an increase in money prices brings about a proportional increase in the bank debt of the firms. As a result, an increase in the rate of interest further increases the annual financial burden falling on firms. 
 
-Even assuming costant wages, firms can lose profits on the credit market. Inflation produces a redistribution of profits from the firms to the banks, which implies a decline in industrial profits and an increase in financial incomes.
+Even assuming costant wages, firms can be affected on the credit market. Inflation produces a redistribution of gross profits from the firms to the banks, which implies a decline in industrial profits and an increase in financial incomes.
 
 While the firms can compensate for losses in the labour market by increasing money prices - see *equation (`4`)* - they are unable to compensate for losses in the credit market due to the increase in the interest rate.
 
@@ -469,7 +469,7 @@ The contraction of profits can be mitigated by reducing the policy rate and enha
 
 ### A5.2 Fiscal policy
 
-It can be demonstrated that, if we add taxation and government spending to the equations above, the results still hold. Intuitively, if firms can decide both the level and the composition of output, fiscal policies can only affect the unit price.
+It can be demonstrated that, if we add taxation and government spending to the equations above, the results still hold. Intuitively, if firms can decide both the level and the composition of output, fiscal policies can only (directly) influence the unit price.
 
 For the sake of simplicity, let's assume that interest rates are equal to zero. The unit price of output becomes: 
 
@@ -477,11 +477,11 @@ $$ p = \frac{(1-s) \cdot (1-t)}{(1-b-g)} \cdot \frac{w}{pr} \quad \text{(4.A)} $
 
 where $` g `$ is the share of output purchased by the government sector and $` t `$ is the average tax rate on income.
 
-The higher the government spending (however funded) and the lower the tax rate, the higher the unit price will be. However, it is apparent that real profits, and hence real wages, are unaffected by government spending and taxation - refer to *equation (`9`)*.
+The higher the government spending (however funded) and the lower the tax rate, the higher the unit price will be. However, it is apparent that real profits, and hence real wages, are not (directly) affected by government spending and taxation - refer to *equation (`9`)*.
 
-The reason is that the distribution of real income between wages and profits is strictly connected to the independent decisions of firms about the subdivision of production between consumption goods and investment goods.
+The reason is that the distribution of real income between wages and profits is strictly connected to the independent decisions of firms about the subdivision of output between consumption goods and investment goods.
 
-These decisions override any redistribution performed by taxation and subsidies, which do not affect the distribution of real income. The main policy implication is that, if the government wants to alter the distribution of real income in favor of wages, it should provide goods and services in real terms.
+These decisions (can) override any redistribution performed by taxation and subsidies, which do not affect (directly) the distribution of real income. The main policy implication is that, if the government wants to alter the distribution of real income in favour of wages, it should mainly provide goods and services in real terms.
 
 # Lecture_B_Stock-Flow_Consistent_Models
 
