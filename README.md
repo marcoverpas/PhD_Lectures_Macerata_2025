@@ -25,6 +25,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [___B3 - Model BMW](#B3_Model_BMW)
 - [___B4 - Model IO-PC](#B4_Model_IO-PC)
 - [___B5 - Model ECO-IO-PC](#B5_Model_ECO-IO-PC)
+- [___B6 - Policy implications](#B6_Policy_Implications)
 - [Suggested readings](#Suggested_readings)
 
 # Lecture_A_The_Monetary_Circuit_Theory
@@ -1181,6 +1182,20 @@ src="https://github.com/marcoverpas/figures/blob/main/eco_plot_2.png" width="800
 </figure>
 
 The figures above show that, while a higher sensitivity of consumption to an increase in temperature leads to an initial reduction in economic activity and environmental impacts, the situation reverses in the long run. This is because the private sector accumulates a higher stock of government bills, which, in turn, implies a higher flow of interest payments and thus a higher disposable income in the long run. Note that the level of the interest rate becomes a crucial variable for the determination of such rebound effects. 
+
+## B6_Policy_Implications
+
+The main policy implications derived from SFC models are as follows:
+
+- The effects of monetary policy are less straightforward than typically assumed. Higher (lower) interest rates discourage (support) private spending and may appreciate (depreciate) the currency, but they also increase (reduce) the disposable income of government debt holders.
+
+- As long as full employment is not achieved, fiscal policy is generally found to be more effective than monetary policy in supporting the economy.
+
+- The most important constraint on expansionary fiscal policies is the current account balance.
+
+- There is no single, socially-optimal economic equilibrium, as today's position depends on past conditions and policies.
+
+- Environmental policies are likely to involve trade-offs, as their effects vary across social groups, benefiting some while disadvantaging others.
 
 ## Suggested_readings
 
