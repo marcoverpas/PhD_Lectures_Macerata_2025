@@ -393,7 +393,7 @@ It follows that:
 
 - the price depends on the propensities to save and to invest, and on the level of money costs;
 
-- each variation in the unit price produces a proportional variation in the money stock (for any value of the velocity of ciculation of money).
+- each variation in the unit price will produce a proportional variation in the money stock (for any value of the velocity of ciculation of money).
 
 The average real income of wage earners is:
 
