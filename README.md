@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="https://github.com/marcoverpas/figures/blob/main/qr_macerata.png" width="300" alt="QR Code">
+</p>
 
 <figure>
 <img
 src="https://github.com/marcoverpas/figures/blob/main/Graziani_Godley.png" width="800">
 </figure>
-
 
 # Issues in Monetary Policies and Monetary Circuits 
 
@@ -27,10 +29,6 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [___B5 - Model ECO-IO-PC](#B5_Model_ECO-IO-PC)
 - [___B6 - Policy implications](#B6_Policy_Implications)
 - [Suggested readings](#Suggested_readings)
-
-<p align="center">
-  <img src="https://github.com/marcoverpas/figures/blob/main/qr_macerata.png" width="300" alt="QR Code">
-</p>
 
 # Lecture_A_The_Monetary_Circuit_Theory
 
