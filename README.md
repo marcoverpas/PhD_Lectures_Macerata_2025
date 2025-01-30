@@ -15,9 +15,9 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 
 - [Lecture A - The monetary circuit theory](#Lecture_A_The_Monetary_Circuit_Theory)
 - [___A1 - The endogenous money view](#A1_The_Endogenous_Money_View)
-- [___A2 - Presuppositions of the TMC](#A2_Presuppositions_of_the_TMC)
-- [___A3 - A simple TMC model](#A3_A_Simple_TMC_Model)
-- [___A4 - Distribution in a TMC model](#A4_Distribution_in_a_TMC_model)
+- [___A2 - Presuppositions of the MCT](#A2_Presuppositions_of_the_MCT)
+- [___A3 - A simple MCT model](#A3_A_Simple_MCT_Model)
+- [___A4 - Distribution in a MCT model](#A4_Distribution_in_a_MCT_model)
 - [___A5 - Policy implications](#A5_Policy_implications)
 - [Lecture B - Stock-flow consistent models in economic research](#Lecture_B_Stock-Flow_Consistent_Models)
 - [___B1 - Introduction to SFC models](#B1_Introduction)
@@ -34,7 +34,7 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 
 ### A1.1 Introduction
 
-The (Italian) [Theory of the Monetary Circuit](https://en.wikipedia.org/wiki/Monetary_circuit_theory) (TMC) is the culmination of a research line initiated by Augusto Graziani in the late 1970s, but only fully developed during the following decade. The TMC offers an original reinterpretation of some of the most significant aspects of Karl Marx's analysis, which resembles heterodox monetary views within the history of 20th-century economic thought.
+The (Italian) [Monetary Circuit Theory](https://en.wikipedia.org/wiki/Monetary_circuit_theory) (MCT) is the culmination of a research line initiated by Augusto Graziani in the late 1970s, but only fully developed during the following decade. The MCT offers an original reinterpretation of some of the most significant aspects of Karl Marx's analysis, which resembles heterodox monetary views within the history of 20th-century economic thought.
 
 This perspective draws on a subterranean strand of studies originating from Knut Wicksell's *Interest and Prices* (1898), progressing through the Swedish School and the works of Hahn and Robertson, and culminating in Schumpeter's monetary works and Keynes's *Treatise on Money* (1930). However, it is primarily to the works of certain French authors, notably Jaques Le Bourva and especially Bernard Schmitt, that the first attempt to construct a general macro-monetary theory, as an alternative and rival to traditional doctrine, can be attributed.
 
@@ -42,7 +42,7 @@ It is no secret that the authors cited differ, sometimes radically, in their app
 
 A foundational analytical premise of this framework is the assimilation of Keynes's category of 'finance' with Marx's concept of 'money capital', which assigns a central role to the relationship between money and production within the economic process. This approach enables a depiction of the functioning of capitalist market economies as a circular sequence of interconnected phases. The sequence begins with the granting of bank credit to non-financial firms, which provides them with the purchasing power needed to acquire labour for production. The monetary circuit is only completed when firms realise the value of their production in monetary terms, repay their debts to banks, and distribute the net product between profits and interest.
 
-The methodological and theoretical pillars of the TMC include:
+The methodological and theoretical pillars of the MCT include:
 
 1. the rejection of so-called methodological individualism in favour of an analysis that explicitly considers the hierarchy and differing roles of economic agents;
 
@@ -52,7 +52,7 @@ The methodological and theoretical pillars of the TMC include:
   
 1. lastly, the rejection of the neoclassical theory of income distribution.
 
-Based on these presuppositions, the main purpose of the TMC is to identify the logical phases of the process of creation, destruction and circulation of money in a capitalist economy, inhabited by different and opposed social classes.
+Based on these presuppositions, the main purpose of the MCT is to identify the logical phases of the process of creation, destruction and circulation of money in a capitalist economy, inhabited by different and opposed social classes.
 
 ### A1.2 Alternative theories about the origin of money
 
@@ -100,7 +100,7 @@ Building on this insight of Marx, which Keynes revisited, it is therefore possib
 
 This initial financing provided by banks enables firms to purchase the necessary labour power in the market to produce goods and services. Wage earners will then spend their income on consumption or portfolio investments. In this way, (part of) the money paid out as wages will return to the firms, allowing them to repay the financing received from the banks.
 
-This framework is known as the theory of the monetary circuit. It sheds light on the endogenous flow nature of money, in contrast to the idea of money as an exogenous stock (linked to the conception of money as a lubricant of exchange) and as a complement to the idea of money as an endogenous stock (linked to Keynesian crisis theory). Two immediate implications or corollaries follow from this. The first corollary concerns the disappearance of the money multiplier. The second corollary concerns the relationship between money and prices.
+This framework is known as the monetary circuit theory. It sheds light on the endogenous flow nature of money, in contrast to the idea of money as an exogenous stock (linked to the conception of money as a lubricant of exchange) and as a complement to the idea of money as an endogenous stock (linked to Keynesian crisis theory). Two immediate implications or corollaries follow from this. The first corollary concerns the disappearance of the money multiplier. The second corollary concerns the relationship between money and prices.
 
 
 ### A1.3 Implications from an endogenous theory of money
@@ -127,9 +127,9 @@ src="https://github.com/marcoverpas/figures/blob/main/fontana_setterfield_figure
 </figure>
 
 
-## A2_Presuppositions_of_the_TMC
+## A2_Presuppositions_of_the_MCT
 
-According to [Graziani](https://www.cambridge.org/core/books/monetary-theory-of-production/A813BE586E79CDF0DE7C3D930DBF632F) (2006, pp. 25-26) the main theoretical presuppositions of the TMC are:
+According to [Graziani](https://www.cambridge.org/core/books/monetary-theory-of-production/A813BE586E79CDF0DE7C3D930DBF632F) (2006, pp. 25-26) the main theoretical presuppositions of the MCT are:
 
 1. Money is in the nature of credit money (bank credit).
 
@@ -146,7 +146,7 @@ According to [Graziani](https://www.cambridge.org/core/books/monetary-theory-of-
 1. The creation of money determines both the division of production between consumption and investment goods and the distribution of income between wages and profits. Therefore, the role of money goes far beyond that of lubricant of echanges (and store of value). To the firms, the initial access to money is the source of profits.
 
 
-## A3_A_Simple_TMC_Model
+## A3_A_Simple_MCT_Model
 
 The the simplest version of the monetary circuit, only four agents are considered: the central bank, commercial banks, production firms, and wage earners.
 
@@ -353,11 +353,11 @@ A representation of the basic monetary circuit scheme is provided by the figure 
 src="https://github.com/marcoverpas/figures/blob/main/circuit_scheme.jpg" width="800">
 </figure>
 
-## A4_Distribution_in_a_TMC_model
+## A4_Distribution_in_a_MCT_model
 
-TMC theorists reject the basic idea of consumer sovereignty in favour of the opposite concept of producer sovereignty. Wage earners and firms enjoy differing levels of purchasing power in the goods market. The expenditure of wage earners is strictly limited by the budget constraint set by their wage income, while firms use bank credit to hire workers according to their own production plans. At the end of the production process, firms also purchase a fraction of the total output as means of production (investment goods). While an individual firm needs funding for its investment spending (in addition to wage costs), this is an internal exchange for the firm sector as a whole. As a result, firms can obtain from banks any amount of credit to fund the purchase of investment goods. This credit money will circulate from one firm to another without ever leaving the firm sector. Therefore, firms as a whole will never face difficulties in repaying this portion of their bank debt.
+MCT theorists reject the basic idea of consumer sovereignty in favour of the opposite concept of producer sovereignty. Wage earners and firms enjoy differing levels of purchasing power in the goods market. The expenditure of wage earners is strictly limited by the budget constraint set by their wage income, while firms use bank credit to hire workers according to their own production plans. At the end of the production process, firms also purchase a fraction of the total output as means of production (investment goods). While an individual firm needs funding for its investment spending (in addition to wage costs), this is an internal exchange for the firm sector as a whole. As a result, firms can obtain from banks any amount of credit to fund the purchase of investment goods. This credit money will circulate from one firm to another without ever leaving the firm sector. Therefore, firms as a whole will never face difficulties in repaying this portion of their bank debt.
 
-To understand how prices are set within a basic TMC scheme, consider the following system of equations (taken from [Graziani, 2006](https://www.cambridge.org/core/books/monetary-theory-of-production/A813BE586E79CDF0DE7C3D930DBF632F)):
+To understand how prices are set within a basic MCT scheme, consider the following system of equations (taken from [Graziani, 2006](https://www.cambridge.org/core/books/monetary-theory-of-production/A813BE586E79CDF0DE7C3D930DBF632F)):
 
 Aggregate supply: 
 
@@ -435,7 +435,7 @@ where $` \lambda `$ is workers' deposit holdings to total income ratio, defined 
 
 An increase in the interest rate paid by firms on securities produces contrasting consequences, as it reduces $` \lambda `$ but increases $` r_b \cdot B `$.
 
-*Note*: for a dynamic rendition of the TMC model, see [B3 Model BMW](#B3_Model_BMW).
+*Note*: for a dynamic rendition of the MCT model, see [B3 Model BMW](#B3_Model_BMW).
 
 ## A5_Policy_implications
 
@@ -637,7 +637,7 @@ A simple `R` code allowing to replicate the model and execute some experiments c
 
 ## B3_Model_BMW
 
-This is the simplest model explicitly including commercial banks. It is developed in chapter 7 of Godley and Lavoie (2007), "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **BMW** stands for "bank-money world", because there is only one kind of financial assets: bank deposits held by households. Firms’ investment in fixed capital is funded by bank loans and amortisation funds. This model can be regarded as the dynamic counterpart of the TMC basic (static) model without security issues. 
+This is the simplest model explicitly including commercial banks. It is developed in chapter 7 of Godley and Lavoie (2007), "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **BMW** stands for "bank-money world", because there is only one kind of financial assets: bank deposits held by households. Firms’ investment in fixed capital is funded by bank loans and amortisation funds. This model can be regarded as the dynamic counterpart of the MCT basic (static) model without security issues. 
 
 Key assumptions are as follows:
 
@@ -806,7 +806,7 @@ The main code for reproducing the experiments can be found [here](https://github
 
 #### APPENDIX: PRODUCTION FINANCING OR INVESTMENT FUNDING?
 
-Equation *(`B.8`)* deserves a few additional comments. According to the TMC, firms use bank credit to cover production costs (wages) at the beginning of each period. This initial finance ($FIN_i$) is:
+Equation *(`B.8`)* deserves a few additional comments. According to the MCT, firms use bank credit to cover production costs (wages) at the beginning of each period. This initial finance ($FIN_i$) is:
 
 $$
 FIN_i = w \cdot N_d \quad \text{(C.1)}
@@ -840,7 +840,7 @@ $$
 
 Equation (`C.5`) matches equation (`B.8`). At the end of each period, the change in the stock of loans to the firms equals the portion of investment ($I_d$) that is not funded by internal funds (here $`AF`$).
 
-The reason is exactly the explanation provided by TMC theorists: firms remain (further) indebted to the banking system for an amount that equals the new bank deposits. The latter *ex post* always match the investment that has not been covered by private saving. Note that this conclusion remains valid even if firms are assumed to issue securities and/or retain a different share of profits (see [here](https://augustograziani.com/2022/09/18/sequence-and-class-divide-a-reply-to-the-critics-of-the-theory-of-the-monetary-circuit/) for a thorough discussion and [here](https://www.deps.unisi.it/it/ricerca/pubblicazioni-deps/quaderni-deps/anno-2023-da-n894-n/903-technical-change-and-monetary) for a more advanced presentation).
+The reason is exactly the explanation provided by MCT theorists: firms remain (further) indebted to the banking system for an amount that equals the new bank deposits. The latter *ex post* always match the investment that has not been covered by private saving. Note that this conclusion remains valid even if firms are assumed to issue securities and/or retain a different share of profits (see [here](https://augustograziani.com/2022/09/18/sequence-and-class-divide-a-reply-to-the-critics-of-the-theory-of-the-monetary-circuit/) for a thorough discussion and [here](https://www.deps.unisi.it/it/ricerca/pubblicazioni-deps/quaderni-deps/anno-2023-da-n894-n/903-technical-change-and-monetary) for a more advanced presentation).
 
 ## B4_Model_IO-PC
 
@@ -1161,7 +1161,7 @@ The figures above show that, while a higher sensitivity of consumption to an inc
 
 ## Suggested_readings
 
-1. *The 'bible' of the theory of the monetary circuit*: Graziani A. [The Monetary Theory of Production](https://www.cambridge.org/core/books/monetary-theory-of-production/A813BE586E79CDF0DE7C3D930DBF632F), Cambridge University Press.
+1. *The cookbook of the monetary circuit theory*: Graziani A. [The Monetary Theory of Production](https://www.cambridge.org/core/books/monetary-theory-of-production/A813BE586E79CDF0DE7C3D930DBF632F), Cambridge University Press.
 
 1. *The cookbook of SFC economic theory and modelling*: Godley W. and Lavoie M. (2007) [Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3), Palgrave Macmillan, Basingstoke.
 
