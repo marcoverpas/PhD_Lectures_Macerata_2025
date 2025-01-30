@@ -377,27 +377,27 @@ MCT theorists reject the basic idea of consumer sovereignty in favour of the opp
 
 To understand how prices are set within a basic MCT scheme, consider the following system of equations (taken from [Graziani, 2006](https://www.cambridge.org/core/books/monetary-theory-of-production/A813BE586E79CDF0DE7C3D930DBF632F)):
 
-Aggregate supply: 
+Aggregate supply is: 
 
 $$X = pr \cdot N \quad \text{(1)} $$
 
 where $pr$ is the average labour productivity and $N$ is the employment level.
 
-Aggregate consumption:
+Aggregate consumption is:
 
 $$C = c \cdot (w \cdot N + r_b \cdot B) \quad \text{(2)} $$
 
-where $c$ is the average and marginal propensity to consume out of income, $w$ is the wage rate, $r$ is the interest rate, and $B$ is the stock of private securities held by the wage earners.
+where $c$ is the average and marginal propensity to consume out of income, $w$ is the wage rate, $r_b$ is the related interest rate, and $B$ is the stock of private securities held by the wage earners.
 
-Aggregate investment:
+Aggregate investment is:
 
 $$I = b \cdot pr \cdot N \cdot p \quad \text{(3)} $$
 
 where $b$ is the share of real investment to total output, and $p$ is the unit price.
 
-The equilibrium price level is determined by the equality between demand and supply:
+The equilibrium price level is determined by the equality between aggregate supply and aggregate demand:
 
-$$ pr \cdot N = c \cdot (w \cdot N + r_b \cdot B) + b \cdot pr \cdot N \cdot p  $$
+$$ pr \cdot N \cdot p = c \cdot (w \cdot N + r_b \cdot B) + b \cdot pr \cdot N \cdot p  $$
 
 from which we obtain:
 
