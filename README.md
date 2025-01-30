@@ -25,7 +25,6 @@ This repository includes material prepared for my lectures at the [PhD in Quanti
 - [___B3 - Model BMW](#B3_Model_BMW)
 - [___B4 - Model IO-PC](#B4_Model_IO-PC)
 - [___B5 - Model ECO-IO-PC](#B5_Model_ECO-IO-PC)
-- [___B6 - Experiments](#B6_Experiments)
 - [Suggested readings](#Suggested_readings)
 
 # Lecture_A_The_Monetary_Circuit_Theory
@@ -1162,7 +1161,7 @@ src="https://github.com/marcoverpas/figures/blob/main/eco_plot_1.png" width="800
 
 Note that the new **Figure 1** and **Figure 2** demonstrate that the behavior of the economy is qualitatively unchanged, except for the effect of the rise in temperature on consumption.  
 
-## B6_Experiments
+### Experiments
 
 A simple experiment is to increase the (negative) temperature elasticity of the propensity to consume out of income. More precisely, it is assumed here that $\alpha_{12}$ quadruples (see the complete model code [here](https://github.com/marcoverpas/EAEPE_summer_school_2024/blob/main/eaepe_eco_model_plus.R)).  
 
