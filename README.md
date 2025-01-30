@@ -407,11 +407,11 @@ where $s=1-c$ is propensity to save out of income.
 
 It follows that:
 
-- the unit price does not depend on the quantity of money;
+- The unit price does not depend on the quantity of money.
 
-- the price depends on the propensities to save and to invest, and on the level of money costs;
+- The price depends on the propensities to save and to invest, and on the level of money costs.
 
-- each variation in the unit price will produce a proportional variation in the money stock (for any value of the velocity of ciculation of money).
+- Each variation in the unit price will produce a proportional variation in the money stock (for any value of the velocity of ciculation of money).
 
 The average real income of wage earners is:
 
@@ -433,15 +433,15 @@ $$ \Pi = r_f \cdot (w \cdot N + r_b \cdot B) = \frac{b-s}{1-b} \cdot (w \cdot N 
 
 Total profits, expressed in real terms, are:
 
-$$ \frac{\Pi}{p} = \frac{b-s}{1-b} \cdot pr \cdot N \quad \text{(9)} $$
+$$ \frac{\Pi}{p} = \frac{b-s}{1-s} \cdot pr \cdot N \quad \text{(9)} $$
 
 The following implications hold:
 
-- The level of profits depends directly on the level of money prices. 
+- The level of profits depends directly on the level of money prices (because they depend on $`r_f`$, which, in turn, depends on $`p`$). 
 
 - Real profits do not depend on the interest rate paid by firms on the securities they issue. A consequence is that any attempt to influence investment decisions by controlling the rate of interest is bound to be ineffective.
 
-- If, by chance, $` s = b `$, prices equal the monetary cost of production, hence profits = 0.
+- If, by chance, $` s = b `$, prices equal the monetary costs of production, hence profits = 0.
 
 - If $` s = 0 `$, real profits = investment.
 
