@@ -429,7 +429,7 @@ The following implications hold:
 
 Lastly, note that net profits must be calculated net of interests paid to the banks:
 
-$$ \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_B ) \cdot (w \cdot N + r_b \cdot B) \quad \text{(10)} $$
+$$ \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( r_b ) \cdot (w \cdot N + r_b \cdot B) \quad \text{(10)} $$
 
 where $` \lambda `$ is workers' deposit holdings to total income ratio, defined as a negative function of the interest rate on private securities, and $` r_l `$ is the interest rate on bank loans to firms.
 
