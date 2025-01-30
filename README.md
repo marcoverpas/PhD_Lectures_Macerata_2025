@@ -799,7 +799,7 @@ Model BMW is now complete. The redundant or hidden equation can be derived from 
 
 $$ \Delta M_h = \Delta M_s $$
 
-This equation is excluded from the model and used to double-check its water-tightness.
+This equation is excluded from the model and used to double-check its watertightness.
 
 The charts below show the evolution of selected variables following different shocks.
 
