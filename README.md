@@ -631,9 +631,9 @@ The model can be easily simulated by identifying the coefficients and attributin
 src="https://github.com/marcoverpas/figures/blob/main/Model_PC_inter.png" width="800">
 </figure>
 
-You can access the interactive model [here](https://x52gnt-marco-passarella.shinyapps.io/modello_is-lm-pc_inter/).
+You can access an interactive simulation of Model PC [here](https://x52gnt-marco-passarella.shinyapps.io/modello_is-lm-pc_inter/).
 
-A simple `R` code replicating Model PC can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/PC_model_from_scratch.R). 
+A simple `R` code allowing to replicate the model and execute some experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/PC_model_from_scratch.R). 
 
 ## B3_Model_BMW
 
