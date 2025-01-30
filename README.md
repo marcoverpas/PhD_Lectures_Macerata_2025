@@ -403,7 +403,7 @@ Real consumption is therefore:
 
 $$ \frac{C}{p} = (1-b) \cdot pr \quad \text{(6)} $$
 
-Average real consumption of wage earners depends on both the average productivity of labour (+) and the share of firms' investment (-).
+The average real consumption of wage earners depends on both the average productivity of labour (+) and the share of firms' investment (-).
 
 The profit rate for the firms sector is:
 
