@@ -443,7 +443,7 @@ The following implications hold:
 
 - If, by chance, $` s = b `$, prices equal the monetary costs of production, hence profits = 0.
 
-- If $` s = 0 `$, real profits = investment.
+- If $` s = 0 `$, real profits = real investment.
 
 Lastly, note that net profits must be calculated net of interests paid to the banks:
 
