@@ -795,7 +795,13 @@ Interest rate on loans:
         
 $$ r_l = \bar{r}_l \quad \text{(B.21)} $$
 
-Model BMW is now complete. The charts below show the evolution of selected variables following different shocks.
+Model BMW is now complete. The redundant or hidden equation can be derived from the last row of the TFM table, which requires that:
+
+$$ \Delta M_h = \Delta M_s $$
+
+This equation is excluded from the model and used to double-check its water-tightness.
+
+The charts below show the evolution of selected variables following different shocks.
 
 <figure>
 <img
