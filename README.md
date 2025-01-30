@@ -68,7 +68,7 @@ The second challenge is historical: if we look back at history, only one type of
 
 According to another theory, money emerged when sovereign authorities ceased acquiring resources through forced transfers of goods and services (as in feudal systems) and adopted a new approach: granting credit to those who provided their products or labour. The sovereign then required community members to periodically present and return a specified number of these credit certificates as proof of their contributions - that is, to pay monetary taxes. The value of these certificates, as a means of settling obligations to the State, made them a convenient medium of exchange among private individuals. This historical shift laid the groundwork for modern monetary economies. In this regard, notice that barter systems historically follow the collapse of payment systems, rather than preceding their establishment.
 
-In other words, money does not arise solely from interactions between private individuals, nor is its value derived from indirect utility. Instead, the spread of State-backed money results from its legal tender status and its imposition as a tool for meeting tax obligations. As Georg F. Knapp argued, it is the power of the State, not spontaneous market forces, that transforms a commodity into money. While no one can be legally compelled to use a specific payment instrument, the state can make such instruments attractive through taxation.
+In other words, money does not arise solely from interactions between private individuals, nor is its value derived from indirect utility. Instead, the spread of State-backed money results from its legal tender status and its imposition as a tool for meeting tax obligations. As Georg F. Knapp argued, it is the power of the State, not spontaneous market forces, that transforms a commodity into money. While no one can be legally compelled to use a specific payment instrument, the State can make such instruments attractive through taxation.
 
 This State theory of money not only sheds light on its origins but also suggests that money has a direct utility.
 
@@ -628,7 +628,7 @@ $$H_s = H_h $$
 
 This equation must be excluded from the model, which is the reason it is sometimes called the *hidden equation*. However, it can be conveniently used to double-check the consistency of the model.
 
-One of the advantages of using such a simple model as a basic model, is that we can calculate the (quasi) steady state solution for national income $`Y`$. We can do that by observing that in the steady state there must be no saving ($`C=YD`$) and household holdings of bills are stable ($`B_{h,−1}=B_h=B_h^{*}`$). Using these conditions and equations (2) and (3) in $`Y`$, we otain: 
+One of the advantages of using such a simple model as a basic model, is that we can calculate the (quasi) steady-state solution for national income $`Y`$. We can do that by observing that in the steady state there must be no saving ($`C=YD`$) and household holdings of bills are stable ($`B_{h,−1}=B_h=B_h^{*}`$). Using these conditions and equations (2) and (3) in $`Y`$, we otain: 
 
 $$Y^{\*}= \frac{G + r \cdot B_h^{*} \cdot (1 − \theta)}{\theta}$$
 
@@ -818,7 +818,7 @@ The charts below show the evolution of selected variables following different sh
 src="https://github.com/marcoverpas/figures/blob/main/BMW_charts_2025.png" width="800">
 </figure>
 
-The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both state and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
+The main code for reproducing the experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model.R). The code for the Sankey diagram replicating the transactions-flow matrix is [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/BMW_model_sankey.R). Lastly, the codes for a more advanced simulation of an SFC model, incorporating both State and bank money, are available [here](https://github.com/marcoverpas/STRECO_2021).
 
 #### APPENDIX: PRODUCTION FINANCING OR INVESTMENT FUNDING?
 
