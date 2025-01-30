@@ -695,7 +695,7 @@ While all rows related to financial assets/liabilities must sum to zero, the row
 
 In formal terms, the model is expressed by a system of 21 equations.
 
-#### --- Behavioural equations and equilibrium condition
+#### a) Behavioural equations and equilibrium condition
       
 Supply of consumption goods:
 
@@ -713,7 +713,7 @@ Supply of loans:
 
 $$ L_s = L_{s,-1} + (L_d - L_{d,i-1}) \quad \text{(B.4)} $$
 
-#### --- Transactions of the firms
+#### b) Transactions of the firms
 
 GDP definition:
 
@@ -731,7 +731,7 @@ Demand for bank loans:
 
 $$ L_d = L_{d,-1} + I_d - AF \quad \text{(B.8)} $$ 
 
-#### --- Transactions of the households
+#### c) Transactions of the households
       
 Disposable income:
 
@@ -741,7 +741,7 @@ Bank deposits held by households:
 
 $$ M_h = M_{h,-1} + YD - C_d \quad \text{(B.10)} $$
 
-#### --- Transactions of the banks  
+#### d) Transactions of the banks  
       
 Supply of deposits:
 
@@ -751,7 +751,7 @@ Rate of interest on deposits:
         
 $$ r_m = r_l \quad \text{(B.12)} $$
 
-#### --- The labour market 
+#### e) The labour market 
       
 Supply of wages:
 
@@ -765,13 +765,13 @@ Wage rate:
 
 $$ w = \frac{WB_d}{N_d} \quad \text{(B.15)} $$       
 
-#### --- Household behaviour
+#### f) Household behaviour
       
 Demand for consumption goods:
 
 $$ C_d = \alpha_0 + \alpha_1 \cdot YD + \alpha_2 \cdot M_{h,-1} \quad \text{(B.16)} $$
 
-#### --- Investment behaviour
+#### g) Investment behaviour
       
 Accumulation of capital:
 
@@ -789,7 +789,7 @@ Demand for investment goods:
 
 $$ I_d = \gamma \cdot (K^t - K_{-1}) + DA \quad \text{(B.20)} $$
       
-#### --- Banks behaviour
+#### h) Banks behaviour
       
 Interest rate on loans:
         
