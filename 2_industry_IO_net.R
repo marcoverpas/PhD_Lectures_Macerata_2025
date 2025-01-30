@@ -22,11 +22,6 @@ edge_labels <- paste0(c("a11 = ",
 )
 , edge_labels)
 
-# Define edge curvature ####
-# Use a vector of curvature values for each edge
-# Positive values curve edges in one direction, negative values in the opposite direction
-#edge_curvature <- c(0, 0.3, -0.3, 0)  # Adjust curvature for edges
-
 # Plot the network graph ####
 layout(matrix(c(1), 1, 1, byrow = TRUE))
 set.seed(123)  # For reproducible layout
@@ -43,5 +38,4 @@ plot(graph,
      edge.label = edge_labels,  # Add edge labels
      edge.label.color = "black",  # Edge label color
      edge.label.cex = 0.8,  # Edge label size
-     #edge.curved = edge_curvature  # Add curvature to edges
-)
+     )
