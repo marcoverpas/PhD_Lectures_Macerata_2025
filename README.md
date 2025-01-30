@@ -505,17 +505,17 @@ The simplicity or complexity of SFC models dictates the approach to solving them
 
 Coefficients in SFC models play a crucial role in shaping model behaviour. Researchers have several options for determining these coefficients:
 
-a) Fine-tuning: coefficients can be fine-tuned to achieve specific baseline scenarios, drawing insights from previous studies or selecting values from a reasonable range.
+a) **Fine-tuning**: coefficients can be fine-tuned to achieve specific baseline scenarios, drawing insights from previous studies or selecting values from a reasonable range.
 
-b) Calibration: researchers may calibrate coefficients to match the model's predictions with observed data, aligning the model with real-world economic conditions.
+b) **Calibration**: researchers may calibrate coefficients to match the model's predictions with observed data, aligning the model with real-world economic conditions.
 
-c) Estimation: econometric methods, including Ordinary Least Squares (OLS) and cointegration techniques, enable the estimation of coefficients from observed data, enhancing the model's empirical relevance.
+c) **Estimation**: econometric methods, including Ordinary Least Squares (OLS) and cointegration techniques, enable the estimation of coefficients from observed data, enhancing the model's empirical relevance.
 
 Unlike DSGE models, which often rely on a unified platform like `Dynare`, SFC modeling lacks a universally adopted program. The pioneering codes used in Godley and Lavoie's work were developed by [Gennaro Zezza](https://gennaro.zezza.it/software/eviews/gl2006.php) using `EViews` and `Excel`. However, the landscape has evolved over time. [R](https://www.r-project.org/) ([RStudio](https://posit.co/blog/rstudio-new-open-source-ide-for-r/)) has become the predominant programming environment for SFC modeling, owing to its flexibility and extensive capabilities. Dedicated `R` packages such as [SFCR](https://joaomacalos.github.io/sfcr/index.html) and [Godley](https://github.com/gamrot/godley/) provide specialized tools for SFC modeling. Additionally, [Bimets](https://github.com/andrea-luciani) offers a platform for empirical SFC model development. Alternative programming languages, including [MATLAB](https://github.com/marcoverpas/SFC-models-Matlab) (with or without `Dynare`), `Mathematica`, [Python](https://github.com/marcoverpas/SFC-models-Jupyter), and `Julia`, find applications in SFC modeling, particularly for creating agent-based SFC models. [Minsky](https://www.kickstarter.com/projects/2123355930/minsky-reforming-economics-with-visual-monetary-mo), a software package developed by Steve Keen, stands out as a tool for visually modeling macroeconomic system dynamics.
 
 Summing up, while there are many online resources today for those interested in engaging with SFC modeling, the community of SFC modelers lacks a portal that consolidates the produced material, which is abundant but still scattered.
 
-The aim of this set of lectures is to provide a simple introduction to IO- and ECO-SFC models by using a hand-on approach. For a theoretical introduction to SFC model, please refer to [Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3) by W. Godley and M. Lavoie. 
+The aim of this lecture is to provide a simple introduction to SFC models (including IO-SFC and ECO-SFC models) by using a hand-on approach. For a theoretical introduction to SFC model, please refer to [Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3) by W. Godley and M. Lavoie. 
 
 ## B2_Model_PC
 
