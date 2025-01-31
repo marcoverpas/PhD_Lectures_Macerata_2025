@@ -590,7 +590,7 @@ $$T = \theta \cdot (Y +  r_{-1} \cdot B_{h,-1} ) \quad \text{(3)} $$
 
 where $\theta$ is the average tax rate on total income before taxes.
 
-Household wealth (identity) is:
+Households' wealth (identity) is:
 
 $$V_h = V_{h,-1} + YD - C \quad \text{(4)} $$
 
