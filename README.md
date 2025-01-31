@@ -1130,7 +1130,7 @@ assumption is made that the propensity to consume out of income is
 
 New *propensity to consume* out of income:
 
-$$\alpha_1 = \alpha_{10} - \alpha_{11} \cdot r_{-1} - \alpha_{12} \cdot \Delta temp \quad \text{(19.A)} $$
+$$\alpha_1 = \alpha_{10} - \alpha_{11} \cdot r_{-1} - \alpha_{12} \cdot \Delta temp \quad \text{(12.A)} $$
 
 where $\alpha_{12}$ is a positive coefficient.
 
