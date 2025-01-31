@@ -570,61 +570,61 @@ The structure of Model PC is quite simple. Crucial identities of the model are d
 
 *Note*: The code needed to generate **Table 1** and **Table 2** can be accessed [here](https://github.com/marcoverpas/EAEPE_summer_school_2024/blob/main/eaepe_io_tables.R).
 
-Completing the identities derived form the tables above with behavioural equations for taxes, consumption, demand for bills, and the interest rate, we obtain the following system of difference equations:
+Completing the identities derived from the tables above with behavioural equations for taxes, consumption, demand for bills, and the interest rate, we obtain the system of difference equations presented below.
 
-National income (identity): 
+We start with the equation defining national income (identity), which is: 
 
 $$Y = C + G \quad \text{(1)} $$
 
 where $C$ is household consumption and $G$ is government expenditure.
 
-Disposable income (identity):
+Households'disposable income (identity) is:
 
 $$YD = Y - T + r_{-1} \cdot B_{h,-1} \quad \text{(2)} $$
 
 where $r$ is the interest rate and $B_h$ is households' holdings of bills. The subscript $-1$ stands for lagged variable.
 
-Tax revenue (behavioural):
+Tax revenue (behavioural) is:
 
 $$T = \theta \cdot (Y +  r_{-1} \cdot B_{h,-1} ) \quad \text{(3)} $$
 
 where $\theta$ is the average tax rate on total income before taxes.
 
-Household wealth (identity):
+Household wealth (identity) is:
 
 $$V_h = V_{h,-1} + YD - C \quad \text{(4)} $$
 
-Consumption (hehavioural):
+Consumption (hehavioural) is:
 
 $$C = \alpha_1 \cdot YD + \alpha_2 \cdot V_{-1} \quad \text{(5)} $$
 
 where $\alpha_1$ is the propensity to consume out of income and $\alpha_2$ is the propensity to consume out of wealth.
 
-Cash held by households (identity):
+Cash held by households (identity) is:
 
 $$H_h = V_h - B_h \quad \text{(6)} $$
 
-Bills held by households (behavioural):
+The value of bills held by households (behavioural) is:
 
 $$\frac{B_h}{V_h} = \lambda_0 + \lambda_1 \cdot r - \lambda_2 \cdot \frac{YD}{V_h} \quad \text{(7)} $$
 
 where $\lambda_0$ is the autonomous share of bills held by the households, $\lambda_1$ is the elasticity to the interest rate, and $\lambda_2$ captures households' liquidity preference.
 
-Supply of bills (identity):
+The supply of bills (identity) is:
 
 $$B_s = B_{s,-1} + G - T + r_{-1} \cdot ( B_{s,-1} - B_{cb,-1} ) \quad \text{(8)} $$
 
 where $B_{cb}$ is the amount of bills held by the central bank.
 
-Supply of cash (identity):
+The supply of cash (identity) is:
 
 $$H_s = H_{s,-1} + \Delta B_{cb} \quad \text{(9)} $$
 
-Bills held by central bank (identity):
+The value of bills held by central bank (identity) is:
 
 $$B_{cb} = B_s - B_h \quad \text{(10)} $$
 
-Interest rate (behavioural):
+The interest rate (behavioural) is:
 
 $$r = \bar{r} \quad \text{(11)} $$
 
