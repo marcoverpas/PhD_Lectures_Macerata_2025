@@ -74,7 +74,7 @@ This State theory of money not only sheds light on its origins but also suggests
 
 #### A1.2.3 Money as a store of value
 
-As Keynes (1936) clarified, the desire to hold money reflects our distrust of the future. Its *utility* derives from its function as a *store of value*. Keynes referred to this phenomenon as the *liquidity preference*, which also explains the risk premium (spread) as the price demanded for parting with money (the only trusted means of payment) during crises. 
+As Keynes ([1936](https://www.files.ethz.ch/isn/125515/1366_keynestheoryofemployment.pdf), [1937](https://www.jstor.org/stable/1882087)) clarified, the desire to hold money reflects our distrust of the future. Its *utility* derives from its function as a *store of value*. Keynes referred to this phenomenon as the *liquidity preference*, which also explains the risk premium (spread) as the price demanded for parting with money (the only trusted means of payment) during crises. 
 
 This second conception highlights an essential aspect to be discussed further: the *credit nature* of money. Money is not merely *a thing*. It is an economic and social *relationship*. A banknote represents a State liability towards the holder and, simultaneously, a credit for the holder against the State. Even when appearing as metallic currency, money is a zero-interest liability. For this reason, Keynes described the Indian rupee as a banknote printed on a piece of silver.
 
