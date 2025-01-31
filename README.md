@@ -874,7 +874,7 @@ The reason is exactly the explanation provided by MCT theorists: firms remain (f
 
 ## B4_Model_IO-PC
 
-There are currently only a few prototype input-output SFC models, despite recent progress (Berg, Hartley, and Richters, 2015; Jackson and Jackson, 2021, 2023; Valdecantos, 2023). Integrating IO and SFC techniques poses challenges, but it is crucial for analysing both technical progress (Veronese Passarella, 2023) and the interaction of the ecosystem with the economy (Hardt and O’Neill, 2017).
+There are currently only a few prototype input-output SFC models, despite recent progress ([Berg, Hartley, and Richters, 2015](https://iopscience.iop.org/article/10.1088/1367-2630/17/1/015011); [Jackson and Jackson, 2025](https://doi.org/10.1016/j.ecolecon.2024.108507); [Valdecantos, 2023](https://www.researchgate.net/publication/355453717_Grasping_Argentina's_Green_Transition_Insights_from_a_Stock-Flow_Consistent_Input-Output_Model)). Integrating IO and SFC techniques poses challenges, but it is crucial for analysing both technical progress ([Veronese Passarella, 2023](https://www.deps.unisi.it/sites/st02/files/allegatiparagrafo/07-09-2023/903.pdf)) and the interaction of the ecosystem with the economy ([Hardt and O’Neill, 2017](https://www.sciencedirect.com/science/article/pii/S0921800916303202)).
 
 Model IO-PC is an input-output extension of Model PC, where **IO** stands for "input-output structure".
 
