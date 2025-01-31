@@ -648,7 +648,7 @@ The model can be easily simulated by identifying the coefficients and attributin
 
 <figure>
 <img
-src="https://github.com/marcoverpas/figures/blob/main/Model_PC_inter.png" width="800">
+src="https://github.com/marcoverpas/figures/blob/main/Sim_Model_PC.png" width="800">
 </figure>
 
 You can access an interactive simulation of Model PC [here](https://x52gnt-marco-passarella.shinyapps.io/modello_is-lm-pc_inter/).
