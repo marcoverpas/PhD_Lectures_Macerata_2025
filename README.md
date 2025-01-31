@@ -898,25 +898,25 @@ Notice that scalars are represented using *italic characters*, whereas vectors a
 
 Column vector defining *composition of real consumption* (behavioural):
 
-$$**\text{B}_c** = **\bar{\text{B}}_c** \quad \text{(12)} $$  
+$$**\text{B}_c** = **\bar{\text{B}}_c** \quad \text{(13)} $$  
 
 where $\mathrm{B_c} = [ B_{c1} \text{ }  B_{c2} ]$ and $B_{c1} + B_{c2} = 1$.
 
 Column vector defining *composition of real government expenditure* (behavioural):
 
-$$**\text{B}_g** = **\bar{\text{B}}_g** \quad \text{(13)} $$  
+$$**\text{B}_g** = **\bar{\text{B}}_g** \quad \text{(14)} $$  
 
 where $\mathrm{B_g} = [ B_{g1} \text{ } B_{g2} ]$ and $B_{g1} + B_{g2} = 1$.
 
 Column vector of *final demands in real terms* (identity):
 
-$$**\text{d}** = **\text{B}_c** \cdot c + **\text{B}_g** \cdot g \quad \text{(14)} $$  
+$$**\text{d}** = **\text{B}_c** \cdot c + **\text{B}_g** \cdot g \quad \text{(15)} $$  
 
 Column vector of *real gross outputs* (identity):
 
 $$**\text{x}** = **\text{A}** \cdot **\text{x}** + **\text{d}**, ~ with: **\text{A}**= \left(\begin{array}{cc} a_{11} & a_{12} \\
                                                                         a_{21} & a_{22}
-                                                                        \end{array}\right) \quad \text{(15)} $$  
+                                                                        \end{array}\right) \quad \text{(16)} $$  
 
 Modified equation for *national income* (identity):
 
@@ -924,31 +924,26 @@ $$Y = **\text{p}^T** \cdot **\text{d}** \quad \text{(1.A)} $$
 
 Column vector of *unit prices of reproduction* (behavioural):
 
-$$**\text{p}** = \frac{w}{**\text{pr}**} + ( **\text{p}**^T \cdot **\text{A}** ) \cdot (1 + \mu) \quad \text{(16)} $$
+$$**\text{p}** = \frac{w}{**\text{pr}**} + ( **\text{p}**^T \cdot **\text{A}** ) \cdot (1 + \mu) \quad \text{(17)} $$
 
 where $w$ is the (uniform) wage rate, $\mathrm{pr}$ is the vector of labour productivities, and $\mu$ is the (uniform) profit rate.
 
 *Average consumer price* (identity):
 
-$$p_c = **\text{p}^T** \cdot **\text{B}_c** \quad \text{(17)} $$  
+$$p_c = **\text{p}^T** \cdot **\text{B}_c** \quad \text{(18)} $$  
 
 *Average price for the government* (identity):
 
-$$p_g = **\text{p}^T** \cdot **\text{B}_g** \quad \text{(18)} $$  
+$$p_g = **\text{p}^T** \cdot **\text{B}_g** \quad \text{(19)} $$  
 
 *Real consumption function* (behavioural):
 $$c = \alpha_1 \cdot \left( \frac{YD}{p_c} - \pi \cdot \frac{V_{-1}}{p_c} \right) + \alpha_2 \cdot \frac{V_{-1}}{p_{c,-1}} \quad \text{(5.A)} $$
 
 where $\pi$ is the rate of growth of the consumer price index (inflation rate), as consumers are assumed not to suffer from monetary illusion.
 
-*Propensity to consume out of income* (behavioural):
-$$\alpha_1 = \alpha_{10} - \alpha_{11} \cdot r_{-1} \quad \text{(19)} $$
-
-where $\alpha_{10}$ and $\alpha_{11}$ are positive coefficients.
-
 Note: the superscript $T$ stands for the transpose of the matrix, turning a column vector into a row vector. 
 
-Equations (`12`) to (`19`) are additional ones. Equations (`1.A`) and (`5.A`) replace equations (`1`) and (`5`) of Model PC, respectively. Nominal consumption in equation (`4`) and nominal government spending in equation (`8`) are redefined as $p_c \cdot c$ and $p_g \cdot g$, respectively. The main code for developing Model IO-PC and conducting experiments can be found [here](https://github.com/marcoverpas/EAEPE_summer_school_2024/blob/main/eaepe_io_model.R).
+Equations (`13`) to (`19`) are additional ones. Equations (`1.A`) and (`5.A`) replace equations (`1`) and (`5`) of Model PC, respectively. Nominal consumption in equation (`4`) and nominal government spending in equation (`8`) are redefined as $p_c \cdot c$ and $p_g \cdot g$, respectively. The main code for developing Model IO-PC and conducting experiments can be found [here](https://github.com/marcoverpas/EAEPE_summer_school_2024/blob/main/eaepe_io_model.R).
 
 Using the hidden equation, **Figure 1** demonstrates that the model is watertight, while **Figure 2** illustrates that the evolution of the main macro variables towards the steady state exactly matches that of a standard (aggregative) SFC model. However, unlike a standard SFC model, Model IO-PC also allows for the accounting of the input-output structure of the economy.
 
