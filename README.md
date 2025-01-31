@@ -693,7 +693,7 @@ The structure of Model BMW is slightly different from that of model PC. However,
 |                     |                 |                 |                 |                 |
 |Column tot.          |0                |0                |0                |                0|
 
-While all rows related to financial assets/liabilities must sum to zero, the row related to fixed capital does not, because tangible capital is only an asset for the economy. In addition, since it is assumed that banks and firms do not make net profits, household net wealth must be exacly equal to the stock of tangible capital. 
+While all rows related to financial assets/liabilities must sum to zero, the row related to fixed capital does not, because tangible capital is only an asset for the economy. In addition, since it is assumed that banks and firms do not make net profits, households' net wealth must be exacly equal to the stock of tangible capital. 
 
 #### Table 2. Transactions-flow matrix  
 
@@ -853,6 +853,8 @@ We can now calculate the change in the stock of loans recorded at the end of the
 $$
 \Delta L_d = FIN_i - FIN_f = w \cdot N_d - \left[ C_s - r_l \cdot L_d - (\Pi - AF) \right] \quad \text{(C.3)}
 $$
+
+Incidentally, equation (`C.3`) illustrates why adding additional loans to finance the purchase of investment goods is of secondary importance, as it would increase both $`FIN_i`$ and $`FIN_f`$ by the same amount, leaving their difference unchanged.
 
 Notice that firms' total profit is defined residually as:
 
