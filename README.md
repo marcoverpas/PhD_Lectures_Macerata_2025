@@ -453,7 +453,7 @@ where $` \lambda `$ is workers' deposit holdings to total income ratio, defined 
 
 An increase in the interest rate paid by firms on securities produces contrasting consequences, as it reduces $` \lambda `$ but increases $` r_b \cdot B `$.
 
-*Note*: for a dynamic rendition of the MCT model, see [B3 Model BMW](#B3_Model_BMW).
+*Note*: For a dynamic rendition of the MCT model, see [B3 Model BMW](#B3_Model_BMW).
 
 ## A5_Policy_implications
 
