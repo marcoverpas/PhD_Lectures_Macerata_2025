@@ -437,6 +437,8 @@ $$ \frac{\Pi}{p} = \frac{b-s}{1-s} \cdot pr \cdot N \quad \text{(9)} $$
 
 The following implications hold:
 
+- Firms earn positive profits because the value of production exceeds the wage bill paid to workers.
+
 - The level of profits depends directly on the level of money prices (because they depend on $`r_f`$, which, in turn, depends on $`p`$). 
 
 - Real profits do not depend on the interest rate paid by firms on the securities they issue. A consequence is that any attempt to influence investment decisions by controlling the rate of interest is bound to be ineffective.
