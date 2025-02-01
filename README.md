@@ -453,7 +453,7 @@ $$ \Pi_n = r_f \cdot (w \cdot N + r_b \cdot B) - r_l \cdot \lambda( \bar{r}_b ) 
 
 where $` \lambda `$ is workers' deposit holdings to total income ratio, defined as a negative function of the interest rate on private securities, and $` r_l `$ is the interest rate on bank loans to firms.
 
-An increase in the interest rate paid by firms on securities produces contrasting consequences, as it reduces $` \lambda `$ but increases $` r_b \cdot B `$. However, if the assumption that banks do not consume is relaxed, a portion of the interest payments to banks flows back to firms in the form of consumption. As a result, the net effect of an increase in the interest rate can actually be positive for firms' profits. 
+An increase in the interest rate paid by firms on securities produces contrasting consequences, as it reduces $` \lambda `$ but increases $` r_b \cdot B `$. However, if the assumption that banks do not consume is relaxed, a portion of the interest payments to banks flows back to firms in the form of consumption. As a result, the net effect of an increase in the interest rate can actually be positive for firms' profits. Consequently, monetary policy is unlikely to exert a strong or well-defined influence on firms' production and investment decisions.
 
 *Note*: For a dynamic rendition of the MCT model, see [B3 Model BMW](#B3_Model_BMW).
 
