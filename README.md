@@ -225,7 +225,7 @@ The simplest version of the monetary circuit, only four agents are considered: t
 </tr>
   </table>
 
-:hamburger: **Step 3: sales on the goods market**. Goods produced are put on sale. Consumer goods are sold to wage earners, while investment goods are exchanged inside the firms sector (see section [A4](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025#a4_distribution_in_a_mct_model) for a thorough description). The money that wage earners spend in the goods
+:hamburger: **Step 3: sales on the goods market**. Goods produced are put on sale. Consumer goods are sold to wage earners, while investment goods are exchanged inside the firms sector (see section [A4](#A4_Distribution_in_a_MCT_model) for a thorough description). The money that wage earners spend in the goods
 market flows back to the firms.
 
 <table>
