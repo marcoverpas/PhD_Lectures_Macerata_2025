@@ -131,7 +131,7 @@ The second corollary relates to the interpretation of Irving Fisher's [equation 
 
 However, the monetary and financial instability that has characterised the major world economies since the late 1970s has shown that the velocity of circulation of money is anything but stable, increasing during expansion phases and plummeting during recessions (as predicted by Keynes and Minsky, intuited before them by Thornton and Marx, and reluctantly acknowledged by Mankiw). Moreover, the possibility of defining a natural level of production independent of demand conditions and thus of firms' investments is blatantly contradicted by the need to continuously revise estimates of potential GDP. Finally, for years, the world's major central banks have abandoned any ambition to control monetary aggregates (the most striking case being the abandonment of the [second pillar of the ECB's monetary policy](https://www.ecb.europa.eu/pub/pdf/other/pp37_48_mb200011en.pdf)) to focus on regulating the policy interest rate, letting the supply of base money adjust to demand (through open market operations that play a passive adjustment role, not an active determination of monetary aggregates, as this would clash with the setting of the reference rate for the markets).
 
-The point is that the relationship between money and prices is much weaker than is commonly believed, while the direction of dominant causation is reversed compared to that postulated by the quantity theory of money. Consider, for example, an increase in the price of raw materials. This will increase production costs for firms, which, at a given interest rate, will request more financing (loans) from banks. These will translate into more deposits, which, in turn, will require more reserves injected into the system by the central bank. Thus, it was not the greater injection of base money that generated the rise in prices, but the latter that generated the former (see the diagram below, developed by Fontana and Setterfield [2009a](https://www.inderscienceonline.com/doi/epdf/10.1504/IJPEE.2009.02897), [2009b](https://link.springer.com/chapter/10.1007/978-0-230-29166-9_9)).
+The point is that the relationship between money and prices is much weaker than is commonly believed, while the direction of dominant causation is reversed compared to that postulated by the quantity theory of money. Consider, for example, an increase in the price of raw materials. This will imply an increase in the demand for monetary wages, and therefore in loans from banks, for a given policy rate. More loans will translate into more deposits, which, in turn, will require more reserves injected into the system by the central bank. Thus, it was not the greater injection of base money that generated the rise in prices, but the latter that generated the former (see the diagram below, developed by Fontana and Setterfield [2009a](https://www.inderscienceonline.com/doi/epdf/10.1504/IJPEE.2009.02897), [2009b](https://link.springer.com/chapter/10.1007/978-0-230-29166-9_9)).
 
 <figure>
 <img
@@ -162,7 +162,7 @@ According to [Graziani](https://www.cambridge.org/core/books/monetary-theory-of-
 
 The simplest version of the monetary circuit, only four agents are considered: the central bank, commercial banks, production firms, and wage earners. For the sake of simplicity, we assume that intrest rates on both bank deposits and loans are equal to zero. 
 
-:bank: **Step 1: money creation**. Commercial banks grant credit to firms, thus enabling them to start the process of production. This credit flow is denominated *initial finance*. Only frms are admitted to bank credit *at this stage*. If firms are considered as one integrated and consolidated sector, the only purchase they have to make is that of labour power. Therefore, their only payment is the wage bill. As a result, the wage policy of the firms ultimately depends on the credit policy of the banks.
+:bank: **Step 1: money creation**. Commercial banks grant credit to firms, thus enabling them to start the process of production. This credit flow is denominated *initial finance*. Only firms are admitted to bank credit *at this stage*. If firms are considered as one integrated and consolidated sector, the only purchase they have to make is that of labour power. Therefore, their only payment is the wage bill. As a result, the wage policy of the firms ultimately depends on the credit policy of the banks. By restricting credit, banks can effectively limit the level of production.
 
 <table>
   <tr>
@@ -225,7 +225,7 @@ The simplest version of the monetary circuit, only four agents are considered: t
 </tr>
   </table>
 
-:hamburger: **Step 3: sales on the goods market**. Goods produced are put on sale. Consumer goods are sold to wage earners, while investment goods are exchanged inside the firms sector. The money that wage earners spend in the goods
+:hamburger: **Step 3: sales on the goods market**. Goods produced are put on sale. Consumer goods are sold to wage earners, while investment goods are exchanged inside the firms sector (see section [A4](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025#a4_distribution_in_a_mct_model) for a thorough description). The money that wage earners spend in the goods
 market flows back to the firms.
 
 <table>
