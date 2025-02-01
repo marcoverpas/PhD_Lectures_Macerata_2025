@@ -719,7 +719,7 @@ While all rows related to financial assets/liabilities must sum to zero, the row
 
 In formal terms, the model is expressed by a system of 21 equations.
 
-#### a) Behavioural equations and equilibrium condition
+#### a) Equilibrium conditions
       
 Supply of consumption goods:
 
