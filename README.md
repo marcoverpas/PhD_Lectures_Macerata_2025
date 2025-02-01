@@ -5,7 +5,7 @@ src="https://github.com/marcoverpas/figures/blob/main/Graziani_Godley.png" width
 
 # Issues in Monetary Policies and Monetary Circuits 
 
-This repository includes material prepared for my lectures at the [PhD in Quantitative Methods for Economic Policy](https://economiaediritto.unimc.it/en/research/phd-programme-and-research-grants/PhD-MQPE), University of Macerata, February 3-4, 2025.
+This repository includes material prepared for my lectures at the [PhD in Quantitative Methods for Economic Policy](https://economiaediritto.unimc.it/en/research/phd-programme-and-research-grants/PhD-MQPE), University of Macerata, February 3-4, 2025. I am grateful to [Gennaro Zezza](https://gennaro.zezza.it/) for his valuable comments on an earlier version of this text.
 
 <p align="center">
   <img src="https://github.com/marcoverpas/figures/blob/main/qr_macerata.png" width="300" alt="QR Code">
