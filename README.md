@@ -149,7 +149,7 @@ According to [Graziani](https://www.cambridge.org/core/books/monetary-theory-of-
 
 1. Money is an endogenous flow: it is created and injected into the economy by means of negotiations between banks and firms.
 
-1. Class divide matters: since firms have access to bank credit *at the beginning of the circuit*, they enjoy a purchasing power that is not constrained by the level of real income (or wealth). By constrast, wage earners can only spend alread-yearned incomes.
+1. Class divide matters: since firms have access to bank credit *at the beginning of the circuit*, they enjoy a purchasing power that is not constrained by the level of real income (or wealth). By constrast, wage earners can only spend already-yearned incomes.
 
 1. Since agents are not granted credit on the same footing, the system of relative prices reflects the way in which purchasing power has been granted to different social groups. As a consequence, money is never neutral.
 
@@ -160,7 +160,7 @@ According to [Graziani](https://www.cambridge.org/core/books/monetary-theory-of-
 
 ## A3_A_Simple_MCT_Model
 
-The the simplest version of the monetary circuit, only four agents are considered: the central bank, commercial banks, production firms, and wage earners. For the sake of simplicity, we assume that intrest rates on both bank deposits and loans are equal to zero. 
+The simplest version of the monetary circuit, only four agents are considered: the central bank, commercial banks, production firms, and wage earners. For the sake of simplicity, we assume that intrest rates on both bank deposits and loans are equal to zero. 
 
 :bank: **Step 1: money creation**. Commercial banks grant credit to firms, thus enabling them to start the process of production. This credit flow is denominated *initial finance*. Only frms are admitted to bank credit *at this stage*. If firms are considered as one integrated and consolidated sector, the only purchase they have to make is that of labour power. Therefore, their only payment is the wage bill. As a result, the wage policy of the firms ultimately depends on the credit policy of the banks.
 
@@ -417,7 +417,7 @@ The average real income of wage earners is:
 
 $$ \frac{w + r_b \cdot (B/N)}{p} = ... = \frac{1-b}{1-s} \cdot pr \quad \text{(5)} $$
 
-Real consumption is therefore:
+Real consumption (per capita) is therefore:
 
 $$ \frac{C}{p} = (1-b) \cdot pr \quad \text{(6)} $$
 
