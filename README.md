@@ -92,7 +92,7 @@ This idea has been challenged by some heterodox French and Italian economists in
 
 In the preliminary drafts of his *General Theory*, Keynes makes an interesting, albeit unexpected, reference to the second volume of Marx's *Capital*. In that volume, published posthumously by Engels in 1885, Marx clarifies that there are two distinct forms of exchange or circulation of goods in a capitalist society: simple circulation (selling to buy) and capitalist circulation (buying to sell).
 
-In the first form, which characterises a pre-capitalist market - or what Hyman Minsky might have called a *village fair* - the ultimate goal is to exchange one use value for another. Money here serves solely as a facilitator of exchange.
+In the first form, which characterises a pre-capitalist market - or what Hyman Minsky might have called a *village fair* - the ultimate goal is to exchange one use-value for another. Money here serves solely as a facilitator of exchange.
 
 In the second form, the essence of capitalism is revealed: the capitalist or the firm purchases labour force and means of production to be used in the production process, the end result of which is products that are sold in the market. The ultimate goal here is not the acquisition of specific use-values, but the realisation of a monetary surplus. This is because capitalism is not merely a system of producing commodities by means of commodities (a reference, of course, to Piero Sraffa, 1960), but also, and more importantly, a system of producing *more money* by means of money - that is, a monetary system of production and accumulation.
 
@@ -127,7 +127,7 @@ So, what is wrong with the above story? In short, everything. First, reserves ar
 
 #### A1.3.2 The relationship between money and prices
 
-The second corollary relates to the interpretation of Irving Fisher's [equation of exchange](https://en.wikipedia.org/wiki/Equation_of_exchange). This is, once again, an accounting identity that asserts that the value of goods exchanged is equal to the value of the money used for the exchange. In formula: $`Y × P = M × V`$, where $`Y`$ is an indicator of the volume of production (or a vector of physical quantities of goods), $`P`$ is the general price level (or a vector of unit prices for each good), $`M`$ is the total quantity of money, and $`V`$ is its velocity of circulation (i.e., the number of times it changes hands). The [quantity theory of money](https://en.wikipedia.org/wiki/Quantity_theory_of_money#:~:text=The%20quantity%20theory%20of%20money,runs%20from%20money%20to%20prices.) - pioneered by David Hume, accepted by David Ricardo and revived in the 1950s by Milton Friedman - asserts that, since production tends to a natural level defined by technology and the availability of factors, while the velocity of circulation of money is rather stable, it is possible to establish a direct relationship between the quantity of money injected into the system by monetary authorities and the price level: $`P = M × \bar{V} / \bar{Y}`$. Hence Friedman's famous statement that 'inflation is always and everywhere a monetary phenomenon'.
+The second corollary relates to the interpretation of Irving Fisher's [equation of exchange](https://en.wikipedia.org/wiki/Equation_of_exchange). This is, once again, an accounting identity that asserts that the value of goods exchanged is equal to the value of the money used for the exchange. In formula: $`Y × P = M × V`$, where $`Y`$ is an indicator of the volume of production (or a vector of physical quantities of goods), $`P`$ is the general price level (or a vector of unit prices for each good), $`M`$ is the total quantity of money, and $`V`$ is its velocity of circulation (i.e., the number of times it changes hands). The [quantity theory of money](https://en.wikipedia.org/wiki/Quantity_theory_of_money#:~:text=The%20quantity%20theory%20of%20money,runs%20from%20money%20to%20prices.) - pioneered by David Hume, accepted by David Ricardo and revived in the 1950s by Milton Friedman - asserts that, since production tends to a natural level defined by technology and the availability of factors, while the velocity of circulation of money is rather stable, it is possible to establish a direct relationship between the quantity of money injected into the system by monetary authorities and the price level: $`P = M × \bar{V} / \bar{Y}`$. Hence Friedman's famous statement that "inflation is always and everywhere a monetary phenomenon".
 
 However, the monetary and financial instability that has characterised the major world economies since the late 1970s has shown that the velocity of circulation of money is anything but stable, increasing during expansion phases and plummeting during recessions (as predicted by Keynes and Minsky, intuited before them by Thornton and Marx, and reluctantly acknowledged by Mankiw). Moreover, the possibility of defining a natural level of production independent of demand conditions and thus of firms' investments is blatantly contradicted by the need to continuously revise estimates of potential GDP. Finally, for years, the world's major central banks have abandoned any ambition to control monetary aggregates (the most striking case being the abandonment of the [second pillar of the ECB's monetary policy](https://www.ecb.europa.eu/pub/pdf/other/pp37_48_mb200011en.pdf)) to focus on regulating the policy interest rate, letting the supply of base money adjust to demand (through open market operations that play a passive adjustment role, not an active determination of monetary aggregates, as this would clash with the setting of the reference rate for the markets).
 
@@ -155,7 +155,7 @@ According to [Graziani](https://www.cambridge.org/core/books/monetary-theory-of-
 
 1. A complete theoretical analysis must explain the whole itinerary followed by money: creation, circulation, and destruction. Money existence and operation can be described as a *circuit*.
 
-1. The creation of money determines both the division of production between consumption and investment goods and the distribution of income between wages and profits. Therefore, the role of money goes far beyond that of lubricant of exchanges (and store of value). To the firms, the initial access to money is the source of profits.
+1. The creation of money determines both the division of production between consumption and investment goods and the distribution of income between wages and profits. Therefore, the role of money goes far beyond that of lubricant of exchanges (and store of value). To the firms, the initial access to money (to purchase labour power) is the source of profits.
 
 
 ## A3_A_Simple_MCT_Model
@@ -328,7 +328,7 @@ market flows back to the firms.
     <td>-950€ loans </td>
 </tr>
     <td>   </td>
-    <td> 50€ loans </td>    
+    <td> =50€ loans </td>    
 </tr>
   </table>
 
@@ -337,7 +337,7 @@ market flows back to the firms.
     <th colspan="2">Wage Earners</th>
   </tr>
   <tr>
-    <td width="300"> 50€ deposits</td>
+    <td width="300"> =50€ deposits</td>
     <td width="300"> </td>
   </tr>
   </table>
@@ -353,8 +353,8 @@ market flows back to the firms.
     <td> -950€ loans</td>
     <td> -950€ deposits (F) </td>
 </tr>
-    <td> 50€ loans </td>
-    <td> 50€ deposits (WE) </td>  
+    <td> =50€ loans </td>
+    <td> =50€ deposits (WE) </td>  
 </tr>
   </table>
 
