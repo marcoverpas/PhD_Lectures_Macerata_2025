@@ -337,7 +337,7 @@ market flows back to the firms.
     <th colspan="2">Wage Earners</th>
   </tr>
   <tr>
-    <td width="300"> =50€ deposits</td>
+    <td width="300"> 50€ deposits</td>
     <td width="300"> </td>
   </tr>
   </table>
