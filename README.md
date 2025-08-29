@@ -11,6 +11,8 @@ This repository includes the notes prepared for my lectures at the [PhD in Quant
   <img src="https://github.com/marcoverpas/figures/blob/main/qr_macerata.png" width="300" alt="QR Code">
 </p>
 
+:unlock: :copyright: *Note*: All the material in this repository is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1). You are encouraged to use it for non-commercial purposes, provided that proper credit is given.
+
 ## Table of Contents
 
 - [Lecture A - The monetary circuit theory](#Lecture_A_The_Monetary_Circuit_Theory)
