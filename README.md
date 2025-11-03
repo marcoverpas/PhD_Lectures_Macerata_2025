@@ -533,7 +533,7 @@ The aim of this lecture is to provide a simple introduction to SFC models (inclu
 
 ## B2_Model_PC
 
-This is one of the simplest SFC toy models and will we use it as our benchmark model. It is developed in chapter 4 of "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **PC** stands for "portfolio choice", because households can hold their wealth in terms of cash and/or government bills.
+This is one of the simplest SFC toy models and will we use it as our benchmark model. It is developed in chapter 4 of "[Monetary Economics. An Integrated Approach to Credit, Money, Income, Production and Wealth](https://link.springer.com/book/10.1007/978-1-137-08599-3)". **PC** stands for "portfolio choice", because households can hold their wealth in terms of cash and/or government bonds.
 
 Key assumptions are as follows:
 
@@ -541,7 +541,7 @@ Key assumptions are as follows:
 
 1. Four agents: households, “firms”, government, central bank
 
-1. Two financial assets: government bills and outside money (cash)
+1. Two financial assets: government bonds and outside money (cash)
 
 1. No investment (accumulation) and no inventories
 
@@ -560,7 +560,7 @@ The structure of Model PC is quite simple. Crucial identities of the model are d
 |:------------:|:------:     |:------:    |:------:     |:------:   |:---:     |
 |              |             |            |             |           |          |
 |Cash (money)  |$$H_h$$      |            |$$-H_s$$     |           |   0      |
-|Bills         |$$B_h$$      |            |$$B_{cb}$$   |$$-B_s$$   |   0      |
+|Bonds         |$$B_h$$      |            |$$B_{cb}$$   |$$-B_s$$   |   0      |
 |Wealth        |$$-V_h$$     |            |             |$$V_g$$    |   0      |
 |              |             |            |             |           |          |
 |Column tot.   |   0         |0           |0            |0          |   0      |
@@ -578,13 +578,13 @@ The structure of Model PC is quite simple. Crucial identities of the model are d
 |Taxes                  |$$-T$$               |                  |                         |$$T$$                |   0      |
 |                       |                     |                  |                         |                     |          |
 |Change in cash         |$$-\Delta H_h$$      |                  |$$\Delta H_s$$           |                     |   0      |
-|Change in bills        |$$-\Delta B_h$$      |                  |$$-\Delta B_{cb}$$       |$$\Delta B_s$$       |   0      |
+|Change in bonds        |$$-\Delta B_h$$      |                  |$$-\Delta B_{cb}$$       |$$\Delta B_s$$       |   0      |
 |                       |                     |                  |                         |                     |          |
 |Column tot.            |0                    |0                 |0                        |0                    |   0      |
 
 *Note*: The code needed to generate **Table 1** and **Table 2** can be accessed [here](https://github.com/marcoverpas/EAEPE_summer_school_2024/blob/main/eaepe_io_tables.R).
 
-Completing the identities derived from the tables above with behavioural equations for taxes, consumption, demand for bills, and the interest rate, we obtain the system of difference equations presented below.
+Completing the identities derived from the tables above with behavioural equations for taxes, consumption, demand for bonds, and the interest rate, we obtain the system of difference equations presented below.
 
 We start with the equation defining national income (identity), which is: 
 
@@ -596,7 +596,7 @@ Households'disposable income (identity) is:
 
 $$YD = Y - T + r_{-1} \cdot B_{h,-1} \quad \text{(2)} $$
 
-where $r$ is the interest rate and $B_h$ is households' holdings of bills. The subscript $-1$ stands for lagged variable.
+where $r$ is the interest rate and $B_h$ is households' holdings of bonds. The subscript $-1$ stands for lagged variable.
 
 Tax revenue (behavioural) is:
 
@@ -618,23 +618,23 @@ Cash held by households (identity) is:
 
 $$H_h = V_h - B_h \quad \text{(6)} $$
 
-The value of bills held by households (behavioural) is:
+The value of bonds held by households (behavioural) is:
 
 $$\frac{B_h}{V_h} = \lambda_0 + \lambda_1 \cdot r - \lambda_2 \cdot \frac{YD}{V_h} \quad \text{(7)} $$
 
-where $\lambda_0$ is the autonomous share of bills held by the households, $\lambda_1$ is the elasticity to the interest rate, and $\lambda_2$ captures households' liquidity preference.
+where $\lambda_0$ is the autonomous share of bonds held by the households, $\lambda_1$ is the elasticity to the interest rate, and $\lambda_2$ captures households' liquidity preference.
 
-The supply of bills (identity) is:
+The supply of bonds (identity) is:
 
 $$B_s = B_{s,-1} + G - T + r_{-1} \cdot ( B_{s,-1} - B_{cb,-1} ) \quad \text{(8)} $$
 
-where $B_{cb}$ is the amount of bills held by the central bank.
+where $B_{cb}$ is the amount of bonds held by the central bank.
 
 The supply of cash (identity) is:
 
 $$H_s = H_{s,-1} + \Delta B_{cb} \quad \text{(9)} $$
 
-The value of bills held by central bank (identity) is:
+The value of bonds held by central bank (identity) is:
 
 $$B_{cb} = B_s - B_h \quad \text{(10)} $$
 
@@ -644,7 +644,7 @@ $$r = \bar{r} \quad \text{(11)} $$
 
 where $\bar{r}$ is the policy rate set by the central bank.
 
-Two additional points should be considered. So far, no private spending variable in Model PC is directly affected by the interest rate. We can relax this assumption by allowing the propensity to consume out of income to be a negative function of the interest rate on bills:
+Two additional points should be considered. So far, no private spending variable in Model PC is directly affected by the interest rate. We can relax this assumption by allowing the propensity to consume out of income to be a negative function of the interest rate on bonds:
 
 $$ \alpha_1 = \alpha_{10} - \alpha_{11} \cdot r_{-1}  \quad \text{(12)} $$
 
@@ -654,11 +654,11 @@ $$H_s = H_h $$
 
 This equation must be excluded from the model, which is the reason it is sometimes called the *hidden equation*. However, it can be conveniently used to double-check the consistency of the model.
 
-One of the advantages of using such a simple model as a basic model, is that we can calculate the (quasi) steady-state solution for national income $`Y`$. We can do that by observing that in the steady state there must be no saving ($`C=YD`$) and household holdings of bills are stable ($`B_{h,−1}=B_h=B_h^{*}`$). Using these conditions and equations (2) and (3) in $`Y`$, we otain: 
+One of the advantages of using such a simple model as a basic model, is that we can calculate the (quasi) steady-state solution for national income $`Y`$. We can do that by observing that in the steady state there must be no saving ($`C=YD`$) and household holdings of bonds are stable ($`B_{h,−1}=B_h=B_h^{*}`$). Using these conditions and equations (2) and (3) in $`Y`$, we otain: 
 
 $$Y^{\*}= \frac{G + r \cdot B_h^{*} \cdot (1 − \theta)}{\theta}$$
 
-where $`B_h^{*}`$ is the steady-state value of household stock of bills.
+where $`B_h^{*}`$ is the steady-state value of household stock of bonds.
 
 The model can be easily simulated by identifying the coefficients and attributing an initial value to government spending ($G=G_0$, with $G_0>0$).
 
@@ -1205,7 +1205,7 @@ A simple experiment is to increase the (negative) temperature elasticity of the 
 src="https://github.com/marcoverpas/figures/blob/main/eco_plot_2.png" width="800">
 </figure>
 
-The figures above show that, while a higher sensitivity of consumption to an increase in temperature leads to an initial reduction in economic activity and environmental impacts, the situation reverses in the long run. This is because the private sector accumulates a higher stock of government bills, which, in turn, implies a higher flow of interest payments and thus a higher disposable income in the long run. Note that the level of the interest rate becomes a crucial variable for the determination of such rebound effects. 
+The figures above show that, while a higher sensitivity of consumption to an increase in temperature leads to an initial reduction in economic activity and environmental impacts, the situation reverses in the long run. This is because the private sector accumulates a higher stock of government bonds, which, in turn, implies a higher flow of interest payments and thus a higher disposable income in the long run. Note that the level of the interest rate becomes a crucial variable for the determination of such rebound effects. 
 
 ## B6_Policy_Implications
 
