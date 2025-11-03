@@ -610,7 +610,7 @@ $$V_h = V_{h,-1} + YD - C \quad \text{(4)} $$
 
 Consumption (hehavioural) is:
 
-$$C = \alpha_1 \cdot YD + \alpha_2 \cdot V_{-1} \quad \text{(5)} $$
+$$C = \alpha_1 \cdot YD + \alpha_2 \cdot V_{h,-1} \quad \text{(5)} $$
 
 where $\alpha_1$ is the propensity to consume out of income and $\alpha_2$ is the propensity to consume out of wealth.
 
