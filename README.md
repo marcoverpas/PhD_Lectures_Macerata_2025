@@ -1127,7 +1127,7 @@ $$o2 = emis - cen \quad \text{(37)} $$
 
 Stock of *energy reserves*:
 
-$$k_e = k_{e,-1} + conv_e - en \quad \text{(38)} $$
+$$k_e = k_{e,-1} + conv_e - nen \quad \text{(38)} $$
 
 Energy resources *converted* to reserves:
 
@@ -1181,7 +1181,7 @@ The related physical constraints (used to define ecosystem identities) are displ
 |Resources converted into reserves    |$$conv_m$$   |$$conv_e$$   |                 |            |
 |CO2 emissions                        |             |             |$$emis $$        |            |
 |Production of material goods         |             |             |                 |$$x_{mat} $$|
-|Extraction of matter / use of energy |$$-mat$$     |$$-en $$     |                 |            |
+|Extraction of matter / use of energy |$$-mat$$     |$$-nen $$    |                 |            |
 |Destruction of socio-economic stock  |             |             |                 |$$-dis$$    |
 |**FINAL STOCK**                      |$$k_m$$      |$$k_e$$      |$$co2_{cum}$$    |$$k_h$$     |
 
