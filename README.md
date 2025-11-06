@@ -1055,7 +1055,7 @@ where $\text{z}_{dc}$ is the vector defining the percentages of discarded socio-
 
 Stock of *durable goods*:
 
-$$ **\text{dc}** = **\text{dc}_{-1}** + **\text{B}_c** \cdot c - **\text{z}_{dc}** \cdot **\text{dc}_{-1}** \quad \text{(24)} $$
+$$ **\text{dc}** = **\text{dc}_{-1}** + **\text{B}_c** \cdot c - **\text{z}_{dc}** \odot **\text{dc}_{-1}** \quad \text{(24)} $$
 
 *Socioeconomic stock*:
 
