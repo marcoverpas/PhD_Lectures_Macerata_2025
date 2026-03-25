@@ -906,7 +906,7 @@ In comparison to Model PC, additional assumptions include:
 
 1. The composition of both consumption and government spending is exogenously defined
 
-It is also assumed that the marginal propensity to consume out of income is a negative function of the interest rate (as an increase in $r$ redistributes income from the wage earners to the rentiers, and the latter are marked by a lower propensity to consume). Based on these assumptions, a few additional equations are required to transform Model PC into Model IO-PC (on this model, see also my [keynote speech at the University of Florence](https://github.com/marcoverpas/keynote_speech_Florence/blob/main/README.md#2---assembling-blocks-from-model-pc-to-model-eco-3io-pc)).
+It is also assumed that the marginal propensity to consume out of income is a negative function of the interest rate (as an increase in $r$ redistributes income from the wage earners to the rentiers, and the latter are marked by a lower propensity to consume). Based on these assumptions, a few additional equations are required to transform Model PC into Model IO-PC (for a 3-industry model, see my [keynote speech at the University of Florence](https://github.com/marcoverpas/keynote_speech_Florence/blob/main/README.md#2---assembling-blocks-from-model-pc-to-model-eco-3io-pc)).
 
 Notice that scalars are represented using *italic characters*, whereas vectors and matrices are represented using non-italic characters hereafter.
 
