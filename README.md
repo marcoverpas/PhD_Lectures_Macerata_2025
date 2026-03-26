@@ -64,7 +64,7 @@ According to an initial theory, money emerges from the spontaneous interactions 
 
 This theory, however, faces three significant challenges. The first is theoretical: this conception relies on a framework where the subjective (marginal) utility derived from consuming a good or service forms the basis of its value and price. However, the utility of money is indirect, stemming from the goods or services it can purchase. This creates a logical circularity: the quantity of goods and services that can be bought depends on their prices in money, which, in turn, relies on money's exchange value. Thus, determining the utility and value of money requires prior knowledge of its value. While this issue can be resolved mathematically through the simultaneous determination of utility and value, co-determination is not logical causation.
 
-The other two issues are historical. Firstly, barter (namely, the direct exchange of goods and services without money) has historically both preceded and coexisted with monetary systems, rather than emerging only after them. Secondly, if we look back at history, only one type of money has dominated, that issued by the State, while private currencies have always played a secondary role. 
+The other two issues are historical. Firstly, barter (that is, the direct exchange of goods and services without money) has historically both coexisted with monetary systems and followed their breakdown, rather than emerging only after them. Secondly, if we look back at history, only one type of money has dominated, that issued by the State, while private currencies have always played a secondary role. 
 
 #### A1.2.2 Money as a liability issued by the State
 
