@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Issues in Monetary Policies and Monetary Circuits: PhD Lectures, University of Macerata"
+authors:
+  - family-names: "Veronese Passarella"
+    given-names: "Marco"
+    affiliation: "University of L'Aquila; University of Leeds"
+    orcid: "https://orcid.org/0000-0001-7652-5952"
+date-released: 2025-02-03
+url: "https://github.com/marcoverpas/PhD_Lectures_Macerata_2025"
+repository-code: "https://github.com/marcoverpas/PhD_Lectures_Macerata_2025"
+license: "CC-BY-NC-4.0"
+keywords:
+  - monetary circuit theory
+  - stock-flow consistent models
+  - monetary economics
+  - PhD lectures
+  - R
