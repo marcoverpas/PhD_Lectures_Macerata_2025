@@ -669,7 +669,7 @@ The model can be easily simulated by identifying the coefficients and attributin
 src="https://github.com/marcoverpas/figures/blob/main/Sim_Model_PC.png" width="800">
 </figure>
 
-You can access an interactive simulation of Model PC [here](https://x52gnt-marco-passarella.shinyapps.io/model_pc/).
+You can access an interactive simulation of Model PC [here](https://marcoverpas.github.io/PhD_Lectures_Macerata_2025/model_pc.html).
 
 A simple `R` code allowing to replicate the model and execute some experiments can be found [here](https://github.com/marcoverpas/Six_lectures_on_sfc_models/blob/main/PC_model_from_scratch.R). 
 
